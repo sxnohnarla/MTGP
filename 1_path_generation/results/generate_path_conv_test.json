@@ -1,0 +1,751 @@
+{"source": "dog", "target": "country", "generate": ["dog atlocation country"], "path": ["dog", "time", "kind", "town", "car", "job", "car", "love", "crowd", "time", "work", "bit", "country"]}
+{"source": "house", "target": "eat", "generate": ["house _atlocation dining room table usedfor eat"], "path": ["house", "love", "stone", "man", "school", "money", "eat"]}
+{"source": "work", "target": "place", "generate": ["work isa place"], "path": ["work", "use", "hear", "work", "fun", "cat", "dog", "read", "library", "read", "place"]}
+{"source": "time", "target": "time", "generate": ["time _isa latin isa time"], "path": ["time", "live", "work", "time"]}
+{"source": "birthday", "target": "lot", "generate": ["birthday _usedfor buying presents hasprerequisite lot"], "path": ["birthday", "medal", "gold", "money", "thing", "lot"]}
+{"source": "evening", "target": "bird", "generate": ["evening _atlocation rosebush atlocation yard usedfor bird"], "path": ["evening", "time", "hair", "cat", "love", "bird"]}
+{"source": "play", "target": "add", "generate": ["play hasfirstsubevent add"], "path": ["play", "dance", "mile", "live", "book", "add"]}
+{"source": "drive", "target": "live", "generate": ["drive _hasprerequisite live"], "path": ["drive", "school", "kid", "dog", "live"]}
+{"source": "love", "target": "time", "generate": ["love isa time"], "path": ["love", "play", "time", "work", "time"]}
+{"source": "school", "target": "sound", "generate": ["school _atlocation auditorium usedfor sing distinctfrom sound"], "path": ["school", "study", "school", "time", "sound"]}
+{"source": "farm", "target": "fun", "generate": ["farm _atlocation heifer atlocation indiana partof united states usedfor fun"], "path": ["farm", "work", "company", "play", "music", "fun"]}
+{"source": "school", "target": "shortbread", "generate": ["school _atlocation butter isa shortbread"], "path": ["school", "cook", "bread", "cookie", "shortbread"]}
+{"source": "family", "target": "hear", "generate": ["family _partof everybody desires cat capableof see distinctfrom hear"], "path": ["family", "friend", "enjoy", "movie", "music", "hear"]}
+{"source": "see", "target": "child", "generate": ["see _capableof child"], "path": ["see", "home", "stick", "child"]}
+{"source": "class", "target": "wilderness", "generate": ["class _atlocation lizard atlocation wilderness"], "path": ["class", "time", "sound", "time", "wilderness"]}
+{"source": "prepare", "target": "salt", "generate": ["prepare _hasprerequisite eat vegetables hasprerequisite salt"], "path": ["prepare", "food", "eat", "salt", "eat", "salt"]}
+{"source": "food", "target": "construction", "generate": ["food atlocation construction"], "path": ["food", "live", "concert", "sound", "work", "market", "car", "car", "construction"]}
+{"source": "fun", "target": "mix", "generate": ["fun _motivatedbygoal eat ice cream hasprerequisite mix"], "path": ["fun", "baby", "play", "work", "work", "mix"]}
+{"source": "ride", "target": "feel", "generate": ["ride _isa rollerblade _usedfor sidewalk capableof getting hot _causes going for run causes feel"], "path": ["ride", "time", "thing", "music", "instrument", "play", "drink", "job", "construction", "work", "feel"]}
+{"source": "work", "target": "sound", "generate": ["work _atlocation noise distinctfrom sound"], "path": ["work", "work", "work", "sound"]}
+{"source": "money", "target": "travel", "generate": ["money usedfor take trip _hasprerequisite travel"], "path": ["money", "child", "home", "travel"]}
+{"source": "money", "target": "listen", "generate": ["money _motivatedbygoal work box office haslastsubevent close window _hassubevent using computer hassubevent listen"], "path": ["money", "work", "food", "fish", "music", "school", "listen"]}
+{"source": "bad", "target": "drink", "generate": ["bad _hasproperty poison distinctfrom drink"], "path": ["bad", "water", "drink", "drink"]}
+{"source": "work", "target": "sound", "generate": ["work _atlocation noise distinctfrom sound"], "path": ["work", "work", "field", "farmer", "dog", "hiking", "travel", "mountain", "country", "work", "drive", "car", "music", "listen", "sound"]}
+{"source": "money", "target": "dance", "generate": ["money _hasprerequisite going to hairdresser hassubevent dance"], "path": ["money", "die", "dog", "home", "son", "dog", "basement", "dance"]}
+{"source": "live", "target": "spend", "generate": ["live hasprerequisite eat good food _hasprerequisite have fun _hassubevent spend money motivatedbygoal spend"], "path": ["live", "work", "farm", "spend"]}
+{"source": "day", "target": "healthy", "generate": ["day _isa monday hasa evening distinctfrom morning _motivatedbygoal eat breakfast in bed motivatedbygoal healthy"], "path": ["day", "living", "food", "movement", "work", "work", "work", "time", "food", "healthy"]}
+{"source": "living", "target": "need", "generate": ["living causes need"], "path": ["living", "dream", "day", "hope", "need"]}
+{"source": "game", "target": "event", "generate": ["game _isa tennis isa event"], "path": ["game", "kid", "love", "die", "use", "accident", "event"]}
+{"source": "cow", "target": "laboratory", "generate": ["cow atlocation laboratory"], "path": ["cow", "farmer", "work", "dance", "music", "love", "country", "laboratory"]}
+{"source": "leave", "target": "club", "generate": ["leave _haslastsubevent attend rock concert hasprerequisite get ride _usedfor taxiway turn off atlocation las vegas _atlocation club"], "path": ["leave", "thing", "mortgage", "care", "family", "club"]}
+{"source": "school", "target": "good", "generate": ["school hasproperty good"], "path": ["school", "work", "music", "rock", "love", "good"]}
+{"source": "kid", "target": "idea", "generate": ["kid capableof bicycle to work _capableof executive usedfor enforcing law _usedfor executive chair atlocation meeting _atlocation idea"], "path": ["kid", "dog", "home", "dog", "lady", "die", "time", "head", "idea"]}
+{"source": "daughter", "target": "church", "generate": ["daughter distinctfrom son partof child atlocation church"], "path": ["daughter", "dog", "time", "church"]}
+{"source": "lot", "target": "country", "generate": ["lot capableof piece of land _isa backyard atlocation country"], "path": ["lot", "eat", "food", "country"]}
+{"source": "live", "target": "power", "generate": ["live hasprerequisite eat good food _hasprerequisite live life motivatedbygoal life hasproperty energy distinctfrom power"], "path": ["live", "room", "bedroom", "house", "company", "power"]}
+{"source": "match", "target": "pay", "generate": ["match _hasprerequisite light match motivatedbygoal fulfilling purpose _motivatedbygoal work distinctfrom pay"], "path": ["match", "game", "thing", "house", "pay"]}
+{"source": "chemistry", "target": "fun", "generate": ["chemistry mannerof motion _mannerof golf isa fun"], "path": ["chemistry", "school", "work", "box", "place", "play", "dance", "school", "dog", "eye", "hair", "fun"]}
+{"source": "idea", "target": "thing", "generate": ["idea isa thing"], "path": ["idea", "city", "use", "thing"]}
+{"source": "friend", "target": "fight", "generate": ["friend causesdesire play game with friends hasprerequisite choose game _hasfirstsubevent play _causesdesire anger causesdesire fight"], "path": ["friend", "life", "time", "cloud", "place", "food", "fight"]}
+{"source": "thing", "target": "need", "generate": ["thing capableof need"], "path": ["thing", "stick", "machine", "body", "dog", "need"]}
+{"source": "day", "target": "dog", "generate": ["day _atlocation dog"], "path": ["day", "time", "exercise", "love", "eat", "diet", "pet", "dog", "dog"]}
+{"source": "love", "target": "soccer", "generate": ["love _usedfor competing against usedfor sport _isa soccer"], "path": ["love", "music", "music", "soccer"]}
+{"source": "play", "target": "read", "generate": ["play hasfirstsubevent read"], "path": ["play", "pet", "dog", "dog", "drive", "read", "read"]}
+{"source": "see", "target": "year", "generate": ["see _capableof year"], "path": ["see", "time", "work", "year"]}
+{"source": "cook", "target": "plan", "generate": ["cook hasprerequisite plan"], "path": ["cook", "food", "food", "soup", "love", "war", "school", "teacher", "job", "plan"]}
+{"source": "home", "target": "love", "generate": ["home usedfor love"], "path": ["home", "man", "work", "character", "love"]}
+{"source": "music", "target": "contest", "generate": ["music _isa rock and roll isa music partof contest"], "path": ["music", "roof", "rock", "food", "store", "stuff", "need", "win", "contest"]}
+{"source": "plan", "target": "eat", "generate": ["plan _hasprerequisite eat"], "path": ["plan", "time", "step", "cook", "eat"]}
+{"source": "van", "target": "art", "generate": ["van _isa chevrolet g series van isa van capableof drive down street _capableof bus _atlocation art"], "path": ["van", "wage", "job", "year", "age", "learn", "school", "art"]}
+{"source": "fun", "target": "tube", "generate": ["fun _hasproperty web surfing _usedfor getting onto web hasprerequisite browser capableof stream media _capableof tube"], "path": ["fun", "music", "music", "pipe", "tube"]}
+{"source": "child", "target": "money", "generate": ["child capableof come home _haslastsubevent go to work _causesdesire money"], "path": ["child", "pet", "child", "family", "doctor", "money"]}
+{"source": "sound", "target": "grow", "generate": ["sound _isa grow"], "path": ["sound", "use", "work", "grow"]}
+{"source": "care", "target": "subject", "generate": ["care isa word partof sentence _partof subject"], "path": ["care", "business", "bar", "drink", "man", "play", "teaching", "subject"]}
+{"source": "break", "target": "school", "generate": ["break _capableof chalkboard atlocation school"], "path": ["break", "music", "listen", "college", "school", "college", "school"]}
+{"source": "job", "target": "walk", "generate": ["job causesdesire go to work hasprerequisite get out of bed _hasprerequisite walk"], "path": ["job", "home", "work", "gym", "park", "watch", "time", "walk"]}
+{"source": "play", "target": "boy", "generate": ["play _desires little girl capableof dress doll _capableof boy"], "path": ["play", "game", "play", "woman", "music", "music", "wear", "dog", "boy"]}
+{"source": "cream", "target": "fun", "generate": ["cream hasa taste distinctfrom sight _hasprerequisite visiting art gallery usedfor fun"], "path": ["cream", "good", "love", "time", "hobby", "play", "play", "fun"]}
+{"source": "music", "target": "work", "generate": ["music isa profession _isa clerk atlocation work"], "path": ["music", "classical", "music", "care", "work"]}
+{"source": "music", "target": "hope", "generate": ["music isa aphrodisiac _isa hope"], "path": ["music", "school", "study", "school", "year", "school", "hope"]}
+{"source": "area", "target": "pet", "generate": ["area _isa yard _atlocation wiener dog isa pet"], "path": ["area", "time", "live", "child", "dog", "pet"]}
+{"source": "dog", "target": "guess", "generate": ["dog capableof guess"], "path": ["dog", "time", "walk", "use", "school", "love", "guess"]}
+{"source": "subject", "target": "boy", "generate": ["subject _isa algebra _partof variety _usedfor making bread usedfor baker distinctfrom boy"], "path": ["subject", "school", "dog", "boy"]}
+{"source": "story", "target": "sing", "generate": ["story usedfor entertaining hassubevent sing"], "path": ["story", "sing", "song", "song", "sing"]}
+{"source": "paint", "target": "paint", "generate": ["paint hasprerequisite get canvas _hasprerequisite paint"], "path": ["paint", "horse", "picture", "color", "paint"]}
+{"source": "park", "target": "cook", "generate": ["park _atlocation hot dog buns receivesaction made from grain _receivesaction hot dog buns _hasa delicatessen usedfor cook"], "path": ["park", "cooking", "stuff", "cook"]}
+{"source": "picture", "target": "teach", "generate": ["picture usedfor teach"], "path": ["picture", "food", "place", "food", "class", "love", "student", "teacher", "teach"]}
+{"source": "thing", "target": "movie", "generate": ["thing capableof fall down _capableof building _isa theater _atlocation movie"], "path": ["thing", "work", "place", "place", "see", "change", "movie"]}
+{"source": "cold", "target": "enjoy", "generate": ["cold _hasproperty ice cream capableof delight child _motivatedbygoal fly kite motivatedbygoal enjoy"], "path": ["cold", "summer", "sound", "love", "enjoy"]}
+{"source": "horse", "target": "horse", "generate": ["horse atlocation canada _atlocation horse"], "path": ["horse", "animal", "horse", "music", "city", "work", "car", "country", "horse", "horse"]}
+{"source": "camp", "target": "day", "generate": ["camp isa place _isa moon usedfor day"], "path": ["camp", "wood", "camp", "day"]}
+{"source": "thing", "target": "need", "generate": ["thing capableof need"], "path": ["thing", "eat", "work", "pizza", "eat", "need"]}
+{"source": "city", "target": "play", "generate": ["city _atlocation theater hall usedfor play"], "path": ["city", "game", "instrument", "play", "lot", "violin", "play"]}
+{"source": "sunset", "target": "teach", "generate": ["sunset isa qualitative time of day _isa midday _motivatedbygoal have lunch hasprerequisite find teacher _hasprerequisite teach"], "path": ["sunset", "color", "pet", "teach"]}
+{"source": "power", "target": "power", "generate": ["power isa form of energy _isa power"], "path": ["power", "body", "time", "walk", "love", "war", "power"]}
+{"source": "life", "target": "eating", "generate": ["life _partof eating"], "path": ["life", "mind", "body", "excercise", "eating"]}
+{"source": "eye", "target": "year", "generate": ["eye _partof year"], "path": ["eye", "dancing", "work", "time", "moon", "year"]}
+{"source": "dog", "target": "play", "generate": ["dog capableof play"], "path": ["dog", "breed", "door", "cat", "play"]}
+{"source": "coffee", "target": "read", "generate": ["coffee atlocation resturant _atlocation menus usedfor read"], "path": ["coffee", "type", "father", "man", "kid", "chocolate", "mountain", "work", "use", "time", "read"]}
+{"source": "cat", "target": "lot", "generate": ["cat isa thing distinctfrom lot"], "path": ["cat", "dog", "collection", "lot"]}
+{"source": "love", "target": "friend", "generate": ["love _capableof friend"], "path": ["love", "today", "work", "school", "love", "friend"]}
+{"source": "time", "target": "coach", "generate": ["time _hasprerequisite playing football hasprerequisite football team _partof coach"], "path": ["time", "metal", "music", "coach"]}
+{"source": "sport", "target": "hear", "generate": ["sport _isa dance motivatedbygoal hear"], "path": ["sport", "love", "watch", "counting", "pet", "hear"]}
+{"source": "lot", "target": "meditation", "generate": ["lot distinctfrom little _isa little purpose isa purpose _usedfor action _causes contemplating usedfor meditation"], "path": ["lot", "life", "need", "meditation"]}
+{"source": "year", "target": "world", "generate": ["year _partof decade _isa one unit of time isa century _atlocation world"], "path": ["year", "school", "mouse", "love", "world"]}
+{"source": "grow", "target": "food", "generate": ["grow _capableof all living things _usedfor earth _atlocation sand isa food"], "path": ["grow", "living", "time", "cat", "food"]}
+{"source": "year", "target": "day", "generate": ["year _partof day"], "path": ["year", "see", "movie", "movie", "time", "day"]}
+{"source": "farm", "target": "simple", "generate": ["farm _atlocation heifer atlocation art hasproperty simple"], "path": ["farm", "music", "language", "fun", "simple"]}
+{"source": "relationship", "target": "subject", "generate": ["relationship causesdesire live isa mystery _partof subject"], "path": ["relationship", "child", "family", "school", "teacher", "work", "subject"]}
+{"source": "guide", "target": "study", "generate": ["guide _usedfor rule atlocation classroom usedfor study"], "path": ["guide", "use", "love", "horse", "drink", "study"]}
+{"source": "record", "target": "track", "generate": ["record _isa written record isa record atlocation office _atlocation track"], "path": ["record", "queen", "school", "fun", "school", "time", "track"]}
+{"source": "computer", "target": "swim", "generate": ["computer capableof cast shadow _capableof cat desires go outside _hasprerequisite swim"], "path": ["computer", "play", "love", "learn", "swim"]}
+{"source": "play", "target": "fan", "generate": ["play _usedfor stadium _atlocation fan"], "path": ["play", "parent", "singer", "fan"]}
+{"source": "home", "target": "feel", "generate": ["home usedfor relax hasfirstsubevent feel"], "path": ["home", "love", "work", "use", "feel"]}
+{"source": "set", "target": "diet", "generate": ["set _hasfirstsubevent climb mountain motivatedbygoal prove can do _motivatedbygoal ride bicycle _causesdesire diet"], "path": ["set", "house", "home", "walk", "time", "eat", "diet"]}
+{"source": "cut", "target": "read", "generate": ["cut _receivesaction paper usedfor read"], "path": ["cut", "read", "read", "reading", "read"]}
+{"source": "car", "target": "care", "generate": ["car capableof set off _hasfirstsubevent go somewhere _causesdesire travel arrangements _hassubevent play chess hassubevent care"], "path": ["car", "drive", "truck", "car", "music", "play", "music", "feel", "care"]}
+{"source": "listen", "target": "living", "generate": ["listen _hassubevent living"], "path": ["listen", "play", "money", "office", "living"]}
+{"source": "money", "target": "hat", "generate": ["money atlocation hat shop _atlocation hat"], "path": ["money", "hat", "clothing", "hat"]}
+{"source": "play", "target": "hair", "generate": ["play _usedfor hair"], "path": ["play", "house", "work", "office", "school", "animal", "hair"]}
+{"source": "horse", "target": "love", "generate": ["horse usedfor love"], "path": ["horse", "farm", "country", "family", "work", "wife", "school", "food", "love"]}
+{"source": "dancing", "target": "pet", "generate": ["dancing hassubevent show off _motivatedbygoal have friends over motivatedbygoal companionship _usedfor pet"], "path": ["dancing", "dance", "raise", "pet"]}
+{"source": "toy", "target": "gym", "generate": ["toy atlocation gym"], "path": ["toy", "door", "love", "bread", "gym"]}
+{"source": "parent", "target": "close", "generate": ["parent capableof close"], "path": ["parent", "family", "play", "farmer", "pay", "money", "music", "food", "close"]}
+{"source": "nice", "target": "family", "generate": ["nice _hasproperty family"], "path": ["nice", "pet", "cat", "family"]}
+{"source": "dog", "target": "recover", "generate": ["dog capableof run across field _hassubevent fly kite motivatedbygoal have fun haslastsubevent recover"], "path": ["dog", "slow", "travel", "recover"]}
+{"source": "color", "target": "love", "generate": ["color _isa love"], "path": ["color", "food", "eat", "love"]}
+{"source": "cheeseburger", "target": "band", "generate": ["cheeseburger atlocation fast food restaurant _atlocation junk food _isa chips isa band"], "path": ["cheeseburger", "shape", "use", "uniform", "clothing", "band"]}
+{"source": "model", "target": "thing", "generate": ["model isa thing"], "path": ["model", "music", "house", "long", "house", "cat", "thing"]}
+{"source": "movie", "target": "know", "generate": ["movie usedfor learn motivatedbygoal know"], "path": ["movie", "song", "love", "friend", "know"]}
+{"source": "color", "target": "drink", "generate": ["color _isa orange capableof taste sour _capableof milk usedfor drink"], "path": ["color", "drink", "cup", "drink"]}
+{"source": "hear", "target": "pet", "generate": ["hear distinctfrom smell _capableof pet"], "path": ["hear", "music", "music", "play", "work", "job", "nature", "weight", "weight", "kid", "dog", "pet"]}
+{"source": "mouse", "target": "movie", "generate": ["mouse atlocation movie"], "path": ["mouse", "city", "grade", "school", "movie"]}
+{"source": "money", "target": "dog", "generate": ["money _desires dog"], "path": ["money", "sing", "song", "time", "car", "dog", "dog"]}
+{"source": "fun", "target": "work", "generate": ["fun distinctfrom work"], "path": ["fun", "play", "toy", "play", "kid", "love", "feel", "work"]}
+{"source": "good", "target": "kind", "generate": ["good distinctfrom kind"], "path": ["good", "money", "work", "kind"]}
+{"source": "year", "target": "type", "generate": ["year isa time _hasprerequisite using computer hassubevent type"], "path": ["year", "work", "view", "type"]}
+{"source": "biking", "target": "roll", "generate": ["biking hasproperty good for health _hasproperty biking isa ride distinctfrom roll"], "path": ["biking", "work", "buy", "time", "watch", "watch", "drink", "crown", "drink", "roll"]}
+{"source": "brother", "target": "lot", "generate": ["brother isa sibling atlocation family _atlocation lot"], "path": ["brother", "work", "school", "family", "school", "time", "live", "food", "lot"]}
+{"source": "animal", "target": "money", "generate": ["animal _isa mink hasa four legs _hasa guinea pigs atlocation school _atlocation money"], "path": ["animal", "farm", "dog", "dog", "walk", "walking", "walk", "exercise", "kind", "day", "house", "music", "door", "money"]}
+{"source": "band", "target": "school", "generate": ["band _isa cure atlocation doctor usedfor healing sick _usedfor school"], "path": ["band", "band", "year", "day", "work", "gym", "school", "school"]}
+{"source": "bar", "target": "medicine", "generate": ["bar _atlocation alcohol isa medicine"], "path": ["bar", "walk", "farm", "horse", "medicine"]}
+{"source": "nice", "target": "family", "generate": ["nice _hasproperty family"], "path": ["nice", "fish", "live", "travel", "farm", "horse", "family"]}
+{"source": "horse", "target": "love", "generate": ["horse atlocation history isa photography mannerof emotion _isa love"], "path": ["horse", "farm", "lawyer", "city", "farm", "play", "city", "city", "horse", "city", "child", "fit", "place", "need", "love"]}
+{"source": "labor", "target": "year", "generate": ["labor _usedfor slave atlocation history distinctfrom year"], "path": ["labor", "work", "live", "work", "read", "book", "long", "year"]}
+{"source": "great", "target": "hobby", "generate": ["great _hasproperty sex isa hobby"], "path": ["great", "care", "love", "cat", "food", "collection", "lot", "win", "sport", "hobby"]}
+{"source": "love", "target": "boy", "generate": ["love _desires child _isa girl distinctfrom boy"], "path": ["love", "time", "dog", "age", "boy", "friend", "boy"]}
+{"source": "day", "target": "year", "generate": ["day distinctfrom year"], "path": ["day", "eat", "married", "girl", "children", "year"]}
+{"source": "horse", "target": "color", "generate": ["horse atlocation color"], "path": ["horse", "treatment", "cut", "dance", "horse", "child", "school", "horse", "paint", "color"]}
+{"source": "pet", "target": "animal", "generate": ["pet isa animal"], "path": ["pet", "food", "fun", "cook", "cat", "boat", "animal"]}
+{"source": "roll", "target": "event", "generate": ["roll _hassubevent playing ball usedfor competition isa event"], "path": ["roll", "drive", "work", "work", "money", "play", "play", "love", "play", "play", "game", "event"]}
+{"source": "drive", "target": "seat", "generate": ["drive _usedfor seat"], "path": ["drive", "car", "handle", "heat", "seat"]}
+{"source": "evening", "target": "band", "generate": ["evening _atlocation band"], "path": ["evening", "color", "work", "sport", "band", "music", "sport", "love", "food", "love", "work", "music", "play", "music", "band"]}
+{"source": "power", "target": "play", "generate": ["power _hasprerequisite using vcr causes watch movie hassubevent laugh _hassubevent play"], "path": ["power", "play", "game", "play"]}
+{"source": "hear", "target": "sound", "generate": ["hear distinctfrom sound"], "path": ["hear", "listen", "fun", "drink", "sound"]}
+{"source": "bit", "target": "gold", "generate": ["bit partof bridle _partof bit"], "path": ["bit", "work", "use", "competition", "gold"]}
+{"source": "love", "target": "use", "generate": ["love causesdesire buy small motivatedbygoal use"], "path": ["love", "life", "time", "rule", "government", "opinion", "use"]}
+{"source": "life", "target": "stone", "generate": ["life _usedfor brook _atlocation stone"], "path": ["life", "food", "eat", "love", "board", "economics", "work", "music", "music", "stone"]}
+{"source": "paint", "target": "silver", "generate": ["paint hasproperty opaque _hasproperty silver"], "path": ["paint", "sound", "color", "green", "silver"]}
+{"source": "church", "target": "weather", "generate": ["church _atlocation faith capableof move mountains _capableof weather"], "path": ["church", "country", "live", "weather"]}
+{"source": "fishing", "target": "use", "generate": ["fishing hassubevent cast line _hasfirstsubevent wait turn motivatedbygoal use"], "path": ["fishing", "fish", "water", "water", "book", "use"]}
+{"source": "thing", "target": "know", "generate": ["thing capableof surprise distinctfrom know"], "path": ["thing", "thing", "money", "know"]}
+{"source": "clean", "target": "grenade", "generate": ["clean _hasfirstsubevent have food hasfirstsubevent divide _usedfor divider atlocation street _atlocation grenade"], "path": ["clean", "eat", "work", "war", "instrument", "play", "guitar", "school", "war", "grenade"]}
+{"source": "beverage", "target": "drive", "generate": ["beverage _isa pepsi atlocation drive"], "path": ["beverage", "coffee", "glass", "child", "drive"]}
+{"source": "hair", "target": "class", "generate": ["hair atlocation class"], "path": ["hair", "use", "market", "money", "school", "class"]}
+{"source": "male", "target": "hobby", "generate": ["male _hasproperty all bulls isa cows _usedfor storage pan atlocation garage _atlocation hobby"], "path": ["male", "hair", "skin", "food", "day", "time", "work", "hobby"]}
+{"source": "work", "target": "need", "generate": ["work _causesdesire need"], "path": ["work", "sound", "work", "need"]}
+{"source": "road", "target": "year", "generate": ["road _isa year"], "path": ["road", "city", "city", "farm", "company", "year"]}
+{"source": "living", "target": "degree", "generate": ["living causes learning usedfor knowing more _causes learning about subject hasprerequisite degree"], "path": ["living", "study", "student", "degree"]}
+{"source": "food", "target": "love", "generate": ["food _hasprerequisite living life causes love"], "path": ["food", "love", "fun", "dance", "action", "painting", "fun", "use", "play", "love"]}
+{"source": "character", "target": "song", "generate": ["character partof word _isa song"], "path": ["character", "thing", "lot", "sound", "song"]}
+{"source": "break", "target": "dog", "generate": ["break _capableof bones _hasa dog"], "path": ["break", "war", "fun", "football", "love", "state", "living", "school", "art", "animal", "dog"]}
+{"source": "morning", "target": "live", "generate": ["morning _motivatedbygoal begin work hasprerequisite stop procrastinating _hasprerequisite work distinctfrom live"], "path": ["morning", "age", "baby", "game", "dad", "leave", "live"]}
+{"source": "dance", "target": "year", "generate": ["dance _isa act isa time partof year"], "path": ["dance", "shop", "child", "shoe", "dance", "year"]}
+{"source": "eat", "target": "job", "generate": ["eat _hassubevent get job motivatedbygoal job"], "path": ["eat", "work", "house", "job"]}
+{"source": "love", "target": "color", "generate": ["love isa color"], "path": ["love", "love", "dog", "work", "order", "color"]}
+{"source": "woman", "target": "dog", "generate": ["woman isa dog"], "path": ["woman", "dog", "farm", "time", "love", "pet", "cat", "dog"]}
+{"source": "block", "target": "bear", "generate": ["block _hasa ice cube isa ice _atlocation bear"], "path": ["block", "evening", "dance", "adopt", "bear"]}
+{"source": "dog", "target": "sound", "generate": ["dog capableof hear distinctfrom sound"], "path": ["dog", "library", "book", "book", "skill", "work", "stuff", "milk", "cow", "sound"]}
+{"source": "sale", "target": "kind", "generate": ["sale atlocation furniture store _atlocation love seat usedfor entertaining hasprerequisite humour causesdesire make people laugh motivatedbygoal kind"], "path": ["sale", "cover", "park", "car", "kind"]}
+{"source": "game", "target": "car", "generate": ["game _isa racing _usedfor car"], "path": ["game", "drive", "job", "pay", "company", "insurance", "policy", "need", "car"]}
+{"source": "boat", "target": "sound", "generate": ["boat _atlocation sound"], "path": ["boat", "sea", "music", "mind", "sound"]}
+{"source": "live", "target": "work", "generate": ["live hasprerequisite work"], "path": ["live", "learn", "language", "word", "work"]}
+{"source": "game", "target": "movie", "generate": ["game _isa pillow fight isa pillow fight atlocation movie"], "path": ["game", "duty", "game", "fun", "action", "movie"]}
+{"source": "human", "target": "day", "generate": ["human atlocation outer space _atlocation day"], "path": ["human", "human", "door", "day"]}
+{"source": "meal", "target": "piece", "generate": ["meal _partof piece"], "path": ["meal", "feed", "fish", "piece", "piece"]}
+{"source": "word", "target": "cat", "generate": ["word _isa four letter word hasproperty bad _hasproperty joke _atlocation cat"], "path": ["word", "idea", "problem", "time", "cat"]}
+{"source": "fun", "target": "country", "generate": ["fun _hasproperty camping _usedfor woods atlocation country"], "path": ["fun", "music", "music", "work", "music", "country"]}
+{"source": "hair", "target": "music", "generate": ["hair _atlocation wave clip atlocation music"], "path": ["hair", "time", "school", "music", "music", "instrument", "play", "music"]}
+{"source": "life", "target": "mention", "generate": ["life _partof paying taxes partof life isa bore distinctfrom funny _motivatedbygoal give plug hasprerequisite mention"], "path": ["life", "game", "love", "game", "mention"]}
+{"source": "count", "target": "boy", "generate": ["count _capableof child _isa girl distinctfrom boy"], "path": ["count", "read", "book", "boy"]}
+{"source": "party", "target": "nurse", "generate": ["party _atlocation reception atlocation receptionist capableof page doctor _capableof nurse"], "path": ["party", "time", "chicken", "dog", "living", "produce", "nurse"]}
+{"source": "bear", "target": "kid", "generate": ["bear capableof trip on curb _capableof pedestrian isa human adult _isa kid"], "path": ["bear", "love", "music", "rock", "kid"]}
+{"source": "color", "target": "book", "generate": ["color _isa black _hasproperty book"], "path": ["color", "type", "farm", "care", "dog", "living", "dog", "life", "dog", "good", "farm", "lot", "book"]}
+{"source": "model", "target": "hear", "generate": ["model isa visual information source _isa hear"], "path": ["model", "good", "fun", "ear", "hear"]}
+{"source": "dance", "target": "lot", "generate": ["dance hassubevent spin isa revolve _capableof earth distinctfrom heaven _atlocation lot"], "path": ["dance", "music", "color", "work", "work", "work", "class", "dog", "lot"]}
+{"source": "great", "target": "love", "generate": ["great _hasproperty sex _createdby baby capableof bring joy _capableof love"], "path": ["great", "day", "work", "father", "parent", "father", "adopt", "love"]}
+{"source": "doctor", "target": "cool", "generate": ["doctor hasproperty cool"], "path": ["doctor", "money", "time", "day", "use", "see", "fun", "cool"]}
+{"source": "live", "target": "pet", "generate": ["live _capableof pet"], "path": ["live", "live", "house", "child", "water", "drink", "pet"]}
+{"source": "hair", "target": "support", "generate": ["hair usedfor support"], "path": ["hair", "curl", "hair", "use", "animal", "use", "support"]}
+{"source": "sun", "target": "adult", "generate": ["sun capableof age gracefully _capableof lady isa adult"], "path": ["sun", "kid", "school", "year", "play", "adult"]}
+{"source": "fish", "target": "travel", "generate": ["fish _causesdesire hunger causesdesire go somewhere hasprerequisite travel"], "path": ["fish", "work", "day", "morning", "work", "place", "travel"]}
+{"source": "job", "target": "song", "generate": ["job usedfor earning living hassubevent record _atlocation song"], "path": ["job", "music", "grow", "song", "music", "song"]}
+{"source": "city", "target": "work", "generate": ["city _atlocation office building usedfor work"], "path": ["city", "country", "cow", "child", "parent", "dad", "farm", "office", "work"]}
+{"source": "cat", "target": "brother", "generate": ["cat atlocation family _atlocation brother"], "path": ["cat", "dog", "brother", "dad", "child", "sibling", "brother"]}
+{"source": "car", "target": "dog", "generate": ["car _atlocation dog"], "path": ["car", "walk", "drive", "school", "roll", "school", "dog"]}
+{"source": "band", "target": "playing", "generate": ["band _isa toy box _atlocation toy ball usedfor playing"], "path": ["band", "time", "action", "playing"]}
+{"source": "mean", "target": "farm", "generate": ["mean _hasproperty animals atlocation farm"], "path": ["mean", "live", "family", "life", "color", "work", "lot", "farm"]}
+{"source": "enjoy", "target": "pay", "generate": ["enjoy _motivatedbygoal buy products haslastsubevent pay"], "path": ["enjoy", "job", "dog", "job", "pay"]}
+{"source": "music", "target": "provide", "generate": ["music isa provide"], "path": ["music", "play", "play", "sing", "music", "garage", "play", "pay", "money", "provide"]}
+{"source": "dog", "target": "rock", "generate": ["dog atlocation outside _atlocation rock"], "path": ["dog", "work", "play", "music", "rock"]}
+{"source": "see", "target": "band", "generate": ["see _usedfor sound atlocation band"], "path": ["see", "cat", "music", "hair", "dog", "pet", "band"]}
+{"source": "animal", "target": "color", "generate": ["animal _isa sponge capableof hold water _capableof sponge hasproperty opaque _hasproperty color"], "path": ["animal", "blue", "buy", "color"]}
+{"source": "age", "target": "travel", "generate": ["age _capableof time _hasprerequisite travel"], "path": ["age", "product", "library", "work", "travel"]}
+{"source": "day", "target": "enjoy", "generate": ["day _isa year isa time _hasprerequisite watching movie causes enjoy"], "path": ["day", "parent", "child", "play", "play", "class", "sound", "song", "time", "love", "house", "movie", "enjoy"]}
+{"source": "farm", "target": "life", "generate": ["farm _atlocation heifer atlocation heat _hasprerequisite life"], "path": ["farm", "cat", "dog", "sound", "farm", "watch", "sound", "life"]}
+{"source": "grade", "target": "good", "generate": ["grade _usedfor writing program causes late nights _causes writing program hasprerequisite knowledge hasproperty good"], "path": ["grade", "time", "kid", "woman", "girl", "mouse", "house", "eat", "shop", "good"]}
+{"source": "lot", "target": "adult", "generate": ["lot capableof piece of land _isa backyard _atlocation kid distinctfrom adult"], "path": ["lot", "play", "mouse", "dog", "love", "adult"]}
+{"source": "park", "target": "love", "generate": ["park _atlocation soccer field atlocation mexico isa country in north america _isa united states usedfor love"], "path": ["park", "love", "car", "job", "work", "girl", "time", "love", "man", "love"]}
+{"source": "play", "target": "sound", "generate": ["play _usedfor sound"], "path": ["play", "walk", "head", "sound"]}
+{"source": "practice", "target": "kind", "generate": ["practice _hasprerequisite compete against motivatedbygoal try to win _hassubevent compete against hasprerequisite kind"], "path": ["practice", "work", "rule", "job", "work", "kind"]}
+{"source": "fit", "target": "know", "generate": ["fit _motivatedbygoal buy shirt motivatedbygoal know"], "path": ["fit", "time", "money", "know"]}
+{"source": "finish", "target": "enjoy", "generate": ["finish _motivatedbygoal begin work motivatedbygoal enjoy"], "path": ["finish", "country", "time", "country", "play", "enjoy"]}
+{"source": "living", "target": "good", "generate": ["living hasproperty good"], "path": ["living", "place", "money", "good"]}
+{"source": "club", "target": "color", "generate": ["club usedfor beat up _motivatedbygoal punch _causesdesire prejudice _isa racism hasproperty bad _hasproperty color"], "path": ["club", "camp", "iron", "nature", "color"]}
+{"source": "power", "target": "accomplish", "generate": ["power _hasprerequisite using vcr hassubevent curse _hassubevent run errands motivatedbygoal accomplish"], "path": ["power", "wedding", "mean", "thing", "accomplish"]}
+{"source": "wear", "target": "computer", "generate": ["wear _usedfor pair of pants usedfor protection _isa linux atlocation computer"], "path": ["wear", "shoe", "band", "talk", "play", "roll", "computer"]}
+{"source": "fish", "target": "class", "generate": ["fish _isa herring _atlocation herringbone atlocation school isa class"], "path": ["fish", "dog", "dog", "color", "play", "school", "class"]}
+{"source": "dog", "target": "grow", "generate": ["dog capableof grow"], "path": ["dog", "bread", "dog", "year", "work", "die", "grow"]}
+{"source": "friend", "target": "hill", "generate": ["friend capableof let win _hassubevent playing game with friends usedfor having fun hassubevent climbing tree _usedfor hill"], "path": ["friend", "pet", "animal", "time", "animal", "vegetarian", "animal", "smoke", "hill"]}
+{"source": "need", "target": "food", "generate": ["need _capableof food"], "path": ["need", "eat", "eat", "food"]}
+{"source": "play", "target": "play", "generate": ["play haslastsubevent win or loose _haslastsubevent play"], "path": ["play", "use", "head", "sport", "play", "practice", "play", "watch", "play"]}
+{"source": "read", "target": "band", "generate": ["read _receivesaction music _isa rock and roll isa band"], "path": ["read", "eat", "work", "game", "play", "play", "color", "band", "game", "band"]}
+{"source": "dog", "target": "pet", "generate": ["dog capableof pet"], "path": ["dog", "animal", "dog", "animal", "pet"]}
+{"source": "food", "target": "fun", "generate": ["food usedfor fun"], "path": ["food", "drink", "eat", "fun"]}
+{"source": "garden", "target": "ocean", "generate": ["garden _atlocation sand atlocation ocean"], "path": ["garden", "love", "dog", "travel", "time", "art", "church", "school", "live", "country", "ocean"]}
+{"source": "living", "target": "family", "generate": ["living _usedfor family"], "path": ["living", "work", "dog", "great", "animal", "family"]}
+{"source": "job", "target": "cookie", "generate": ["job atlocation cookie"], "path": ["job", "time", "soup", "cookie"]}
+{"source": "young", "target": "family", "generate": ["young distinctfrom age isa newspaper _atlocation house partof family"], "path": ["young", "age", "family", "money", "cat", "pet", "bird", "cat", "animal", "family"]}
+{"source": "parent", "target": "mom", "generate": ["parent capableof mother child _capableof mom"], "path": ["parent", "parent", "parent", "mom"]}
+{"source": "internet", "target": "job", "generate": ["internet _atlocation web sites _usedfor posting message usedfor earning living hasprerequisite job"], "path": ["internet", "lot", "dog", "dog", "food", "money", "job"]}
+{"source": "park", "target": "market", "generate": ["park _atlocation vending stand atlocation market"], "path": ["park", "match", "money", "bar", "money", "job", "market"]}
+{"source": "eat", "target": "child", "generate": ["eat _capableof child"], "path": ["eat", "husband", "marriage", "relationship", "child"]}
+{"source": "food", "target": "time", "generate": ["food isa time"], "path": ["food", "business", "work", "school", "time"]}
+{"source": "bug", "target": "rate", "generate": ["bug _capableof secret _hasproperty bid for contract isa rate"], "path": ["bug", "number", "car", "country", "office", "house", "dad", "cause", "death", "number", "work", "death", "mom", "number", "rate"]}
+{"source": "dog", "target": "time", "generate": ["dog capableof smell food _hassubevent having lunch hasprerequisite time"], "path": ["dog", "work", "view", "time"]}
+{"source": "home", "target": "dance", "generate": ["home _atlocation entrance hall usedfor performers capableof thank audience _haslastsubevent perform hasprerequisite learn how _hasprerequisite dance"], "path": ["home", "work", "work", "dance"]}
+{"source": "cause", "target": "horse", "generate": ["cause _hassubevent walk _capableof horse"], "path": ["cause", "light", "work", "farm", "man", "horse"]}
+{"source": "church", "target": "summer", "generate": ["church _atlocation wedding cake isa cake usedfor dessert _isa sorbet similarto summer"], "path": ["church", "time", "work", "home", "school", "summer"]}
+{"source": "place", "target": "love", "generate": ["place _isa another way to say state isa status _usedfor jewelry usedfor adornment capableof draw attention _capableof love"], "path": ["place", "plan", "idea", "love"]}
+{"source": "shop", "target": "girl", "generate": ["shop _atlocation human _isa girl"], "path": ["shop", "city", "love", "hate", "love", "care", "love", "girl"]}
+{"source": "pick", "target": "love", "generate": ["pick partof ice axe _partof spike usedfor running capableof hurt _capableof love"], "path": ["pick", "hair", "eye", "sound", "play", "love"]}
+{"source": "morning", "target": "bear", "generate": ["morning distinctfrom night _atlocation sloth capableof sleep all day _capableof bear"], "path": ["morning", "sound", "country", "dance", "sound", "school", "die", "bear"]}
+{"source": "dog", "target": "pizza", "generate": ["dog receivesaction eaten _receivesaction olives atlocation pizza"], "path": ["dog", "work", "music", "movie", "hurt", "bad", "music", "music", "food", "diet", "food", "food", "pizza"]}
+{"source": "thing", "target": "conference", "generate": ["thing capableof spring leak _capableof raft isa consumer durable _isa microphone atlocation conference"], "path": ["thing", "fun", "speaker", "conference"]}
+{"source": "winter", "target": "brother", "generate": ["winter _atlocation brother"], "path": ["winter", "home", "work", "type", "dog", "cat", "brother"]}
+{"source": "drive", "target": "drink", "generate": ["drive hasprerequisite get in car _hasprerequisite go to pub motivatedbygoal thirsty _motivatedbygoal drink"], "path": ["drive", "work", "use", "sound", "music", "drink"]}
+{"source": "love", "target": "parent", "generate": ["love _usedfor child _isa daughter distinctfrom parent"], "path": ["love", "type", "need", "head", "world", "man", "parent"]}
+{"source": "store", "target": "stuff", "generate": ["store _atlocation stuff"], "path": ["store", "thing", "fun", "toy", "stuff"]}
+{"source": "home", "target": "play", "generate": ["home _atlocation play"], "path": ["home", "play", "school", "play"]}
+{"source": "wedding", "target": "family", "generate": ["wedding _atlocation family"], "path": ["wedding", "food", "party", "wedding", "dance", "dance", "day", "family"]}
+{"source": "sing", "target": "song", "generate": ["sing _causesdesire song"], "path": ["sing", "song", "sing", "song"]}
+{"source": "food", "target": "bracelet", "generate": ["food _isa wedding cake isa wedding cake atlocation wedding _atlocation bracelet"], "path": ["food", "chicken", "food", "degree", "college", "book", "work", "see", "ring", "bracelet"]}
+{"source": "work", "target": "plant", "generate": ["work _atlocation coal isa plant"], "path": ["work", "school", "study", "school", "read", "school", "love", "lot", "plant"]}
+{"source": "feel", "target": "live", "generate": ["feel _hassubevent live"], "path": ["feel", "dog", "work", "live", "house", "live"]}
+{"source": "read", "target": "visit", "generate": ["read _receivesaction map usedfor choose route _hasprerequisite walk motivatedbygoal visit"], "path": ["read", "read", "book", "time", "book", "learn", "internet", "visit"]}
+{"source": "time", "target": "love", "generate": ["time _hasprerequisite going to hairdresser hassubevent flirt _causesdesire love"], "path": ["time", "place", "animal", "cow", "farm", "love"]}
+{"source": "weather", "target": "lot", "generate": ["weather capableof cloud vision _capableof too much sun isa bad thing _isa too much sun _causes weeding garden hasprerequisite lot"], "path": ["weather", "snow", "work", "time", "food", "pizza", "food", "lot"]}
+{"source": "life", "target": "dog", "generate": ["life _hasa dog"], "path": ["life", "color", "family", "dog"]}
+{"source": "college", "target": "pink", "generate": ["college _atlocation football field hasproperty green distinctfrom pink"], "path": ["college", "dance", "bar", "work", "apartment", "place", "color", "color", "pink"]}
+{"source": "room", "target": "stone", "generate": ["room _atlocation stone"], "path": ["room", "school", "college", "class", "stone"]}
+{"source": "cloud", "target": "know", "generate": ["cloud atlocation sky usedfor admire _haslastsubevent create idea motivatedbygoal know"], "path": ["cloud", "sound", "time", "car", "type", "understand", "know"]}
+{"source": "day", "target": "movie", "generate": ["day _atlocation sand atlocation movie"], "path": ["day", "work", "sound", "work", "turn", "work", "country", "movie"]}
+{"source": "relax", "target": "family", "generate": ["relax _motivatedbygoal eat ice cream hasprerequisite serve _hasa everyone hasa family"], "path": ["relax", "time", "play", "dog", "work", "home", "cold", "family"]}
+{"source": "force", "target": "game", "generate": ["force _isa violence atlocation hockey game isa game"], "path": ["force", "time", "drive", "color", "change", "boy", "thing", "play", "game"]}
+{"source": "turn", "target": "celebrate", "generate": ["turn _hasfirstsubevent wash clothes _causesdesire spilling coffee _hassubevent serving customers causes get pissed off _haslastsube"], "path": ["turn", "feel", "love", "month", "age", "dance", "celebrate"]}
+{"source": "dance", "target": "sound", "generate": ["dance hassubevent sound"], "path": ["dance", "activity", "bear", "work", "love", "music", "child", "see", "class", "dance", "time", "sound"]}
+{"source": "army", "target": "love", "generate": ["army usedfor defense distinctfrom attack _hassubevent waging war causes deaths _causes love"], "path": ["army", "war", "man", "food", "love", "food", "fun", "use", "buy", "house", "love"]}
+{"source": "cat", "target": "hat", "generate": ["cat atlocation hat"], "path": ["cat", "bee", "cat", "type", "hat"]}
+{"source": "music", "target": "paint", "generate": ["music capableof beautifull _motivatedbygoal paint"], "path": ["music", "money", "job", "travel", "food", "food", "eat", "draw", "paint"]}
+{"source": "road", "target": "time", "generate": ["road usedfor driving car hasprerequisite time"], "path": ["road", "walk", "life", "clothing", "home", "life", "life", "watch", "time"]}
+{"source": "school", "target": "build", "generate": ["school _atlocation building"], "path": ["school", "school", "business", "toy", "play", "build"]}
+{"source": "walk", "target": "tennis", "generate": ["walk hassubevent swing arms _hassubevent riding bicycle usedfor competition _mannerof tennis"], "path": ["walk", "city", "sound", "music", "tennis"]}
+{"source": "decorate", "target": "work", "generate": ["decorate _usedfor work"], "path": ["decorate", "rose", "garden", "stuff", "room", "college", "time", "work"]}
+{"source": "kid", "target": "break", "generate": ["kid capableof tie shoe hassubevent break"], "path": ["kid", "lesson", "dance", "break", "break"]}
+{"source": "diet", "target": "love", "generate": ["diet _hassubevent losing weight usedfor feeling better about yourself _usedfor forgiving causes love"], "path": ["diet", "time", "time", "love"]}
+{"source": "family", "target": "college", "generate": ["family atlocation college"], "path": ["family", "parent", "dog", "house", "sport", "ball", "college"]}
+{"source": "bee", "target": "mom", "generate": ["bee atlocation backyard usedfor family activities hasproperty fun _usedfor child _isa mom"], "path": ["bee", "dog", "dog", "die", "eat", "good", "use", "mom"]}
+{"source": "street", "target": "read", "generate": ["street _atlocation light source usedfor read"], "path": ["street", "walk", "water", "lot", "read", "book", "read"]}
+{"source": "work", "target": "eye", "generate": ["work _atlocation monkey hasa nose distinctfrom eye"], "path": ["work", "time", "food", "work", "use", "dog", "nice", "room", "drink", "eye"]}
+{"source": "record", "target": "computer", "generate": ["record _capableof computer"], "path": ["record", "computer", "type", "computer"]}
+{"source": "love", "target": "place", "generate": ["love atlocation family isa place"], "path": ["love", "work", "song", "apartment", "place"]}
+{"source": "burger", "target": "soda", "generate": ["burger _isa hamburger atlocation resturant _atlocation soda"], "path": ["burger", "eat", "house", "hair", "stuff", "drink", "hear", "work", "soda"]}
+{"source": "pan", "target": "hope", "generate": ["pan usedfor fry egg _hassubevent following recipe causes success distinctfrom defeat isa despair _atlocation hope"], "path": ["pan", "cook", "meat", "eat", "love", "die", "brain", "fall", "hope"]}
+{"source": "time", "target": "live", "generate": ["time _hasprerequisite living life causes live"], "path": ["time", "eat", "color", "family", "live"]}
+{"source": "grow", "target": "concert", "generate": ["grow _capableof seed _isa acorn atlocation ground _atlocation confetti atlocation concert"], "path": ["grow", "music", "war", "music", "concert"]}
+{"source": "walking", "target": "dog", "generate": ["walking hasprerequisite legs _hasa dog"], "path": ["walking", "exercise", "work", "dog"]}
+{"source": "boy", "target": "fun", "generate": ["boy distinctfrom girl isa child usedfor fun"], "path": ["boy", "girl", "life", "fun"]}
+{"source": "dog", "target": "mitten", "generate": ["dog _isa mitten"], "path": ["dog", "business", "food", "dog", "dog", "dog", "mitten"]}
+{"source": "enjoy", "target": "job", "generate": ["enjoy _hassubevent work _atlocation job"], "path": ["enjoy", "time", "start", "job"]}
+{"source": "work", "target": "child", "generate": ["work _atlocation human madeof flesh and blood _madeof child"], "path": ["work", "city", "country", "city", "child"]}
+{"source": "stay", "target": "sing", "generate": ["stay distinctfrom moving _hassubevent dancing hassubevent sing"], "path": ["stay", "time", "play", "music", "sing"]}
+{"source": "bird", "target": "cat", "generate": ["bird capableof pet _capableof cat"], "path": ["bird", "color", "black", "cat"]}
+{"source": "good", "target": "tear", "generate": ["good _hasproperty joke hasproperty funny _motivatedbygoal laugh distinctfrom crying _isa tearing"], "path": ["good", "animal", "dog", "cat", "tear"]}
+{"source": "love", "target": "job", "generate": ["love _motivatedbygoal work _atlocation job"], "path": ["love", "time", "work", "job"]}
+{"source": "book", "target": "book", "generate": ["book _isa book"], "path": ["book", "read", "book", "book"]}
+{"source": "sport", "target": "fruit", "generate": ["sport _isa squash isa fruit"], "path": ["sport", "music", "love", "eat", "fruit"]}
+{"source": "eat", "target": "rock", "generate": ["eat _usedfor rock"], "path": ["eat", "house", "play", "house", "house", "bulldog", "rock"]}
+{"source": "science", "target": "eat", "generate": ["science _isa ecology _partof animal desires eat"], "path": ["science", "place", "group", "church", "group", "time", "bed", "play", "love", "love", "plant", "fly", "eat"]}
+{"source": "smell", "target": "king", "generate": ["smell _hassubevent driving hassubevent raising passenger window _motivatedbygoal begin work motivatedbygoal raising children _usedfor king"], "path": ["smell", "sound", "love", "dog", "king"]}
+{"source": "fun", "target": "live", "generate": ["fun _motivatedbygoal live"], "path": ["fun", "play", "play", "life", "live"]}
+{"source": "eat", "target": "family", "generate": ["eat _capableof family"], "path": ["eat", "feed", "kid", "child", "house", "farm", "farmer", "change", "eat", "farm", "stone", "work", "work", "time", "support", "family"]}
+{"source": "feel", "target": "sheep", "generate": ["feel _hassubevent touch _capableof animals _isa sheep"], "path": ["feel", "book", "wife", "husband", "marry", "live", "live", "farmer", "car", "sheep"]}
+{"source": "sound", "target": "concert", "generate": ["sound _isa concert"], "path": ["sound", "swimming", "game", "play", "concert"]}
+{"source": "love", "target": "fall", "generate": ["love _motivatedbygoal fall"], "path": ["love", "friend", "baseball", "wear", "drink", "drink", "break", "fall"]}
+{"source": "house", "target": "horse", "generate": ["house _atlocation horse"], "path": ["house", "parent", "child", "school", "track", "ride", "horse"]}
+{"source": "home", "target": "blood", "generate": ["home _atlocation blood"], "path": ["home", "work", "hair", "color", "game", "life", "blood"]}
+{"source": "day", "target": "play", "generate": ["day _isa sunday _motivatedbygoal eat breakfast in bed motivatedbygoal fun _hasproperty play"], "path": ["day", "time", "event", "play", "play"]}
+{"source": "good", "target": "teach", "generate": ["good _hasproperty joke usedfor make laugh _motivatedbygoal tell joke motivatedbygoal teach"], "path": ["good", "girl", "love", "cat", "dog", "party", "work", "work", "teach"]}
+{"source": "movie", "target": "prefer", "generate": ["movie _atlocation role usedfor act in play _causesdesire desire to actor causesdesire entertain people motivatedbygoal prefer"], "path": ["movie", "work", "time", "school", "chemistry", "color", "prefer"]}
+{"source": "good", "target": "charity", "generate": ["good _hasproperty charity"], "path": ["good", "animal", "fund", "money", "charity"]}
+{"source": "food", "target": "family", "generate": ["food atlocation relatives house _atlocation family"], "path": ["food", "fish", "war", "relative", "relation", "family"]}
+{"source": "love", "target": "play", "generate": ["love causesdesire pretend motivatedbygoal play"], "path": ["love", "car", "time", "dog", "cut", "play"]}
+{"source": "practice", "target": "beach", "generate": ["practice _hasprerequisite surfing usedfor kids atlocation beach"], "path": ["practice", "time", "dance", "dance", "trip", "fun", "beach"]}
+{"source": "animal", "target": "cool", "generate": ["animal _isa bear hasa claws _hasa cats hasproperty cool"], "path": ["animal", "college", "job", "work", "class", "art", "cool"]}
+{"source": "study", "target": "year", "generate": ["study _hasprerequisite learning about world hasprerequisite time _isa year"], "path": ["study", "art", "painter", "art", "hobby", "enjoy", "love", "year"]}
+{"source": "session", "target": "love", "generate": ["session _atlocation lecturer isa human atlocation love"], "path": ["session", "work", "father", "food", "love"]}
+{"source": "music", "target": "world", "generate": ["music _isa western _atlocation horse atlocation world"], "path": ["music", "song", "movie", "play", "watch", "world"]}
+{"source": "work", "target": "work", "generate": ["work distinctfrom work"], "path": ["work", "construction", "work", "watch", "activity", "thing", "food", "time", "play", "television", "love", "work", "time", "work"]}
+{"source": "eat", "target": "wish", "generate": ["eat haslastsubevent wash dishes _haslastsubevent eat breakfast in bed hasfirstsubevent wake up _hasfirstsubevent wish"], "path": ["eat", "food", "eat", "produce", "wish"]}
+{"source": "cafe", "target": "restaurant", "generate": ["cafe usedfor meeting friends _usedfor restaurant"], "path": ["cafe", "restaurant", "work", "restaurant"]}
+{"source": "love", "target": "job", "generate": ["love _motivatedbygoal work _atlocation job"], "path": ["love", "dog", "war", "work", "work", "job"]}
+{"source": "pink", "target": "walk", "generate": ["pink distinctfrom blue _hasproperty wind causesdesire fly kite hasprerequisite go outside _hasprerequisite walk"], "path": ["pink", "color", "sunset", "walk"]}
+{"source": "job", "target": "great", "generate": ["job _hasprerequisite living life hasprerequisite life hasproperty great"], "path": ["job", "work", "dinner", "work", "type", "school", "book", "music", "bone", "work", "walk", "work", "great"]}
+{"source": "vacation", "target": "sing", "generate": ["vacation _usedfor flying in airplane hassubevent sing"], "path": ["vacation", "time", "work", "use", "work", "work", "dog", "cat", "house", "kid", "cat", "love", "sing"]}
+{"source": "chef", "target": "buy", "generate": ["chef capableof prepare meal _motivatedbygoal buy food hasprerequisite have money _hasprerequisite buy"], "path": ["chef", "food", "living", "food", "love", "buy"]}
+{"source": "time", "target": "navy", "generate": ["time _isa military _partof bombs atlocation bomber isa warship _atlocation captain usedfor navy"], "path": ["time", "school", "long", "year", "time", "painting", "color", "navy"]}
+{"source": "gym", "target": "understand", "generate": ["gym _atlocation humans capableof listen haslastsubevent understand"], "path": ["gym", "job", "work", "play", "home", "army", "car", "pass", "day", "purchase", "payment", "car", "know", "understand"]}
+{"source": "man", "target": "child", "generate": ["man distinctfrom girl isa child"], "path": ["man", "doctor", "fall", "job", "work", "park", "skin", "lot", "thing", "music", "music", "fun", "child"]}
+{"source": "horse", "target": "group", "generate": ["horse atlocation group"], "path": ["horse", "animal", "farm", "city", "music", "rap", "rap", "rock", "group"]}
+{"source": "love", "target": "son", "generate": ["love _usedfor child _partof son"], "path": ["love", "letter", "toy", "play", "son"]}
+{"source": "time", "target": "use", "generate": ["time _hasprerequisite examining thing hassubevent use"], "path": ["time", "day", "ice", "sky", "use"]}
+{"source": "drive", "target": "car", "generate": ["drive _causesdesire car"], "path": ["drive", "travel", "drive", "walk", "drive", "car"]}
+{"source": "bit", "target": "pizza", "generate": ["bit partof bridle isa device _isa trap _atlocation weasel atlocation pizza"], "path": ["bit", "friend", "mother", "school", "school", "book", "food", "pizza"]}
+{"source": "work", "target": "gambling", "generate": ["work _isa gambling"], "path": ["work", "man", "wood", "gambling"]}
+{"source": "dance", "target": "fashionable", "generate": ["dance motivatedbygoal fashionable"], "path": ["dance", "dance", "house", "party", "break", "dinner", "fashion", "fashionable"]}
+{"source": "sound", "target": "talent", "generate": ["sound _isa singing hasprerequisite talent"], "path": ["sound", "work", "work", "construction", "job", "fun", "talent"]}
+{"source": "school", "target": "force", "generate": ["school _atlocation rule isa force"], "path": ["school", "type", "school", "learn", "school", "force"]}
+{"source": "garden", "target": "building", "generate": ["garden isa building"], "path": ["garden", "work", "love", "life", "time", "military", "time", "build", "building"]}
+{"source": "money", "target": "life", "generate": ["money _hasprerequisite buying presents for others usedfor fun _hasproperty life"], "path": ["money", "shopping", "money", "work", "life"]}
+{"source": "year", "target": "sound", "generate": ["year _partof week _isa one unit of time isa day hasproperty light distinctfrom sound"], "path": ["year", "music", "work", "museum", "art", "art", "drink", "grow", "garden", "sound"]}
+{"source": "store", "target": "drink", "generate": ["store _atlocation wine usedfor drink"], "path": ["store", "drink", "beer", "drink"]}
+{"source": "turn", "target": "live", "generate": ["turn _isa spin _hasa neutrons receivesaction located in nucleus _receivesaction protons hasa electrical charge _hasa live"], "path": ["turn", "play", "dance", "live"]}
+{"source": "drive", "target": "animal", "generate": ["drive _capableof tiger isa animal"], "path": ["drive", "ride", "drive", "work", "music", "work", "cat", "animal"]}
+{"source": "pay", "target": "chicago", "generate": ["pay _usedfor cheque book atlocation chicago"], "path": ["pay", "work", "type", "rock", "music", "music", "chicago"]}
+{"source": "city", "target": "grow", "generate": ["city _atlocation population usedfor grow"], "path": ["city", "time", "fun", "party", "sound", "play", "year", "time", "thing", "art", "cow", "grow"]}
+{"source": "play", "target": "song", "generate": ["play _isa musical _atlocation song"], "path": ["play", "time", "work", "year", "eat", "head", "music", "play", "song"]}
+{"source": "love", "target": "dog", "generate": ["love _usedfor dog"], "path": ["love", "live", "swimming", "food", "husband", "dog", "dog"]}
+{"source": "kick", "target": "hurt", "generate": ["kick motivatedbygoal hurt"], "path": ["kick", "use", "color", "hurt"]}
+{"source": "dog", "target": "pay", "generate": ["dog capableof smell food _hassubevent having lunch hassubevent pay"], "path": ["dog", "thing", "deal", "pay"]}
+{"source": "live", "target": "game", "generate": ["live _hasproperty game"], "path": ["live", "music", "live", "game"]}
+{"source": "live", "target": "learn", "generate": ["live hassubevent learn"], "path": ["live", "picture", "place", "language", "learn"]}
+{"source": "dog", "target": "life", "generate": ["dog atlocation life"], "path": ["dog", "home", "fish", "fish", "fish", "work", "live", "life"]}
+{"source": "drive", "target": "dog", "generate": ["drive _causesdesire need to go somewhere _motivatedbygoal drive car _capableof adult _isa adult dog isa dog"], "path": ["drive", "car", "work", "dog", "buy", "music", "job", "car", "business", "sound", "fun", "music", "dog"]}
+{"source": "work", "target": "kid", "generate": ["work _capableof teens isa kid"], "path": ["work", "love", "dentist", "kid"]}
+{"source": "pet", "target": "hobby", "generate": ["pet usedfor enjoyment _usedfor watching musician perform hasprerequisite sight partof perception _mannerof hobby"], "path": ["pet", "cat", "food", "olive", "time", "hobby"]}
+{"source": "travel", "target": "exercise", "generate": ["travel hasprerequisite energy causesdesire exercise"], "path": ["travel", "home", "live", "cat", "food", "doctor", "exercise"]}
+{"source": "color", "target": "time", "generate": ["color _isa black _hasproperty truffles atlocation tree _atlocation time"], "path": ["color", "blue", "paint", "art", "year", "place", "year", "time"]}
+{"source": "hear", "target": "hair", "generate": ["hear _capableof ear _atlocation hair"], "path": ["hear", "toy", "music", "kid", "hair"]}
+{"source": "color", "target": "town", "generate": ["color _isa red _hasproperty apple atlocation town"], "path": ["color", "boring", "job", "office", "town"]}
+{"source": "type", "target": "taste", "generate": ["type hassubevent push buttons _usedfor fingers capableof taste"], "path": ["type", "thing", "home", "taste"]}
+{"source": "dog", "target": "sing", "generate": ["dog capableof hear high pitches _capableof dogs desires play hasprerequisite sing"], "path": ["dog", "work", "dog", "fashion", "time", "sing"]}
+{"source": "kind", "target": "know", "generate": ["kind _hasprerequisite help hasprerequisite know"], "path": ["kind", "music", "time", "play", "music", "play", "cloud", "friend", "time", "bird", "music", "hear", "know"]}
+{"source": "chemistry", "target": "car", "generate": ["chemistry mannerof motion _mannerof car"], "path": ["chemistry", "music", "music", "music", "car"]}
+{"source": "step", "target": "toy", "generate": ["step _usedfor telephone book atlocation house _atlocation toy"], "path": ["step", "home", "play", "toy"]}
+{"source": "hair", "target": "job", "generate": ["hair _hasprerequisite going to hairdresser hasprerequisite hair and money _hasprerequisite going to work usedfor job"], "path": ["hair", "dog", "bird", "animal", "knee", "doctor", "job"]}
+{"source": "farm", "target": "cow", "generate": ["farm _atlocation cow"], "path": ["farm", "home", "country", "body", "cow"]}
+{"source": "country", "target": "job", "generate": ["country _atlocation government isa job"], "path": ["country", "food", "store", "job"]}
+{"source": "cow", "target": "sound", "generate": ["cow atlocation cornfield _atlocation human _isa announcer atlocation sporting event _usedfor sound"], "path": ["cow", "farm", "animal", "horse", "food", "eat", "food", "sound"]}
+{"source": "pet", "target": "coke", "generate": ["pet capableof belong to _capableof house _atlocation coke"], "path": ["pet", "kind", "good", "car", "food", "dog", "drive", "time", "pizza", "olive", "love", "soda", "coke"]}
+{"source": "drive", "target": "love", "generate": ["drive _causesdesire love"], "path": ["drive", "car", "mean", "boy", "love"]}
+{"source": "word", "target": "school", "generate": ["word _isa four letter word isa expression _usedfor writing story usedfor school"], "path": ["word", "work", "language", "speak", "communicate", "grow", "learn", "school"]}
+{"source": "hobby", "target": "mom", "generate": ["hobby _isa needlepoint atlocation family _partof mom"], "path": ["hobby", "play", "water", "fish", "play", "point", "mom"]}
+{"source": "morning", "target": "soda", "generate": ["morning distinctfrom night _atlocation water atlocation soda"], "path": ["morning", "work", "walk", "time", "soda"]}
+{"source": "travel", "target": "year", "generate": ["travel _causesdesire time _isa year"], "path": ["travel", "time", "year", "farm", "year"]}
+{"source": "car", "target": "relationship", "generate": ["car _hasprerequisite going to market causes meeting new people hasproperty fun _usedfor flirting hasprerequisite relationship"], "path": ["car", "love", "live", "live", "relationship"]}
+{"source": "live", "target": "family", "generate": ["live _causesdesire family"], "path": ["live", "life", "party", "family"]}
+{"source": "computer", "target": "death", "generate": ["computer usedfor killing causes death"], "path": ["computer", "love", "metal", "job", "pool", "death"]}
+{"source": "bird", "target": "play", "generate": ["bird capableof sing song _hasprerequisite entertain _motivatedbygoal play"], "path": ["bird", "bird", "cat", "play", "animal", "play"]}
+{"source": "arm", "target": "friend", "generate": ["arm usedfor wave hello _capableof friend"], "path": ["arm", "mate", "land", "watch", "bone", "pet", "dog", "breed", "dog", "book", "game", "love", "friend"]}
+{"source": "work", "target": "type", "generate": ["work hassubevent type"], "path": ["work", "lot", "dog", "car", "drink", "hair", "type"]}
+{"source": "feel", "target": "eat", "generate": ["feel _hassubevent eat"], "path": ["feel", "wine", "eat", "life", "eat"]}
+{"source": "time", "target": "car", "generate": ["time _isa mechanics atlocation race track _atlocation car"], "path": ["time", "town", "home", "work", "time", "food", "car", "build", "buy", "money", "money", "car"]}
+{"source": "pet", "target": "animal", "generate": ["pet _capableof animal"], "path": ["pet", "dog", "dog", "animal"]}
+{"source": "love", "target": "breed", "generate": ["love causesdesire reproduce hasfirstsubevent breed"], "path": ["love", "animal", "animal", "puppy", "cat", "breed", "breed"]}
+{"source": "living", "target": "grow", "generate": ["living causes grow"], "path": ["living", "see", "hear", "farm", "animal", "city", "grow"]}
+{"source": "mean", "target": "year", "generate": ["mean _hasproperty not all people hasproperty mean distinctfrom nice _hasproperty day partof year"], "path": ["mean", "medium", "time", "year"]}
+{"source": "weather", "target": "walk", "generate": ["weather _isa find outside isa swing set atlocation park distinctfrom walk"], "path": ["weather", "climbing", "step", "work", "walk"]}
+{"source": "business", "target": "love", "generate": ["business _usedfor creating idea causes fame similarto glory partof love"], "path": ["business", "work", "work", "love"]}
+{"source": "happy", "target": "hope", "generate": ["happy _hasproperty may cry when receivesaction frustrated _motivatedbygoal reach impasse _causesdesire pride isa hope"], "path": ["happy", "live", "life", "day", "hope"]}
+{"source": "food", "target": "plan", "generate": ["food _isa bouillabaisse _causes bringing home fish hassubevent plan"], "path": ["food", "eat", "cat", "pet", "band", "play", "band", "play", "plan"]}
+{"source": "spain", "target": "air", "generate": ["spain _atlocation teide atlocation spain isa mountain range _isa pyrenees _partof air"], "path": ["spain", "city", "country", "time", "place", "air"]}
+{"source": "remember", "target": "food", "generate": ["remember hassubevent hurts _capableof food"], "path": ["remember", "time", "drink", "eat", "food"]}
+{"source": "rabbit", "target": "job", "generate": ["rabbit desires carrot _desires rabbit isa pet _capableof puppy hasproperty cute _hasproperty puppy atlocation job"], "path": ["rabbit", "dog", "work", "work", "job", "good", "color", "job"]}
+{"source": "kid", "target": "live", "generate": ["kid capableof raise hell _capableof angry person desires vent _hasprerequisite release energy motivatedbygoal live"], "path": ["kid", "war", "drive", "exercise", "power", "love", "year", "day", "live"]}
+{"source": "business", "target": "dog", "generate": ["business _usedfor having lunch hassubevent smell food _capableof dog"], "path": ["business", "business", "door", "dog"]}
+{"source": "work", "target": "dance", "generate": ["work hassubevent sweat _hassubevent dance"], "path": ["work", "job", "work", "money", "fish", "love", "love", "dance"]}
+{"source": "dream", "target": "animal", "generate": ["dream _isa tiger isa animal"], "path": ["dream", "work", "home", "sound", "animal"]}
+{"source": "hair", "target": "game", "generate": ["hair usedfor wigs atlocation opera _atlocation game"], "path": ["hair", "bird", "animal", "animal", "family", "game"]}
+{"source": "child", "target": "lot", "generate": ["child distinctfrom loved _receivesaction lot"], "path": ["child", "male", "child", "lot"]}
+{"source": "eat", "target": "nice", "generate": ["eat haslastsubevent clear table _haslastsubevent eat breakfast in bed motivatedbygoal nice"], "path": ["eat", "food", "music", "work", "family", "nice"]}
+{"source": "walk", "target": "use", "generate": ["walk hasprerequisite use"], "path": ["walk", "dog", "sport", "play", "use"]}
+{"source": "good", "target": "work", "generate": ["good _hasproperty work"], "path": ["good", "thing", "thing", "work", "eat", "shape", "work", "work", "major", "work", "buy", "house", "rich", "money", "house", "room", "work"]}
+{"source": "coffee", "target": "time", "generate": ["coffee isa time"], "path": ["coffee", "wine", "lot", "van", "car", "time"]}
+{"source": "play", "target": "race", "generate": ["play hassubevent race"], "path": ["play", "play", "work", "work", "dog", "time", "race"]}
+{"source": "kid", "target": "friend", "generate": ["kid capableof ring doorbell _capableof friend"], "path": ["kid", "house", "country", "society", "love", "friend"]}
+{"source": "job", "target": "house", "generate": ["job atlocation house"], "path": ["job", "music", "house", "nice", "house", "home", "house"]}
+{"source": "eat", "target": "winter", "generate": ["eat _causesdesire winter"], "path": ["eat", "cat", "dog", "animal", "love", "happy", "time", "food", "winter"]}
+{"source": "brown", "target": "student", "generate": ["brown _hasproperty eyes _hasprerequisite seeing movie hassubevent drink coke _capableof student"], "path": ["brown", "color", "room", "game", "love", "work", "teach", "student"]}
+{"source": "year", "target": "friend", "generate": ["year _partof week _isa year isa time _capableof friend"], "path": ["year", "food", "food", "worker", "work", "time", "long", "time", "friend"]}
+{"source": "time", "target": "dirt", "generate": ["time _isa dirt"], "path": ["time", "office", "office", "army", "tree", "thing", "dirt"]}
+{"source": "thing", "target": "community", "generate": ["thing _isa everything createdby community"], "path": ["thing", "car", "dog", "time", "community"]}
+{"source": "day", "target": "turn", "generate": ["day _isa year distinctfrom turn"], "path": ["day", "sound", "leave", "time", "turn"]}
+{"source": "sound", "target": "comedy", "generate": ["sound hasproperty funny _hasproperty comedy"], "path": ["sound", "work", "movie", "comedy"]}
+{"source": "afternoon", "target": "career", "generate": ["afternoon isa qualitative time of day _isa morning distinctfrom afternoon _atlocation wiener dog atlocation career"], "path": ["afternoon", "school", "college", "work", "career"]}
+{"source": "watch", "target": "work", "generate": ["watch usedfor being on time _hasprerequisite pleasing parents hasprerequisite work"], "path": ["watch", "time", "hat", "music", "metal", "work", "farm", "work"]}
+{"source": "food", "target": "work", "generate": ["food atlocation work"], "path": ["food", "country", "cow", "drive", "place", "work"]}
+{"source": "living", "target": "love", "generate": ["living causes love"], "path": ["living", "home", "job", "hobby", "enjoy", "love"]}
+{"source": "friend", "target": "grow", "generate": ["friend capableof let win _hassubevent give clue motivatedbygoal guess answer _capableof one capableof grow"], "path": ["friend", "family", "home", "live", "time", "case", "child", "teacher", "grow"]}
+{"source": "crime", "target": "horse", "generate": ["crime _isa murder isa sin _causes desire _atlocation horse"], "path": ["crime", "school", "time", "learn", "horse", "ship", "horse", "ride", "horse"]}
+{"source": "work", "target": "model", "generate": ["work _atlocation model"], "path": ["work", "school", "family", "farm", "model"]}
+{"source": "walk", "target": "heat", "generate": ["walk hassubevent burn calories _capableof heat"], "path": ["walk", "play", "walk", "job", "doctor", "body", "player", "play", "live", "child", "money", "heat"]}
+{"source": "movie", "target": "work", "generate": ["movie atlocation work"], "path": ["movie", "cook", "dish", "food", "school", "food", "work"]}
+{"source": "drink", "target": "color", "generate": ["drink _causesdesire hunger hasproperty nourishing _hasproperty rain isa color"], "path": ["drink", "paint", "wine", "eye", "color"]}
+{"source": "instrument", "target": "dream", "generate": ["instrument usedfor playing hassubevent dream"], "path": ["instrument", "play", "instrument", "play", "company", "instrument", "game", "play", "dream"]}
+{"source": "hobby", "target": "work", "generate": ["hobby _isa woodworking isa work"], "path": ["hobby", "fun", "car", "ride", "dog", "music", "music", "work"]}
+{"source": "movie", "target": "player", "generate": ["movie _atlocation role atlocation play _capableof player"], "path": ["movie", "man", "movie", "play", "patient", "doctor", "job", "player"]}
+{"source": "head", "target": "kid", "generate": ["head _hasa not everyone capableof play golf _capableof kid"], "path": ["head", "company", "family", "kid"]}
+{"source": "orange", "target": "work", "generate": ["orange _hasproperty wines isa blush _hassubevent meeting girls causes passion causesdesire work"], "path": ["orange", "good", "book", "word", "book", "book", "night", "time", "work"]}
+{"source": "girl", "target": "friend", "generate": ["girl distinctfrom friend"], "path": ["girl", "farm", "school", "family", "friend"]}
+{"source": "cook", "target": "job", "generate": ["cook capableof bone fish _capableof fishmonger hasa job"], "path": ["cook", "horse", "animal", "room", "paint", "color", "shade", "graduate", "study", "student", "job"]}
+{"source": "fun", "target": "love", "generate": ["fun _hasproperty being in love isa wonderful feeling _isa love"], "path": ["fun", "book", "book", "movie", "love"]}
+{"source": "skiing", "target": "city", "generate": ["skiing usedfor recreation _usedfor brook atlocation city"], "path": ["skiing", "stick", "school", "farm", "farm", "corn", "farm", "city"]}
+{"source": "good", "target": "fear", "generate": ["good _hasproperty freedom isa emotion _isa fear"], "path": ["good", "dog", "cat", "dog", "fun", "machine", "party", "party", "eat", "action", "girl", "movie", "food", "love", "fear", "hate", "fear"]}
+{"source": "work", "target": "money", "generate": ["work motivatedbygoal money"], "path": ["work", "car", "band", "money"]}
+{"source": "bee", "target": "hold", "generate": ["bee desires hold"], "path": ["bee", "dog", "time", "time", "age", "book", "hold"]}
+{"source": "job", "target": "horse", "generate": ["job _hasa fishmonger hasa job distinctfrom farm _atlocation horse"], "path": ["job", "farm", "farmer", "horse"]}
+{"source": "shape", "target": "school", "generate": ["shape _isa triangle atlocation school"], "path": ["shape", "work", "work", "school"]}
+{"source": "live", "target": "love", "generate": ["live _causesdesire love"], "path": ["live", "smile", "love", "dog", "play", "love"]}
+{"source": "van", "target": "kind", "generate": ["van _isa chevrolet g series van isa van capableof travel across world _capableof friend usedfor kind"], "path": ["van", "kid", "night", "morning", "drink", "fun", "love", "kind"]}
+{"source": "play", "target": "play", "generate": ["play distinctfrom play"], "path": ["play", "watch", "sun", "work", "play", "play"]}
+{"source": "work", "target": "cup", "generate": ["work _atlocation cup"], "path": ["work", "sound", "dessert", "chocolate", "cup"]}
+{"source": "daughter", "target": "good", "generate": ["daughter distinctfrom son partof child usedfor loving hasproperty good"], "path": ["daughter", "food", "chocolate", "good"]}
+{"source": "mean", "target": "love", "generate": ["mean _hasproperty love"], "path": ["mean", "food", "food", "work", "food", "store", "diet", "food", "card", "life", "food", "home", "love"]}
+{"source": "bird", "target": "store", "generate": ["bird atlocation windowsill _atlocation potted plant isa ornament _isa potted plant atlocation store"], "path": ["bird", "sound", "color", "hair", "hair", "animal", "animal", "kid", "animal", "store"]}
+{"source": "job", "target": "year", "generate": ["job _isa vocation isa time _partof year"], "path": ["job", "work", "drink", "time", "year"]}
+{"source": "love", "target": "fun", "generate": ["love causesdesire pretend motivatedbygoal fun"], "path": ["love", "fish", "love", "fun"]}
+{"source": "pay", "target": "finance", "generate": ["pay _usedfor cheque usedfor purchase _mannerof possession _isa finance"], "path": ["pay", "year", "time", "lunch", "finance"]}
+{"source": "summer", "target": "rock", "generate": ["summer _atlocation rock"], "path": ["summer", "sun", "game", "head", "rock"]}
+{"source": "hear", "target": "music", "generate": ["hear _capableof music"], "path": ["hear", "music", "touch", "music"]}
+{"source": "good", "target": "living", "generate": ["good _hasproperty living"], "path": ["good", "rock", "sound", "spring", "grow", "living"]}
+{"source": "love", "target": "car", "generate": ["love _usedfor car"], "path": ["love", "play", "play", "doll", "car"]}
+{"source": "work", "target": "dog", "generate": ["work _atlocation workers capableof dig hole _capableof dog"], "path": ["work", "living", "gas", "job", "work", "work", "hand", "dog"]}
+{"source": "long", "target": "depend", "generate": ["long distinctfrom short _isa nap _hassubevent running out of steam causes depression isa depend"], "path": ["long", "day", "toy", "dog", "sound", "rap", "music", "song", "depend"]}
+{"source": "play", "target": "pet", "generate": ["play _desires dog capableof pet"], "path": ["play", "life", "play", "doll", "toy", "pet"]}
+{"source": "heart", "target": "chase", "generate": ["heart usedfor persistence _hasprerequisite finding lost item hassubevent happy _hasproperty chase"], "path": ["heart", "dog", "eat", "chase"]}
+{"source": "sound", "target": "play", "generate": ["sound _isa laughter _hassubevent play"], "path": ["sound", "car", "fun", "place", "music", "play", "fun", "play"]}
+{"source": "family", "target": "roll", "generate": ["family _partof nephew distinctfrom niece atlocation family tree isa tree capableof roll"], "path": ["family", "family", "shopping", "home", "house", "car", "roll"]}
+{"source": "stuff", "target": "song", "generate": ["stuff atlocation table _atlocation song"], "path": ["stuff", "land", "year", "day", "song", "love", "song"]}
+{"source": "feel", "target": "chicken", "generate": ["feel _hassubevent touch food _motivatedbygoal buy hamburger motivatedbygoal chicken"], "path": ["feel", "school", "bar", "bar", "bar", "step", "apartment", "home", "eye", "work", "food", "chicken"]}
+{"source": "wife", "target": "hotel", "generate": ["wife isa human atlocation hotel"], "path": ["wife", "fun", "travel", "place", "hotel"]}
+{"source": "grade", "target": "song", "generate": ["grade _usedfor writing program hassubevent go to sleep _causesdesire song"], "path": ["grade", "school", "play", "profession", "song", "time", "song"]}
+{"source": "diet", "target": "heart", "generate": ["diet _atlocation grape atlocation heart"], "path": ["diet", "dad", "child", "house", "music", "play", "house", "pet", "cat", "animal", "thing", "cat", "cut", "heart"]}
+{"source": "hair", "target": "work", "generate": ["hair atlocation work"], "path": ["hair", "play", "work", "job", "game", "pass", "work"]}
+{"source": "dog", "target": "school", "generate": ["dog atlocation school"], "path": ["dog", "cat", "life", "school"]}
+{"source": "garden", "target": "adopt", "generate": ["garden usedfor grow distinctfrom adopt"], "path": ["garden", "garden", "landscape", "work", "language", "parent", "adopt"]}
+{"source": "fun", "target": "city", "generate": ["fun _hasproperty dance club atlocation city"], "path": ["fun", "thinking", "living", "time", "drink", "city"]}
+{"source": "talk", "target": "play", "generate": ["talk _hassubevent play"], "path": ["talk", "teacher", "school", "game", "play"]}
+{"source": "play", "target": "sibling", "generate": ["play _desires little girls _usedfor jumping rope hasprerequisite little girl capableof gather flowers _capableof sibling"], "path": ["play", "love", "mom", "sister", "sibling"]}
+{"source": "male", "target": "money", "generate": ["male _isa uncle usedfor money"], "path": ["male", "female", "life", "day", "work", "play", "business", "money"]}
+{"source": "industry", "target": "kid", "generate": ["industry usedfor polluting environment _causes taking car for drive causes run out of gas _capableof tanks atlocation military base _atlocation kid"], "path": ["industry", "work", "parent", "kid"]}
+{"source": "horse", "target": "farmer", "generate": ["horse capableof jump fence _capableof farmer"], "path": ["horse", "book", "love", "horse", "ride", "dance", "work", "parent", "farmer"]}
+{"source": "teacher", "target": "know", "generate": ["teacher _usedfor literature usedfor read story _hassubevent see story motivatedbygoal know"], "path": ["teacher", "work", "parent", "farm", "farm", "use", "listen", "music", "know"]}
+{"source": "job", "target": "copy", "generate": ["job _motivatedbygoal handle proposals hassubevent rejected _receivesaction contract isa copy"], "path": ["job", "play", "bone", "break", "food", "eat", "coffee", "report", "reading", "live", "movie", "write", "copy"]}
+{"source": "music", "target": "rice", "generate": ["music _isa classical music hasproperty peaceful similarto serene _hasproperty nature _partof rice"], "path": ["music", "school", "study", "art", "farmer", "rice"]}
+{"source": "carry", "target": "work", "generate": ["carry _usedfor desk tray usedfor pens atlocation work"], "path": ["carry", "alive", "play", "matter", "work"]}
+{"source": "enjoy", "target": "energy", "generate": ["enjoy _hassubevent seeing favorite show hasprerequisite energy"], "path": ["enjoy", "work", "spring", "energy"]}
+{"source": "coffee", "target": "poetry", "generate": ["coffee isa artifact _isa poetry"], "path": ["coffee", "cup", "college", "school", "poetry"]}
+{"source": "finish", "target": "eat", "generate": ["finish _motivatedbygoal eat"], "path": ["finish", "road", "woman", "dog", "husband", "eating", "eat"]}
+{"source": "buy", "target": "car", "generate": ["buy hasprerequisite go shopping _usedfor car"], "path": ["buy", "thing", "time", "sell", "day", "love", "music", "roll", "car"]}
+{"source": "sport", "target": "travel", "generate": ["sport _isa roller derby isa sport _usedfor riding bicycle usedfor travel"], "path": ["sport", "game", "area", "work", "farmer", "farm", "land", "type", "dog", "type", "life", "sleep", "vacation", "travel"]}
+{"source": "race", "target": "play", "generate": ["race _usedfor toy car usedfor play"], "path": ["race", "dog", "time", "music", "good", "play"]}
+{"source": "lady", "target": "use", "generate": ["lady usedfor fuck _hassubevent using computer hassubevent use"], "path": ["lady", "lady", "time", "machine", "use"]}
+{"source": "hobby", "target": "music", "generate": ["hobby _isa music"], "path": ["hobby", "play", "hobby", "play", "baseball", "music"]}
+{"source": "box", "target": "shape", "generate": ["box _atlocation sheet of paper _isa poster isa sheet of paper hasproperty rectangular distinctfrom shape"], "path": ["box", "live", "house", "home", "work", "work", "sound", "shape"]}
+{"source": "fun", "target": "school", "generate": ["fun _hasproperty learning _usedfor school"], "path": ["fun", "business", "cost", "degree", "school"]}
+{"source": "work", "target": "feel", "generate": ["work hassubevent feel"], "path": ["work", "love", "write", "work", "work", "study", "study", "love", "fear", "feel"]}
+{"source": "golf", "target": "learn", "generate": ["golf _partof location partof phenomenon usedfor learn"], "path": ["golf", "play", "love", "business", "sound", "learn"]}
+{"source": "plan", "target": "job", "generate": ["plan _hasprerequisite being in charge of project usedfor making money _usedfor job"], "path": ["plan", "order", "time", "meal", "time", "work", "job"]}
+{"source": "chocolate", "target": "understand", "generate": ["chocolate causesdesire eat cookie motivatedbygoal satisfaction _hassubevent understand"], "path": ["chocolate", "eat", "letter", "use", "understand"]}
+{"source": "friend", "target": "love", "generate": ["friend usedfor love"], "path": ["friend", "dog", "dog", "dance", "love"]}
+{"source": "fun", "target": "love", "generate": ["fun _hasproperty sex _createdby baby capableof bring joy _capableof love"], "path": ["fun", "play", "book", "place", "hair", "band", "band", "love"]}
+{"source": "swim", "target": "prefer", "generate": ["swim motivatedbygoal like water _isa drinks usedfor drinking hasprerequisite drink distinctfrom prefer"], "path": ["swim", "water", "family", "child", "prefer"]}
+{"source": "music", "target": "dream", "generate": ["music _isa dream"], "path": ["music", "play", "music", "job", "work", "home", "dream", "time", "job", "money", "day", "family", "father", "music", "dream"]}
+{"source": "travel", "target": "see", "generate": ["travel haslastsubevent arrive at destination _haslastsubevent go somewhere motivatedbygoal see"], "path": ["travel", "work", "age", "life", "sound", "see"]}
+{"source": "dog", "target": "watch", "generate": ["dog capableof watch"], "path": ["dog", "dog", "play", "watch"]}
+{"source": "adult", "target": "work", "generate": ["adult capableof work"], "path": ["adult", "age", "city", "live", "city", "drink", "work"]}
+{"source": "dog", "target": "feed", "generate": ["dog capableof feed"], "path": ["dog", "mother", "dog", "play", "feed"]}
+{"source": "work", "target": "job", "generate": ["work _atlocation job"], "path": ["work", "plan", "time", "job", "hunt", "job", "work", "job"]}
+{"source": "pretty", "target": "pit", "generate": ["pretty _hasproperty diamonds _desires lady atlocation england _atlocation pit"], "path": ["pretty", "good", "car", "dog", "pit"]}
+{"source": "city", "target": "test", "generate": ["city _atlocation yard usedfor measuring _isa defect test isa test"], "path": ["city", "home", "horse", "test"]}
+{"source": "man", "target": "band", "generate": ["man isa band"], "path": ["man", "good", "music", "band"]}
+{"source": "fun", "target": "celebrate", "generate": ["fun _motivatedbygoal celebrate"], "path": ["fun", "time", "money", "birthday", "celebration", "celebrate"]}
+{"source": "restaurant", "target": "talk", "generate": ["restaurant usedfor talk"], "path": ["restaurant", "place", "apply", "work", "music", "sport", "sport", "event", "use", "talk"]}
+{"source": "day", "target": "body", "generate": ["day _isa year isa time partof body"], "path": ["day", "long", "place", "film", "life", "day", "time", "body", "practice", "study", "use", "work", "food", "body"]}
+{"source": "music", "target": "dad", "generate": ["music _usedfor bass fiddle atlocation country band _atlocation fiddle motivatedbygoal mother in law distinctfrom dad"], "path": ["music", "structure", "mom", "dad"]}
+{"source": "kind", "target": "ride", "generate": ["kind distinctfrom mean _hasproperty peter hasa toothache _causes eating cookie hassubevent enjoy yourself _motivatedbygoal ride"], "path": ["kind", "house", "ranch", "horse", "love", "ride"]}
+{"source": "hair", "target": "rainbow", "generate": ["hair _atlocation rainbow"], "path": ["hair", "color", "purple", "color", "rainbow"]}
+{"source": "center", "target": "power", "generate": ["center distinctfrom edge _isa coast usedfor going places _usedfor driving car hasprerequisite power"], "path": ["center", "time", "catch", "power"]}
+{"source": "hiking", "target": "buy", "generate": ["hiking hasprerequisite feet _hasprerequisite going for walk hassubevent carry purse _hassubevent buy"], "path": ["hiking", "dog", "hair", "dog", "time", "weight", "parrot", "weight", "see", "buy"]}
+{"source": "rap", "target": "drive", "generate": ["rap isa software _isa plug in _hasprerequisite drive"], "path": ["rap", "love", "home", "puppy", "child", "honda", "drive"]}
+{"source": "school", "target": "school", "generate": ["school _atlocation school"], "path": ["school", "air", "school", "class", "school"]}
+{"source": "living", "target": "work", "generate": ["living causes pollution _causes going for drive usedfor work"], "path": ["living", "play", "school", "speak", "learn", "experience", "game", "chocolate", "love", "time", "time", "college", "work"]}
+{"source": "job", "target": "force", "generate": ["job _usedfor fixing computer hasprerequisite computer isa force"], "path": ["job", "dance", "movie", "live", "garden", "force"]}
+{"source": "baby", "target": "love", "generate": ["baby capableof bring joy _capableof love"], "path": ["baby", "time", "dog", "kid", "dog", "love"]}
+{"source": "play", "target": "dog", "generate": ["play _desires dog"], "path": ["play", "drive", "race", "work", "industry", "service", "man", "pet", "dog"]}
+{"source": "gym", "target": "student", "generate": ["gym _atlocation student"], "path": ["gym", "exercise", "dog", "work", "machine", "play", "work", "music", "music", "play", "instrument", "play", "learn", "teach", "student"]}
+{"source": "dance", "target": "work", "generate": ["dance hasprerequisite find partner _hasprerequisite work"], "path": ["dance", "dance", "love", "year", "music", "class", "picture", "game", "use", "play", "work", "teacher", "work"]}
+{"source": "fine", "target": "work", "generate": ["fine distinctfrom course _isa class isa work"], "path": ["fine", "work", "walk", "home", "work"]}
+{"source": "fish", "target": "use", "generate": ["fish _isa herring _atlocation herringbone usedfor pick teeth _usedfor machine usedfor use"], "path": ["fish", "fish", "drink", "love", "tea", "drink", "use"]}
+{"source": "car", "target": "kid", "generate": ["car _atlocation human _isa kid"], "path": ["car", "instrument", "band", "music", "age", "music", "school", "kid"]}
+{"source": "time", "target": "parent", "generate": ["time _isa yearling partof horse atlocation family _partof parent"], "path": ["time", "country", "pet", "time", "food", "thing", "food", "cook", "home", "parent"]}
+{"source": "fun", "target": "grade", "generate": ["fun _usedfor writing story causes grade"], "path": ["fun", "dog", "school", "grade", "school", "grade"]}
+{"source": "drink", "target": "war", "generate": ["drink _causesdesire war"], "path": ["drink", "swim", "watch", "war"]}
+{"source": "fine", "target": "pass", "generate": ["fine distinctfrom pass"], "path": ["fine", "music", "time", "word", "work", "study", "work", "love", "member", "father", "pass"]}
+{"source": "good", "target": "wilderness", "generate": ["good _hasproperty compost atlocation forest _atlocation wilderness"], "path": ["good", "work", "dog", "work", "fun", "work", "wilderness"]}
+{"source": "dog", "target": "plan", "generate": ["dog capableof stay in place _hasprerequisite wait for hassubevent write hasprerequisite plan"], "path": ["dog", "work", "work", "language", "book", "plan"]}
+{"source": "puppy", "target": "rest", "generate": ["puppy capableof lie down _hasprerequisite rest"], "path": ["puppy", "dog", "walk", "grow", "rest"]}
+{"source": "living", "target": "country", "generate": ["living _usedfor village atlocation country"], "path": ["living", "farm", "love", "music", "music", "country"]}
+{"source": "cup", "target": "poetry", "generate": ["cup usedfor drinking out of _usedfor glass _madeof poetry"], "path": ["cup", "drink", "type", "friend", "play", "watch", "write", "poetry"]}
+{"source": "cool", "target": "eat", "generate": ["cool _hasproperty dad capableof cook dinner motivatedbygoal eat"], "path": ["cool", "play", "eye", "music", "life", "eat"]}
+{"source": "year", "target": "time", "generate": ["year isa time"], "path": ["year", "library", "book", "love", "year", "year", "time", "time"]}
+{"source": "school", "target": "music", "generate": ["school _atlocation piano usedfor music"], "path": ["school", "horse", "dance", "ride", "horse", "city", "hear", "music"]}
+{"source": "sound", "target": "program", "generate": ["sound _isa laughter _hassubevent have fun _motivatedbygoal program"], "path": ["sound", "home", "pay", "time", "society", "school", "program"]}
+{"source": "door", "target": "day", "generate": ["door atlocation front door _atlocation day"], "path": ["door", "work", "walk", "day"]}
+{"source": "leisure", "target": "sound", "generate": ["leisure _usedfor going see play causes entertained _causes listening to radio hasprerequisite sound"], "path": ["leisure", "time", "work", "sound"]}
+{"source": "cat", "target": "love", "generate": ["cat desires love"], "path": ["cat", "table", "house", "dog", "love", "house", "fit", "dog", "love"]}
+{"source": "work", "target": "travel", "generate": ["work _hasprerequisite travel"], "path": ["work", "pay", "food", "type", "travel"]}
+{"source": "play", "target": "kind", "generate": ["play hasprerequisite have game to play _hasprerequisite play game motivatedbygoal kind"], "path": ["play", "play", "time", "friend", "kind"]}
+{"source": "fan", "target": "food", "generate": ["fan atlocation appliance store _atlocation food"], "path": ["fan", "book", "work", "change", "food"]}
+{"source": "live", "target": "love", "generate": ["live _causesdesire love"], "path": ["live", "father", "war", "city", "live", "work", "food", "food", "love"]}
+{"source": "love", "target": "dog", "generate": ["love _usedfor dog"], "path": ["love", "country", "matter", "work", "food", "love", "dog"]}
+{"source": "walk", "target": "house", "generate": ["walk _usedfor floor atlocation house"], "path": ["walk", "house", "love", "house"]}
+{"source": "college", "target": "job", "generate": ["college usedfor get degree _hasprerequisite work _atlocation job"], "path": ["college", "work", "care", "work", "job"]}
+{"source": "money", "target": "sound", "generate": ["money _hasprerequisite seeing movie hasprerequisite sound"], "path": ["money", "job", "play", "sound"]}
+{"source": "living", "target": "year", "generate": ["living hasprerequisite time _isa year"], "path": ["living", "age", "day", "time", "year"]}
+{"source": "class", "target": "game", "generate": ["class _atlocation game"], "path": ["class", "type", "school", "school", "play", "play", "ride", "game"]}
+{"source": "swim", "target": "love", "generate": ["swim motivatedbygoal like water _motivatedbygoal swim _causesdesire being warm _usedfor starting fire causes love"], "path": ["swim", "movie", "movie", "movie", "action", "fun", "love"]}
+{"source": "work", "target": "sound", "generate": ["work distinctfrom sound"], "path": ["work", "child", "work", "sound"]}
+{"source": "soup", "target": "skateboard", "generate": ["soup isa food _isa ice cream _motivatedbygoal go to store _hasprerequisite skateboard"], "path": ["soup", "time", "cause", "skateboard"]}
+{"source": "pay", "target": "kid", "generate": ["pay _haslastsubevent have party _causesdesire bridge _atlocation troll isa kid"], "path": ["pay", "time", "music", "jazz", "music", "play", "kid"]}
+{"source": "mom", "target": "game", "generate": ["mom capableof mother puppies _capableof dogs atlocation toy store _atlocation game"], "path": ["mom", "work", "work", "play", "school", "study", "problem", "time", "game", "game"]}
+{"source": "day", "target": "independent", "generate": ["day distinctfrom weekends _usedfor enjoying day hasprerequisite peace and quiet atlocation home hasproperty independent"], "path": ["day", "bird", "animal", "animal", "independent"]}
+{"source": "family", "target": "cat", "generate": ["family _partof everybody desires cat"], "path": ["family", "hear", "work", "supermarket", "shop", "pizza", "car", "state", "shop", "world", "cat"]}
+{"source": "morning", "target": "teacher", "generate": ["morning _motivatedbygoal begin work hasprerequisite find job _hasprerequisite earn money _hassubevent teaching other people hassubevent mark"], "path": ["morning", "evening", "work", "teacher"]}
+{"source": "music", "target": "wish", "generate": ["music usedfor enlightenment _usedfor dreaming hassubevent wish"], "path": ["music", "football", "sport", "dog", "animal", "animal", "wish"]}
+{"source": "watch", "target": "health", "generate": ["watch usedfor being on time _hasprerequisite going to work causes health"], "path": ["watch", "drink", "fun", "need", "fit", "diet", "fruit", "health"]}
+{"source": "cook", "target": "love", "generate": ["cook _causesdesire love"], "path": ["cook", "chicken", "fish", "work", "art", "love", "year", "love"]}
+{"source": "chocolate", "target": "use", "generate": ["chocolate atlocation use"], "path": ["chocolate", "cake", "singer", "use"]}
+{"source": "day", "target": "electronic", "generate": ["day _isa monday hasa evening distinctfrom daytime _atlocation shadow madeof electric"], "path": ["day", "school", "year", "class", "watch", "hand", "electronic"]}
+{"source": "fish", "target": "fat", "generate": ["fish motivatedbygoal eat fish _motivatedbygoal fish hasa fat"], "path": ["fish", "eat", "love", "eat", "fish", "fat"]}
+{"source": "good", "target": "eat", "generate": ["good _hasproperty lunch _usedfor buying hamburger causes eat"], "path": ["good", "school", "home", "eat"]}
+{"source": "blood", "target": "computer", "generate": ["blood atlocation hospital _atlocation computer"], "path": ["blood", "music", "rap", "work", "fun", "ride", "computer"]}
+{"source": "play", "target": "parent", "generate": ["play _desires child _hasa parent"], "path": ["play", "money", "father", "sister", "parent"]}
+{"source": "lot", "target": "believe", "generate": ["lot capableof piece of land _isa backyard usedfor having barbecue _usedfor going outside for evening hassubevent pray hasprerequisite believe"], "path": ["lot", "music", "play", "toy", "play", "believe"]}
+{"source": "country", "target": "soccer", "generate": ["country _isa north vietnam _atlocation vietnam war atlocation north vietnam isa country _hasproperty soccer"], "path": ["country", "music", "concert", "school", "use", "school", "school", "job", "work", "play", "soccer"]}
+{"source": "christian", "target": "luck", "generate": ["christian _isa altar boy isa altar server atlocation church _atlocation god usedfor luck"], "path": ["christian", "church", "need", "paint", "wall", "love", "pray", "luck"]}
+{"source": "drink", "target": "laughter", "generate": ["drink _hassubevent enjoying film hassubevent laughter"], "path": ["drink", "stuff", "dance", "drink", "play", "read", "book", "thing", "laughter"]}
+{"source": "afternoon", "target": "never", "generate": ["afternoon distinctfrom night _isa after sunset isa night distinctfrom never"], "path": ["afternoon", "day", "city", "music", "play", "work", "time", "never"]}
+{"source": "occupation", "target": "live", "generate": ["occupation _isa plumbing atlocation house usedfor live"], "path": ["occupation", "time", "degree", "college", "work", "live"]}
+{"source": "sport", "target": "internet", "generate": ["sport _isa bowling _usedfor bowling ball atlocation bowling alley _atlocation electricity _hasprerequisite internet"], "path": ["sport", "love", "play", "watch", "time", "play", "dog", "internet"]}
+{"source": "thing", "target": "time", "generate": ["thing _isa time"], "path": ["thing", "child", "home", "house", "time"]}
+{"source": "music", "target": "type", "generate": ["music usedfor tell story hassubevent use hands _hasprerequisite type"], "path": ["music", "wrestling", "work", "type"]}
+{"source": "girl", "target": "father", "generate": ["girl distinctfrom father"], "path": ["girl", "brother", "die", "dog", "father"]}
+{"source": "gather", "target": "jog", "generate": ["gather _usedfor living room usedfor watching tv hassubevent sit down _hasprerequisite jog"], "path": ["gather", "hobby", "game", "walk", "jog"]}
+{"source": "painter", "target": "art", "generate": ["painter capableof letter sign _capableof artist _createdby art"], "path": ["painter", "art", "use", "switch", "art"]}
+{"source": "cat", "target": "need", "generate": ["cat atlocation need"], "path": ["cat", "cat", "dog", "coat", "need"]}
+{"source": "instrument", "target": "travel", "generate": ["instrument usedfor fun _motivatedbygoal travel"], "path": ["instrument", "play", "work", "library", "read", "travel"]}
+{"source": "music", "target": "hit", "generate": ["music _isa rock capableof break window _capableof baseball bat usedfor hit"], "path": ["music", "metal", "thing", "love", "car", "cut", "work", "road", "hit"]}
+{"source": "work", "target": "money", "generate": ["work motivatedbygoal money"], "path": ["work", "ship", "military", "army", "blue", "school", "center", "drop", "money"]}
+{"source": "amusement", "target": "medium", "generate": ["amusement _usedfor watching film hasprerequisite medium"], "path": ["amusement", "park", "use", "medium"]}
+{"source": "war", "target": "girl", "generate": ["war _atlocation human _isa girl"], "path": ["war", "job", "work", "play", "girl", "football", "team", "girl"]}
+{"source": "kid", "target": "live", "generate": ["kid capableof raise hell _capableof angry person desires vent _hasprerequisite release energy motivatedbygoal live"], "path": ["kid", "child", "pet", "cat", "dog", "work", "house", "live"]}
+{"source": "know", "target": "law", "generate": ["know _motivatedbygoal hear testimony _causesdesire law"], "path": ["know", "study", "college", "learn", "study", "school", "law"]}
+{"source": "believe", "target": "hurt", "generate": ["believe _hassubevent hear testimony hassubevent feel angry _motivatedbygoal hurt else motivatedbygoal hurt"], "path": ["believe", "life", "work", "hurt"]}
+{"source": "work", "target": "love", "generate": ["work _causesdesire love"], "path": ["work", "enjoy", "use", "use", "garden", "animal", "dog", "animal", "love"]}
+{"source": "work", "target": "love", "generate": ["work _causesdesire love"], "path": ["work", "computer", "computer", "fun", "play", "yard", "dog", "love"]}
+{"source": "walk", "target": "family", "generate": ["walk _capableof child partof family"], "path": ["walk", "work", "read", "book", "love", "family"]}
+{"source": "weather", "target": "kid", "generate": ["weather capableof cloud vision _capableof bad weather causesdesire go somewhere _causesdesire reunion _atlocation kid"], "path": ["weather", "listen", "class", "love", "horse", "farm", "city", "child", "kid"]}
+{"source": "food", "target": "night", "generate": ["food atlocation dinner _atlocation drinks _hasprerequisite becoming inebriated usedfor relaxing _usedfor night"], "path": ["food", "chicken", "pizza", "time", "band", "play", "bear", "hair", "pet", "school", "work", "work", "day", "night"]}
+{"source": "see", "target": "job", "generate": ["see _motivatedbygoal go to performance hasprerequisite get in car _hasprerequisite go to work _causesdesire job"], "path": ["see", "morning", "walk", "use", "play", "job"]}
+{"source": "day", "target": "use", "generate": ["day _atlocation light source usedfor see _usedfor light source atlocation flashlight isa use"], "path": ["day", "country", "work", "use"]}
+{"source": "genre", "target": "money", "generate": ["genre _isa science fiction mannerof motion _mannerof investing _usedfor fortune isa money"], "path": ["genre", "music", "music", "time", "use", "money"]}
+{"source": "living", "target": "kid", "generate": ["living _hasproperty meaning of life hasproperty living distinctfrom doll _isa kid"], "path": ["living", "cat", "dog", "house", "house", "work", "family", "father", "family", "dog", "child", "house", "doctor", "pay", "child", "kid"]}
+{"source": "skate", "target": "night", "generate": ["skate _causesdesire winter distinctfrom summer _atlocation sunshine atlocation night"], "path": ["skate", "band", "music", "band", "night"]}
+{"source": "flavor", "target": "work", "generate": ["flavor _hasa cheese receivesaction bought in store _receivesaction bleach atlocation work"], "path": ["flavor", "dog", "time", "work"]}
+{"source": "good", "target": "music", "generate": ["good _hasproperty music"], "path": ["good", "crop", "feel", "job", "work", "farm", "money", "horse", "car", "music"]}
+{"source": "sister", "target": "park", "generate": ["sister isa sibling _isa brother atlocation park"], "path": ["sister", "child", "play", "time", "play", "park"]}
+{"source": "lunch", "target": "drink", "generate": ["lunch _usedfor cafe usedfor drink"], "path": ["lunch", "time", "love", "drink"]}
+{"source": "mind", "target": "believe", "generate": ["mind capableof form thought _hasfirstsubevent communicate hasprerequisite think _hasprerequisite pray hasfirstsubevent believe"], "path": ["mind", "thing", "time", "farm", "man", "city", "body", "need", "belief", "believe"]}
+{"source": "sport", "target": "poor", "generate": ["sport _isa badminton isa act _hassubevent pretend motivatedbygoal poor"], "path": ["sport", "use", "thing", "love", "time", "war", "time", "poor"]}
+{"source": "work", "target": "eat", "generate": ["work _hasprerequisite eat"], "path": ["work", "class", "game", "love", "table", "eat"]}
+{"source": "meat", "target": "character", "generate": ["meat usedfor eating _usedfor character"], "path": ["meat", "eat", "work", "play", "character"]}
+{"source": "trouble", "target": "feel", "generate": ["trouble _causes buying small hassubevent drop distinctfrom carry _hassubevent buying small causes feel"], "path": ["trouble", "animal", "pet", "cat", "sugar", "food", "county", "city", "feel"]}
+{"source": "school", "target": "use", "generate": ["school _atlocation bicycle storage area usedfor park bicycle _haslastsubevent ride bicycle hasprerequisite use"], "path": ["school", "office", "lot", "road", "use"]}
+{"source": "home", "target": "love", "generate": ["home usedfor love"], "path": ["home", "drive", "work", "dog", "love"]}
+{"source": "play", "target": "husband", "generate": ["play _desires dog _isa wife distinctfrom husband"], "path": ["play", "ride", "horse", "school", "playing", "school", "love", "kid", "hair", "bedroom", "house", "love", "room", "color", "husband"]}
+{"source": "dog", "target": "taste", "generate": ["dog capableof hear high pitches _capableof dogs hasa taste"], "path": ["dog", "love", "woman", "feel", "taste"]}
+{"source": "book", "target": "baby", "generate": ["book usedfor entertain yourself _usedfor child isa young rather than old _isa baby"], "path": ["book", "music", "sound", "country", "popular", "play", "live", "history", "job", "work", "read", "reading", "fun", "dog", "baby"]}
+{"source": "fish", "target": "school", "generate": ["fish atlocation school"], "path": ["fish", "time", "school", "grade", "school"]}
+{"source": "hang", "target": "work", "generate": ["hang _motivatedbygoal drill hole motivatedbygoal create path _hassubevent going for walk hassubevent work"], "path": ["hang", "death", "metal", "swim", "water", "water", "work"]}
+{"source": "love", "target": "day", "generate": ["love causesdesire buy for loved one _causesdesire birthday isa day"], "path": ["love", "travel", "house", "kid", "day"]}
+{"source": "thing", "target": "money", "generate": ["thing capableof fall down _hassubevent skateboard _causesdesire money"], "path": ["thing", "lot", "time", "inside", "painting", "paint", "time", "money"]}
+{"source": "work", "target": "live", "generate": ["work _hasprerequisite live"], "path": ["work", "dog", "time", "school", "love", "house", "food", "eat", "meat", "vegetable", "eat", "work", "live"]}
+{"source": "horse", "target": "learn", "generate": ["horse usedfor companionship _motivatedbygoal have conversation motivatedbygoal learn"], "path": ["horse", "play", "farm", "study", "school", "learn"]}
+{"source": "collection", "target": "love", "generate": ["collection _isa family _atlocation love"], "path": ["collection", "play", "dance", "fun", "work", "love"]}
+{"source": "weather", "target": "lot", "generate": ["weather _partof quantity _isa lot"], "path": ["weather", "work", "work", "lot"]}
+{"source": "work", "target": "parent", "generate": ["work _atlocation human _isa parent"], "path": ["work", "work", "cause", "thing", "parent"]}
+{"source": "world", "target": "love", "generate": ["world usedfor love"], "path": ["world", "food", "thing", "family", "kid", "lot", "thing", "good", "love"]}
+{"source": "house", "target": "play", "generate": ["house _atlocation play"], "path": ["house", "pay", "money", "meat", "sport", "play"]}
+{"source": "brother", "target": "love", "generate": ["brother usedfor loving causesdesire give gift _causesdesire love"], "path": ["brother", "child", "house", "love"]}
+{"source": "drink", "target": "war", "generate": ["drink _causesdesire war"], "path": ["drink", "love", "write", "enjoy", "movie", "war"]}
+{"source": "kid", "target": "time", "generate": ["kid capableof iron clothes _hassubevent watching tv show hasprerequisite time"], "path": ["kid", "boy", "store", "time"]}
+{"source": "song", "target": "store", "generate": ["song atlocation store"], "path": ["song", "earth", "fan", "drive", "drive", "use", "store", "store"]}
+{"source": "cool", "target": "block", "generate": ["cool _hasproperty icicles hasproperty ice _atlocation ice cube isa block"], "path": ["cool", "time", "work", "dance", "drink", "fun", "music", "rock", "block"]}
+{"source": "sibling", "target": "love", "generate": ["sibling _isa aapa isa sibling atlocation family _atlocation love"], "path": ["sibling", "aunt", "mother", "man", "good", "job", "work", "dance", "care", "love"]}
+{"source": "watch", "target": "relationship", "generate": ["watch _hassubevent loving else causes relationship"], "path": ["watch", "count", "home", "love", "relationship"]}
+{"source": "performance", "target": "watch", "generate": ["performance usedfor watch"], "path": ["performance", "job", "life", "sound", "play", "watch"]}
+{"source": "hate", "target": "color", "generate": ["hate isa strong emotion _isa fear hasproperty natural _hasproperty color"], "path": ["hate", "dance", "twist", "food", "eat", "play", "game", "color"]}
+{"source": "year", "target": "flower", "generate": ["year _partof season _atlocation rose isa flower"], "path": ["year", "place", "garden", "flower"]}
+{"source": "speak", "target": "place", "generate": ["speak _usedfor platform isa place"], "path": ["speak", "language", "speak", "language", "place"]}
+{"source": "great", "target": "farm", "generate": ["great _hasproperty sex _desires joe isa butcher capableof bone chicken _capableof farm"], "path": ["great", "farm", "work", "home", "service", "farm"]}
+{"source": "work", "target": "time", "generate": ["work _isa time"], "path": ["work", "play", "time", "bit", "place", "time", "work", "work", "water", "bar", "color", "sound", "water", "time"]}
+{"source": "garden", "target": "station", "generate": ["garden _atlocation rosebush atlocation atlas isa station"], "path": ["garden", "read", "work", "work", "station"]}
+{"source": "type", "target": "judge", "generate": ["type hassubevent think _hasprerequisite judge"], "path": ["type", "music", "love", "profession", "judge"]}
+{"source": "metal", "target": "use", "generate": ["metal usedfor build things _usedfor tool usedfor use"], "path": ["metal", "work", "work", "hear", "work", "work", "use"]}
+{"source": "picture", "target": "war", "generate": ["picture _isa photograph _atlocation bald eagle atlocation captivity distinctfrom freedom isa war"], "path": ["picture", "color", "love", "animal", "war"]}
+{"source": "dog", "target": "test", "generate": ["dog capableof turn over _hassubevent examining thing hassubevent test"], "path": ["dog", "year", "travel", "use", "food", "cook", "eat", "test"]}
+{"source": "work", "target": "love", "generate": ["work _causesdesire love"], "path": ["work", "school", "study", "love"]}
+{"source": "drink", "target": "mountain", "generate": ["drink _usedfor mountain"], "path": ["drink", "bar", "fun", "play", "mountain"]}
+{"source": "thing", "target": "cool", "generate": ["thing capableof fall down _hassubevent skate motivatedbygoal cool"], "path": ["thing", "love", "lot", "fun", "pup", "animal", "job", "home", "car", "money", "forest", "cool"]}
+{"source": "break", "target": "hope", "generate": ["break _capableof hope"], "path": ["break", "gig", "school", "country", "blood", "home", "life", "hope"]}
+{"source": "evening", "target": "know", "generate": ["evening _hasprerequisite watching evening news causes learn about current events _motivatedbygoal read newspaper motivatedbygoal know"], "path": ["evening", "live", "enjoy", "school", "work", "time", "music", "love", "know"]}
+{"source": "love", "target": "school", "generate": ["love isa abstract concept _isa rule atlocation school"], "path": ["love", "farm", "home", "school", "school"]}
+{"source": "class", "target": "figure", "generate": ["class _atlocation triangle isa figure"], "path": ["class", "trip", "travel", "fish", "cook", "art", "figure", "family", "figure"]}
+{"source": "use", "target": "month", "generate": ["use _atlocation time _isa year distinctfrom month"], "path": ["use", "work", "grow", "month"]}
+{"source": "hobby", "target": "play", "generate": ["hobby _isa play"], "path": ["hobby", "use", "play", "violin", "sport", "use", "play"]}
+{"source": "shape", "target": "lot", "generate": ["shape _isa quantity distinctfrom lot"], "path": ["shape", "work", "play", "music", "wear", "lot"]}
+{"source": "head", "target": "stuff", "generate": ["head partof human body madeof flesh isa stuff"], "path": ["head", "week", "day", "sun", "skin", "stuff"]}
+{"source": "play", "target": "car", "generate": ["play _usedfor car"], "path": ["play", "work", "play", "sound", "country", "car", "pick", "car"]}
+{"source": "plan", "target": "drama", "generate": ["plan _hasprerequisite writing story usedfor drama"], "path": ["plan", "school", "music", "work", "character", "drama"]}
+{"source": "belief", "target": "food", "generate": ["belief _isa freedom hasproperty good _hasproperty food"], "path": ["belief", "christmas", "watch", "love", "movie", "action", "food"]}
+{"source": "finish", "target": "skate", "generate": ["finish _isa stain hasproperty dark _hasproperty mood causesdesire skate"], "path": ["finish", "school", "thing", "skate"]}
+{"source": "job", "target": "music", "generate": ["job usedfor earning living hassubevent accomplish _motivatedbygoal perform _causesdesire music"], "path": ["job", "work", "country", "lot", "music", "sound", "music"]}
+{"source": "year", "target": "feel", "generate": ["year _partof week _isa year isa time _hasprerequisite seeing art hassubevent feel"], "path": ["year", "read", "reading", "eat", "feel"]}
+{"source": "farm", "target": "music", "generate": ["farm _atlocation cow atlocation music"], "path": ["farm", "body", "sound", "water", "work", "job", "music", "music"]}
+{"source": "author", "target": "single", "generate": ["author _createdby novel isa single"], "path": ["author", "farmer", "grow", "love", "single"]}
+{"source": "work", "target": "dog", "generate": ["work _atlocation assignments atlocation work distinctfrom dog"], "path": ["work", "job", "work", "hobby", "love", "sound", "animal", "pet", "dog"]}
+{"source": "cat", "target": "pass", "generate": ["cat capableof learn to walk _hasprerequisite run after ball motivatedbygoal pass"], "path": ["cat", "family", "love", "understanding", "man", "pass"]}
+{"source": "yacht", "target": "understand", "generate": ["yacht isa ship _isa schooner atlocation sea _atlocation peace and quiet _motivatedbygoal conquer opponent hasprerequisite understand"], "path": ["yacht", "water", "year", "animal", "time", "son", "understand"]}
+{"source": "love", "target": "baby", "generate": ["love _desires baby"], "path": ["love", "sound", "see", "place", "money", "time", "travel", "work", "suit", "cat", "job", "work", "age", "baby"]}
+{"source": "raise", "target": "hope", "generate": ["raise _desires employee capableof have to work _causes getting contract causes hope"], "path": ["raise", "grow", "movie", "love", "wish", "hope"]}
+{"source": "stuff", "target": "dump", "generate": ["stuff atlocation dump"], "path": ["stuff", "time", "school", "care", "child", "time", "human", "life", "dump"]}
+{"source": "hobby", "target": "time", "generate": ["hobby _isa astronomy isa time"], "path": ["hobby", "dog", "stuff", "family", "dad", "doctor", "work", "play", "money", "house", "life", "place", "work", "time"]}
+{"source": "farm", "target": "house", "generate": ["farm _atlocation heifer atlocation yard isa unit of measurement _isa foot partof house"], "path": ["farm", "drink", "life", "sleep", "car", "house"]}
+{"source": "color", "target": "kid", "generate": ["color _desires colorado _atlocation human _isa kid"], "path": ["color", "water", "drive", "car", "office", "restaurant", "eat", "family", "kid"]}
+{"source": "fun", "target": "student", "generate": ["fun _hasproperty reading books _capableof student"], "path": ["fun", "dog", "shape", "work", "college", "student"]}
+{"source": "love", "target": "character", "generate": ["love _usedfor character"], "path": ["love", "work", "world", "school", "character"]}
+{"source": "live", "target": "rent", "generate": ["live distinctfrom rent"], "path": ["live", "travel", "hold", "eat", "home", "thing", "school", "rent"]}
+{"source": "fun", "target": "work", "generate": ["fun distinctfrom work"], "path": ["fun", "action", "sound", "work"]}
+{"source": "rap", "target": "music", "generate": ["rap isa music"], "path": ["rap", "music", "rap", "music"]}
+{"source": "time", "target": "age", "generate": ["time capableof age"], "path": ["time", "work", "library", "fun", "book", "age"]}
+{"source": "sibling", "target": "profit", "generate": ["sibling _isa aapa isa sibling atlocation family _atlocation success"], "path": ["sibling", "sister", "figure", "fun", "profit"]}
+{"source": "good", "target": "burn", "generate": ["good _hasproperty sex capableof burn"], "path": ["good", "thing", "work", "time", "live", "area", "place", "live", "place", "area", "burn"]}
+{"source": "fun", "target": "family", "generate": ["fun _hasproperty family"], "path": ["fun", "work", "dog", "love", "father", "family", "drink", "read", "love", "kind", "day", "family"]}
+{"source": "write", "target": "long", "generate": ["write hasprerequisite use pencil _hasprerequisite do crossword puzzle hassubevent stop distinctfrom long"], "path": ["write", "work", "use", "home", "long"]}
+{"source": "work", "target": "cheese", "generate": ["work _atlocation cheese"], "path": ["work", "use", "time", "war", "love", "heart", "work", "stuff", "cheese"]}
+{"source": "work", "target": "color", "generate": ["work _atlocation paint isa color"], "path": ["work", "food", "eat", "color"]}
+{"source": "see", "target": "house", "generate": ["see _usedfor house"], "path": ["see", "house", "eat", "food", "play", "house"]}
+{"source": "time", "target": "watch", "generate": ["time _isa clock usedfor know time _usedfor watch"], "path": ["time", "park", "play", "good", "time", "watch"]}
+{"source": "time", "target": "living", "generate": ["time _hasprerequisite living"], "path": ["time", "time", "time", "work", "living"]}
+{"source": "work", "target": "city", "generate": ["work _usedfor rented flat atlocation city"], "path": ["work", "work", "money", "sound", "break", "injury", "exercise", "work", "fun", "farm", "school", "city"]}
+{"source": "good", "target": "common", "generate": ["good distinctfrom common"], "path": ["good", "feel", "color", "eye", "common"]}
+{"source": "job", "target": "drop", "generate": ["job usedfor earning living _usedfor waiting tables hassubevent drop"], "path": ["job", "money", "cash", "use", "sell", "car", "use", "drop"]}
+{"source": "money", "target": "cool", "generate": ["money usedfor buy groceries _motivatedbygoal stand in line motivatedbygoal cool"], "path": ["money", "school", "teaching", "language", "use", "silver", "color", "cool"]}
+{"source": "day", "target": "motorcycle", "generate": ["day _atlocation daydream atlocation space shuttle isa transport container _isa motorcycle"], "path": ["day", "park", "ride", "exercise", "motorcycle"]}
+{"source": "color", "target": "light", "generate": ["color _isa yellow distinctfrom light"], "path": ["color", "table", "play", "light", "light"]}
+{"source": "live", "target": "teaching", "generate": ["live hassubevent learn _hassubevent teaching"], "path": ["live", "work", "school", "teaching"]}
+{"source": "shelter", "target": "psychology", "generate": ["shelter _usedfor interior area usedfor throw party _hasprerequisite socialize motivatedbygoal friendship _causes talking to hasprerequisite psychology"], "path": ["shelter", "family", "street", "read", "psychology"]}
+{"source": "game", "target": "sound", "generate": ["game _partof act isa sound"], "path": ["game", "dance", "dance", "song", "hop", "grow", "music", "time", "piece", "sound"]}
+{"source": "world", "target": "gym", "generate": ["world _atlocation ferret atlocation gym"], "path": ["world", "time", "time", "art", "food", "house", "gym"]}
+{"source": "marry", "target": "eat", "generate": ["marry _motivatedbygoal propose to woman hasprerequisite eat"], "path": ["marry", "gym", "soup", "friend", "family", "eat"]}
+{"source": "kid", "target": "know", "generate": ["kid capableof cross road hasprerequisite know"], "path": ["kid", "farm", "grow", "music", "country", "country", "group", "know"]}
+{"source": "love", "target": "kid", "generate": ["love _motivatedbygoal flirt hasprerequisite tease similarto kid"], "path": ["love", "sport", "thing", "child", "ocean", "dog", "child", "school", "child", "thing", "money", "home", "child", "kid"]}
+{"source": "work", "target": "thing", "generate": ["work _atlocation human isa thing"], "path": ["work", "job", "dog", "student", "study", "figure", "thing"]}
+{"source": "woman", "target": "respect", "generate": ["woman distinctfrom male _isa grandfather partof family _atlocation love isa respect"], "path": ["woman", "disagree", "agree", "respect"]}
+{"source": "cooking", "target": "cook", "generate": ["cooking hassubevent chop vegetables _capableof cook"], "path": ["cooking", "cook", "cooking", "cook"]}
+{"source": "baseball", "target": "dog", "generate": ["baseball _usedfor bat capableof hit ball _capableof dog"], "path": ["baseball", "team", "fish", "dog"]}
+{"source": "today", "target": "country", "generate": ["today isa christian holy day _isa epiphany _hassubevent thinking usedfor projects _atlocation government atlocation country"], "path": ["today", "evening", "play", "business", "time", "play", "time", "country"]}
+{"source": "world", "target": "grow", "generate": ["world hasa life capableof grow"], "path": ["world", "shop", "money", "thing", "shoe", "job", "work", "job", "parent", "grow"]}
+{"source": "family", "target": "dog", "generate": ["family _partof everybody desires cat capableof smell scents _capableof dog"], "path": ["family", "drive", "race", "fun", "car", "dog", "fish", "dog"]}
+{"source": "motorcycle", "target": "car", "generate": ["motorcycle _isa harley davidson motorcycle isa motorcycle hasa two wheels _hasa car"], "path": ["motorcycle", "car", "buy", "car"]}
+{"source": "time", "target": "stick", "generate": ["time _isa archeology _usedfor cave _atlocation stick"], "path": ["time", "fun", "ride", "source", "weather", "eye", "stick"]}
+{"source": "great", "target": "service", "generate": ["great _hasproperty sex isa service"], "path": ["great", "good", "sound", "see", "need", "arm", "home", "service"]}
+{"source": "day", "target": "thing", "generate": ["day _atlocation sand isa thing"], "path": ["day", "play", "lot", "thing"]}
+{"source": "cook", "target": "learn", "generate": ["cook hasprerequisite have source of heat _hasprerequisite cook meal haslastsubevent serve causesdesire agree with hassubevent learn"], "path": ["cook", "food", "thing", "food", "facebook", "learn"]}
+{"source": "die", "target": "home", "generate": ["die _hassubevent relaxing _usedfor home"], "path": ["die", "life", "dance", "drink", "shake", "dance", "home", "pig", "home"]}
+{"source": "music", "target": "teacher", "generate": ["music usedfor enlightenment _usedfor teaching other people hasprerequisite teacher"], "path": ["music", "love", "dog", "eat", "car", "sound", "teach", "teacher"]}
+{"source": "day", "target": "parent", "generate": ["day _atlocation daycare isa parent"], "path": ["day", "morning", "walk", "store", "fish", "parent"]}
+{"source": "evening", "target": "school", "generate": ["evening _usedfor meeting friend usedfor school"], "path": ["evening", "day", "shape", "walking", "stay", "dog", "band", "school"]}
+{"source": "kid", "target": "eat", "generate": ["kid capableof wash dishes _haslastsubevent eat"], "path": ["kid", "animal", "provide", "store", "eat", "eat"]}
+{"source": "great", "target": "buy", "generate": ["great _hasproperty sex _hassubevent buy"], "path": ["great", "work", "time", "day", "love", "work", "church", "sing", "dance", "dance", "dancing", "money", "pay", "buy"]}
+{"source": "school", "target": "learn", "generate": ["school usedfor learn"], "path": ["school", "school", "day", "school", "learn"]}
+{"source": "evening", "target": "sport", "generate": ["evening _usedfor going to play usedfor sport"], "path": ["evening", "dog", "animal", "living", "work", "play", "sport"]}
+{"source": "hear", "target": "year", "generate": ["hear distinctfrom touch _hassubevent kiss _causesdesire romance _usedfor walking in rain hasprerequisite year"], "path": ["hear", "work", "woman", "love", "year"]}
+{"source": "good", "target": "college", "generate": ["good _hasproperty sex atlocation college"], "path": ["good", "love", "cat", "fun", "time", "war", "movie", "play", "college"]}
+{"source": "father", "target": "math", "generate": ["father distinctfrom mom capableof mother children _capableof adults _usedfor using computer usedfor math"], "path": ["father", "age", "pet", "pet", "sport", "play", "live", "play", "year", "shape", "play", "play", "school", "math"]}
+{"source": "age", "target": "pair", "generate": ["age distinctfrom young capableof enjoy _capableof young couple isa pair"], "path": ["age", "dog", "grow", "play", "love", "shop", "pair"]}
+{"source": "fun", "target": "care", "generate": ["fun _hasproperty destroying enemy hasprerequisite care"], "path": ["fun", "music", "sound", "work", "care"]}
+{"source": "house", "target": "kid", "generate": ["house _atlocation beanbag chair usedfor children capableof bicycle to school _capableof kid"], "path": ["house", "year", "thing", "baby", "kid"]}
+{"source": "house", "target": "share", "generate": ["house _atlocation share"], "path": ["house", "house", "eat", "chocolate", "share"]}
+{"source": "music", "target": "drive", "generate": ["music usedfor relax _motivatedbygoal drive"], "path": ["music", "play", "music", "hobby", "work", "drive"]}
+{"source": "traffic", "target": "reason", "generate": ["traffic _causes going to work hasprerequisite reason"], "path": ["traffic", "road", "use", "point", "building", "ocean", "reason"]}
+{"source": "month", "target": "sheep", "generate": ["month _isa one unit of time isa week _partof day _atlocation sheep"], "path": ["month", "sound", "horse", "farm", "work", "work", "music", "rock", "play", "sleep", "work", "grass", "animal", "sheep"]}
+{"source": "field", "target": "fun", "generate": ["field _atlocation soccer field usedfor fun"], "path": ["field", "crop", "plant", "field", "food", "eat", "work", "music", "horse", "long", "fun"]}
+{"source": "life", "target": "work", "generate": ["life _partof work"], "path": ["life", "experience", "change", "hold", "thing", "work"]}
+{"source": "sound", "target": "see", "generate": ["sound usedfor see"], "path": ["sound", "house", "house", "school", "time", "life", "play", "play", "see"]}
+{"source": "eat", "target": "dog", "generate": ["eat _desires dog"], "path": ["eat", "dog", "cat", "dog"]}
+{"source": "living", "target": "summer", "generate": ["living _isa spring distinctfrom summer"], "path": ["living", "house", "music", "stone", "band", "rock", "summer"]}
+{"source": "work", "target": "eye", "generate": ["work _atlocation monkey hasa nose distinctfrom eye"], "path": ["work", "work", "walk", "dog", "work", "fun", "daddy", "dad", "eye"]}
+{"source": "girl", "target": "grey", "generate": ["girl distinctfrom man isa colour _isa grey"], "path": ["girl", "fun", "color", "grey"]}
+{"source": "lot", "target": "live", "generate": ["lot capableof piece of land _isa backyard usedfor grow garden _hasprerequisite have food motivatedbygoal live"], "path": ["lot", "year", "life", "family", "live"]}
+{"source": "fun", "target": "time", "generate": ["fun _hasproperty time"], "path": ["fun", "music", "friend", "time"]}
+{"source": "language", "target": "speak", "generate": ["language _isa esperanto _partof language usedfor speak"], "path": ["language", "sport", "work", "language", "speak"]}
+{"source": "thing", "target": "use", "generate": ["thing usedfor use"], "path": ["thing", "good", "hobby", "time", "time", "body", "eat", "control", "use"]}
+{"source": "lot", "target": "school", "generate": ["lot capableof piece of land _isa backyard atlocation school"], "path": ["lot", "work", "year", "school"]}
+{"source": "today", "target": "brother", "generate": ["today isa christmas _usedfor brother"], "path": ["today", "time", "dog", "play", "ride", "race", "eat", "skin", "color", "eye", "head", "eat", "brother"]}
+{"source": "sleep", "target": "olive", "generate": ["sleep _causesdesire bottle of wine _partof olive"], "path": ["sleep", "dog", "dog", "cat", "cat", "fridge", "pizza", "olive"]}
+{"source": "live", "target": "work", "generate": ["live hasprerequisite work"], "path": ["live", "age", "work", "fun", "work"]}
+{"source": "trick", "target": "daughter", "generate": ["trick _desires hooker atlocation bed _atlocation mother in law distinctfrom daughter"], "path": ["trick", "daughter", "hair", "daughter"]}
+{"source": "good", "target": "sky", "generate": ["good _hasproperty sky"], "path": ["good", "cooking", "cook", "eat", "bar", "love", "play", "sky"]}
+{"source": "live", "target": "soccer", "generate": ["live _hasproperty soccer"], "path": ["live", "grow", "work", "read", "love", "book", "sport", "soccer"]}
+{"source": "live", "target": "love", "generate": ["live _causesdesire love"], "path": ["live", "pain", "food", "time", "world", "place", "love"]}
+{"source": "eat", "target": "thing", "generate": ["eat _capableof thing"], "path": ["eat", "eating", "eat", "food", "meat", "need", "thing"]}
+{"source": "relax", "target": "music", "generate": ["relax _causesdesire music"], "path": ["relax", "relaxation", "dance", "music", "music"]}
+{"source": "class", "target": "generation", "generate": ["class similarto generation"], "path": ["class", "class", "mind", "school", "house", "house", "land", "generation", "generation"]}
+{"source": "chocolate", "target": "dog", "generate": ["chocolate atlocation movies _atlocation horse capableof smell fear _capableof dog"], "path": ["chocolate", "food", "play", "watch", "talk", "stone", "dog"]}
+{"source": "shop", "target": "work", "generate": ["shop usedfor work"], "path": ["shop", "live", "watch", "time", "watch", "power", "work"]}
+{"source": "watch", "target": "stay", "generate": ["watch _hassubevent go to mall hasprerequisite leave distinctfrom stay"], "path": ["watch", "read", "love", "love", "year", "stay"]}
+{"source": "love", "target": "dog", "generate": ["love _usedfor dog"], "path": ["love", "eat", "time", "cream", "eat", "need", "pain", "animal", "dog"]}
+{"source": "boy", "target": "cat", "generate": ["boy distinctfrom man similarto woman _isa amazon _atlocation cat"], "path": ["boy", "life", "work", "home", "time", "cat"]}
+{"source": "mother", "target": "baby", "generate": ["mother distinctfrom daughter isa baby"], "path": ["mother", "leave", "walk", "baby"]}
+{"source": "time", "target": "thing", "generate": ["time isa thing"], "path": ["time", "free", "love", "lot", "thing"]}
+{"source": "work", "target": "dog", "generate": ["work _isa care _capableof dog"], "path": ["work", "dog", "school", "talk", "school", "dog", "house", "dog"]}
+{"source": "thinking", "target": "life", "generate": ["thinking causes experience capableof increase knowledge _capableof experience _createdby life"], "path": ["thinking", "music", "cool", "dance", "life"]}
+{"source": "coffee", "target": "love", "generate": ["coffee atlocation internet cafe _atlocation conversation _usedfor meeting friend causes love"], "path": ["coffee", "drink", "alcohol", "color", "enjoy", "love"]}
+{"source": "fish", "target": "white", "generate": ["fish _isa herring _atlocation herringbone hasproperty black distinctfrom white"], "path": ["fish", "play", "eat", "fish", "color", "white"]}
+{"source": "enjoy", "target": "love", "generate": ["enjoy _motivatedbygoal kiss _causesdesire love"], "path": ["enjoy", "cooking", "vegetable", "love"]}
+{"source": "city", "target": "hobby", "generate": ["city _atlocation parlor usedfor dancing isa hobby"], "path": ["city", "country", "farm", "horse", "business", "hobby"]}
+{"source": "vacation", "target": "teacher", "generate": ["vacation _usedfor round trip ticket usedfor vacation _desires teacher"], "path": ["vacation", "work", "animal", "car", "love", "dog", "teacher"]}
+{"source": "fall", "target": "dog", "generate": ["fall _hassubevent jump _desires kangaroo capableof jump high _capableof kangaroo isa dog"], "path": ["fall", "play", "cooking", "hand", "idea", "family", "friend", "walk", "ride", "home", "floor", "family", "child", "child", "dog"]}

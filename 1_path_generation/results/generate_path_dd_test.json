@@ -1,0 +1,964 @@
+{"source": "buy", "target": "arrest", "generate": ["buy _causesdesire needing causesdesire give assistance haslastsubevent ask questions _hassubevent serving justice causes arrest"]}
+{"source": "driver", "target": "hot", "generate": ["driver capableof start engine _haslastsubevent drive car hassubevent getting somewhere _usedfor main traffic artery hasproperty hot"]}
+{"source": "cent", "target": "come", "generate": ["cent distinctfrom dollar usedfor buying lottery ticket causesdesire dream _motivatedbygoal go to bed haslastsubevent come"]}
+{"source": "believe", "target": "go", "generate": ["believe _hasprerequisite hear testimony hasprerequisite go"]}
+{"source": "personal", "target": "frequently", "generate": ["personal _hasproperty not all stories hasproperty true distinctfrom myth isa frequently"]}
+{"source": "drive", "target": "break", "generate": ["drive hassubevent hole in one hasproperty costly _hasproperty hole usedfor break"]}
+{"source": "drive", "target": "couple", "generate": ["drive _capableof couple"]}
+{"source": "good", "target": "much", "generate": ["good distinctfrom much"]}
+{"source": "dear", "target": "next", "generate": ["dear distinctfrom next"]}
+{"source": "hello", "target": "appreciate", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs motivatedbygoal hurt _motivatedbygoal forgive hasprerequisite appreciate"]}
+{"source": "help", "target": "arrange", "generate": ["help hasprerequisite arrange"]}
+{"source": "busy", "target": "oh", "generate": ["busy distinctfrom cool isa single _isa oh"]}
+{"source": "bad", "target": "apologize", "generate": ["bad _hasproperty killing people hassubevent feel remorse _hassubevent hurt else hasfirstsubevent apologize"]}
+{"source": "book", "target": "hold", "generate": ["book usedfor hold"]}
+{"source": "area", "target": "much", "generate": ["area distinctfrom much"]}
+{"source": "hotel", "target": "forward", "generate": ["hotel _atlocation stairs capableof step up _causes taking stand hasprerequisite standing distinctfrom forward"]}
+{"source": "bill", "target": "check", "generate": ["bill atlocation mail box _atlocation check"]}
+{"source": "evening", "target": "guarantee", "generate": ["evening _usedfor eating lunch hasprerequisite time capableof age isa newspaper _atlocation guarantee"]}
+{"source": "buy", "target": "happy", "generate": ["buy motivatedbygoal needed sex _motivatedbygoal love another hassubevent happy"]}
+{"source": "anything", "target": "minute", "generate": ["anything _isa matter hasproperty liquid _hasproperty water _atlocation minute"]}
+{"source": "pull", "target": "go", "generate": ["pull distinctfrom go"]}
+{"source": "film", "target": "copy", "generate": ["film _isa hire similarto rent distinctfrom copy"]}
+{"source": "bit", "target": "family", "generate": ["bit partof bridle _partof bit similarto jolt isa soft drink _atlocation bee atlocation family"]}
+{"source": "eat", "target": "know", "generate": ["eat hasprerequisite open mouth _hasfirstsubevent talk _hasprerequisite express information motivatedbygoal know"]}
+{"source": "afternoon", "target": "let", "generate": ["afternoon distinctfrom evening _usedfor relaxing hasprerequisite letting isa let"]}
+{"source": "today", "target": "much", "generate": ["today distinctfrom much"]}
+{"source": "insurance", "target": "insurance", "generate": ["insurance _isa life insurance similarto life insurance isa insurance"]}
+{"source": "hello", "target": "welcome", "generate": ["hello distinctfrom goodbye isa single _isa what goes around comes around _motivatedbygoal help hasfirstsubevent welcome"]}
+{"source": "ability", "target": "ability", "generate": ["ability _isa ability"]}
+{"source": "help", "target": "name", "generate": ["help hasprerequisite teach what know _capableof expert capableof teach what know _hasprerequisite help _usedfor name"]}
+{"source": "ivy", "target": "flight", "generate": ["ivy capableof pest _hasproperty mosquitoes atlocation air _atlocation flight"]}
+{"source": "help", "target": "able", "generate": ["help hasprerequisite able"]}
+{"source": "advertising", "target": "good", "generate": ["advertising _usedfor paper sign usedfor protest distinctfrom agree _hassubevent jumping at chance causes good"]}
+{"source": "dan", "target": "do_not_know", "generate": ["dan hasproperty nuts _hasproperty sherrie desires sex causesdesire judge motivatedbygoal do not know"]}
+{"source": "ever", "target": "lazy", "generate": ["ever _usedfor getting in shape hassubevent lift weights _hasprerequisite get exercise motivatedbygoal lazy"]}
+{"source": "help", "target": "fantastic", "generate": ["help hasprerequisite teach _usedfor books hasproperty fantastic"]}
+{"source": "afternoon", "target": "afraid", "generate": ["afternoon distinctfrom night _atlocation stranger hasproperty afraid"]}
+{"source": "cheater", "target": "come", "generate": ["cheater capableof feel guilty _haslastsubevent get away with crime hasfirstsubevent breathe sigh of relief _haslastsubevent stop standing"]}
+{"source": "office", "target": "absent", "generate": ["office _atlocation dust hasproperty absent"]}
+{"source": "afternoon", "target": "dollar", "generate": ["afternoon distinctfrom evening _usedfor relaxing _hasproperty shopping _atlocation dollar"]}
+{"source": "anyone", "target": "call", "generate": ["anyone capableof voice opinion _hassubevent communicating _usedfor call"]}
+{"source": "evening", "target": "course", "generate": ["evening distinctfrom course"]}
+{"source": "black", "target": "business", "generate": ["black _hasproperty ink atlocation business"]}
+{"source": "miss", "target": "welcome", "generate": ["miss distinctfrom hello isa greeting usedfor welcome"]}
+{"source": "bubble", "target": "helpful", "generate": ["bubble capableof burst similarto split atlocation fork in road _atlocation knowledge hasproperty helpful"]}
+{"source": "aroma", "target": "pleasure", "generate": ["aroma causesdesire buy hamburger hassubevent spending of money _hassubevent buying beer usedfor pleasure"]}
+{"source": "room", "target": "fine", "generate": ["room _atlocation fine"]}
+{"source": "favor", "target": "cold", "generate": ["favor _usedfor buying small causes great pleasure _causes buying small hassubevent earthquake causes cold"]}
+{"source": "excuse", "target": "ok", "generate": ["excuse _motivatedbygoal find information motivatedbygoal knowledge partof understanding distinctfrom misunderstanding capableof cause stigma _capableof ok"]}
+{"source": "girl", "target": "believe", "generate": ["girl distinctfrom men isa film _isa proposition partof argument causesdesire hear testimony hasprerequisite believe"]}
+{"source": "inside", "target": "fill", "generate": ["inside _hasproperty interior _isa room _atlocation hole usedfor fill"]}
+{"source": "afternoon", "target": "finish", "generate": ["afternoon distinctfrom night _atlocation sloth atlocation painting causes finishing"]}
+{"source": "eat", "target": "deep", "generate": ["eat haslastsubevent wash dishes _haslastsubevent eat lunch _usedfor school cafeteria atlocation deep"]}
+{"source": "go", "target": "certainly", "generate": ["go isa film _isa certainly"]}
+{"source": "china", "target": "price", "generate": ["china _atlocation hump partof camel _partof hump isa quantity _isa price"]}
+{"source": "go", "target": "welcome", "generate": ["go isa greeting usedfor welcome"]}
+{"source": "call", "target": "hell", "generate": ["call usedfor contact _mannerof christianity isa hell"]}
+{"source": "good", "target": "accord", "generate": ["good _hasproperty music _usedfor accordion atlocation accord"]}
+{"source": "back", "target": "not_sure", "generate": ["back distinctfrom start _hasprerequisite jump at chance motivatedbygoal not sure"]}
+{"source": "dress", "target": "dress", "generate": ["dress distinctfrom dress"]}
+{"source": "fish", "target": "thank", "generate": ["fish hasprerequisite buy _hasprerequisite thank"]}
+{"source": "advice", "target": "behavior", "generate": ["advice atlocation doctor capableof care _hasprerequisite maintaining good health hasprerequisite taking vitamins isa behavior"]}
+{"source": "announce", "target": "anything", "generate": ["announce _capableof newspaper _atlocation piece of information isa abstract concept _isa god atlocation anything"]}
+{"source": "appointment", "target": "ok", "generate": ["appointment _hasprerequisite going to hairdresser usedfor special occassion _motivatedbygoal celebrate hasprerequisite with friends _hasfirstsube"]}
+{"source": "assist", "target": "come", "generate": ["assist _motivatedbygoal work distinctfrom leave similarto come"]}
+{"source": "help", "target": "beautiful", "generate": ["help hasprerequisite teach what know _hasprerequisite help motivatedbygoal nice distinctfrom ugly"]}
+{"source": "hello", "target": "ahead", "generate": ["hello distinctfrom behind similarto ahead"]}
+{"source": "emergency", "target": "appreciate", "generate": ["emergency causesdesire give assistance haslastsubevent smile _hasfirstsubevent thank motivatedbygoal appreciate"]}
+{"source": "bar", "target": "okay", "generate": ["bar _atlocation beer _isa okay"]}
+{"source": "come", "target": "moment", "generate": ["come distinctfrom leave _haslastsubevent attend classical concert _causesdesire love of music causesdesire play piano hassubevent momentum"]}
+{"source": "at_home", "target": "bang", "generate": ["at_home _hasprerequisite get drunk haslastsubevent puke isa noise _isa bang"]}
+{"source": "appointment", "target": "bye", "generate": ["appointment causesdesire go somewhere haslastsubevent bye"]}
+{"source": "cry", "target": "brother", "generate": ["cry _capableof eye usedfor crying _isa tearing _usedfor brother"]}
+{"source": "buy", "target": "good", "generate": ["buy motivatedbygoal needed sex _motivatedbygoal love another hasprerequisite get to know _usedfor party hasproperty good"]}
+{"source": "apple", "target": "four", "generate": ["apple hasa seeds _hasa limes isa cardinal number _isa five similarto four"]}
+{"source": "minute", "target": "appreciate", "generate": ["minute distinctfrom year isa time _hasprerequisite buying for loved one causes thank motivatedbygoal appreciate"]}
+{"source": "show", "target": "help", "generate": ["show _atlocation performance usedfor feeling good causesdesire help"]}
+{"source": "file", "target": "apologize", "generate": ["file usedfor escaping from prison causesdesire commit perjury hasfirstsubevent apologize"]}
+{"source": "bicycle", "target": "much", "generate": ["bicycle _partof wheel isa round thing _isa thing distinctfrom much"]}
+{"source": "invite", "target": "good", "generate": ["invite _hasprerequisite play game with friends motivatedbygoal good"]}
+{"source": "check", "target": "come", "generate": ["check _haslastsubevent wait in line hasprerequisite go distinctfrom come"]}
+{"source": "anything", "target": "concern", "generate": ["anything causesdesire learn about science _causesdesire curiosity isa emotion _isa concern"]}
+{"source": "in_new_york", "target": "right", "generate": ["in_new_york _isa empire state building hasproperty tall _hasproperty eric hasproperty tall distinctfrom right"]}
+{"source": "eat", "target": "diet", "generate": ["eat _hassubevent diminishing own hunger hassubevent diet"]}
+{"source": "late", "target": "late", "generate": ["late distinctfrom late"]}
+{"source": "art", "target": "art", "generate": ["art _isa drama distinctfrom comedy similarto drama isa art"]}
+{"source": "hello", "target": "goodbye", "generate": ["hello distinctfrom goodbye"]}
+{"source": "english", "target": "follow", "generate": ["english hasproperty funny _motivatedbygoal laugh at joke hasprerequisite hear distinctfrom follow"]}
+{"source": "news", "target": "helpful", "generate": ["news hasproperty helpful"]}
+{"source": "help", "target": "thank", "generate": ["help hassubevent thank"]}
+{"source": "appointment", "target": "afraid", "generate": ["appointment _hasprerequisite going to hairdresser hassubevent talk to hairdresser _hassubevent cutting hair causes afraid"]}
+{"source": "hey", "target": "thank", "generate": ["hey hasproperty word _isa four letter word isa expression _usedfor buying for loved one causes thank"]}
+{"source": "apply", "target": "get_one", "generate": ["apply _hasprerequisite play guitar hasprerequisite get one"]}
+{"source": "help", "target": "friday", "generate": ["help _causesdesire good heart isa single _isa friday"]}
+{"source": "help", "target": "matter", "generate": ["help hasprerequisite assist _usedfor body madeof molecules _madeof matter"]}
+{"source": "eat", "target": "thank", "generate": ["eat _hasprerequisite thank"]}
+{"source": "make_sure", "target": "bid", "generate": ["make_sure isa proposal similarto proposition partof argument causesdesire reach tentative agreement hasprerequisite bid"]}
+{"source": "pan", "target": "browse", "generate": ["pan usedfor fry egg _hassubevent following recipe hassubevent read haslastsubevent browse"]}
+{"source": "counter", "target": "bottle", "generate": ["counter usedfor holding items _usedfor bottle"]}
+{"source": "good", "target": "appreciate", "generate": ["good _hasproperty forgive motivatedbygoal appreciate"]}
+{"source": "everything", "target": "great", "generate": ["everything hasproperty great"]}
+{"source": "come", "target": "ok", "generate": ["come distinctfrom ok"]}
+{"source": "honey", "target": "at_school", "generate": ["honey usedfor sweetening tea _usedfor sugar atlocation cupboard _atlocation at school"]}
+{"source": "man", "target": "listen", "generate": ["man distinctfrom girl isa child capableof listen"]}
+{"source": "dinner", "target": "go", "generate": ["dinner _usedfor buying hamburger hassubevent order drink _hasprerequisite hang out at bar hasprerequisite go"]}
+{"source": "go", "target": "minute", "generate": ["go distinctfrom return isa time _isa year distinctfrom minute"]}
+{"source": "help", "target": "thank", "generate": ["help hasprerequisite ask what need _hassubevent helping hassubevent thank"]}
+{"source": "man", "target": "goodbye", "generate": ["man distinctfrom lady usedfor hello"]}
+{"source": "look", "target": "ok", "generate": ["look distinctfrom ok"]}
+{"source": "help", "target": "thank", "generate": ["help haslastsubevent thank"]}
+{"source": "accord", "target": "always", "generate": ["accord isa accordion usedfor annoy mom _usedfor cornet atlocation case distinctfrom always"]}
+{"source": "airport", "target": "area", "generate": ["airport _atlocation booking office atlocation city isa area"]}
+{"source": "great", "target": "another", "generate": ["great distinctfrom another"]}
+{"source": "course", "target": "bottle", "generate": ["course _isa soup _atlocation water atlocation bottle"]}
+{"source": "come", "target": "oh", "generate": ["come distinctfrom oh"]}
+{"source": "boy", "target": "arm", "generate": ["boy distinctfrom man partof checkers _partof man _atlocation arm"]}
+{"source": "call", "target": "evening", "generate": ["call usedfor waking up _usedfor clock _isa alarm clock causesdesire get up early _causesdesire early flight isa evening"]}
+{"source": "new", "target": "around", "generate": ["new distinctfrom around"]}
+{"source": "flap", "target": "pass", "generate": ["flap partof airplane capableof reach destination _haslastsubevent run distinctfrom pass"]}
+{"source": "big", "target": "alarm", "generate": ["big _hasproperty stars atlocation night sky _atlocation star capableof starry _capableof sky usedfor alarm"]}
+{"source": "go", "target": "pleasure", "generate": ["go isa board game usedfor pleasure"]}
+{"source": "go", "target": "thank", "generate": ["go _hasprerequisite go to store haslastsubevent thank"]}
+{"source": "build", "target": "designer", "generate": ["build _capableof designer"]}
+{"source": "afternoon", "target": "bye", "generate": ["afternoon distinctfrom night _isa after sunset similarto sunset distinctfrom sunrise capableof begin day _capableof bye"]}
+{"source": "supply", "target": "extension", "generate": ["supply isa artifact usedfor extension"]}
+{"source": "airport", "target": "thirty", "generate": ["airport _atlocation number _isa thirty"]}
+{"source": "get_for", "target": "everything", "generate": ["get_for _motivatedbygoal invest money or energy motivatedbygoal make more money _causes seeing idea become reality causes everything"]}
+{"source": "background", "target": "good", "generate": ["background _hasprerequisite reading news causes learning new usedfor education hasproperty good"]}
+{"source": "bicycle", "target": "afraid", "generate": ["bicycle usedfor excersize _hasprerequisite release energy motivatedbygoal afraid"]}
+{"source": "free", "target": "go", "generate": ["free distinctfrom go"]}
+{"source": "dryer", "target": "anything", "generate": ["dryer capableof dry clothes _capableof clothesline _atlocation potato atlocation anything"]}
+{"source": "question", "target": "different", "generate": ["question causesdesire find information motivatedbygoal learn new hasprerequisite different"]}
+{"source": "agree", "target": "position", "generate": ["agree distinctfrom disagreement _atlocation bone of contention isa concept _isa position"]}
+{"source": "black", "target": "great", "generate": ["black _hasproperty outer space _definedas outerspace _atlocation nothingness similarto emptiness distinctfrom great"]}
+{"source": "meet", "target": "thank", "generate": ["meet _hasprerequisite thank"]}
+{"source": "know", "target": "remember", "generate": ["know _motivatedbygoal remember"]}
+{"source": "company", "target": "pleasure", "generate": ["company _isa rollerblade _usedfor sidewalk usedfor skating causes pleasure"]}
+{"source": "stomachache", "target": "right", "generate": ["stomachache isa ache ailment condition _isa headache _causes thinking causes right"]}
+{"source": "kind", "target": "honest", "generate": ["kind distinctfrom deceitful _hasprerequisite lying hasprerequisite deceitful distinctfrom honest"]}
+{"source": "accountant", "target": "at_work", "generate": ["accountant capableof at work"]}
+{"source": "college", "target": "basketball", "generate": ["college usedfor teaching _usedfor basketball"]}
+{"source": "accommodation", "target": "attend", "generate": ["accommodation usedfor sleep _haslastsubevent attend lecture hasprerequisite attend"]}
+{"source": "might", "target": "fit", "generate": ["might distinctfrom weak _motivatedbygoal rest _haslastsubevent play sports motivatedbygoal fit"]}
+{"source": "english", "target": "english", "generate": ["english distinctfrom english"]}
+{"source": "clothe", "target": "fill", "generate": ["clothe _usedfor cloth usedfor fill"]}
+{"source": "day", "target": "bread", "generate": ["day _isa monday hasa evening distinctfrom breakfast _usedfor bread"]}
+{"source": "bird", "target": "also", "generate": ["bird _isa common kite isa bird distinctfrom animal isa also"]}
+{"source": "recommend", "target": "ideal", "generate": ["recommend _motivatedbygoal read book _causesdesire desire to learn causesdesire understand better _causesdesire ideal"]}
+{"source": "advice", "target": "thank", "generate": ["advice atlocation doctor capableof care _hasprerequisite helping hassubevent thank"]}
+{"source": "choose", "target": "confirm", "generate": ["choose _hasprerequisite buy haslastsubevent confirm"]}
+{"source": "belong", "target": "authority", "generate": ["belong distinctfrom outsider isa individual agent _isa authority"]}
+{"source": "buy", "target": "enough", "generate": ["buy hasprerequisite enough"]}
+{"source": "mind", "target": "allow", "generate": ["mind capableof form thought _hasfirstsubevent communicate hasprerequisite clear throat _haslastsubevent eat haslastsubevent allow"]}
+{"source": "good", "target": "away", "generate": ["good distinctfrom away"]}
+{"source": "good", "target": "right", "generate": ["good distinctfrom wrong"]}
+{"source": "leave", "target": "one", "generate": ["leave distinctfrom enter _capableof one"]}
+{"source": "hey", "target": "problem", "generate": ["hey hasproperty word partof phrase capableof ring true _capableof phrase _isa natural language sentence isa problem"]}
+{"source": "check", "target": "thank", "generate": ["check usedfor pay bill _haslastsubevent have party haslastsubevent thank"]}
+{"source": "date", "target": "good", "generate": ["date hasproperty good"]}
+{"source": "black", "target": "mirror", "generate": ["black _hasproperty mirror"]}
+{"source": "miss", "target": "formal", "generate": ["miss _motivatedbygoal make phone call hassubevent talk hasproperty informal distinctfrom formal"]}
+{"source": "jim", "target": "chance", "generate": ["jim hasa bad breath _causes drinking alcohol hasprerequisite chance"]}
+{"source": "movie", "target": "choice", "generate": ["movie _atlocation choice"]}
+{"source": "class", "target": "abstract", "generate": ["class hasproperty abstract"]}
+{"source": "help", "target": "day", "generate": ["help _usedfor robot usedfor day"]}
+{"source": "hey", "target": "call", "generate": ["hey hasproperty word _isa four letter word isa expression _usedfor call"]}
+{"source": "excited", "target": "history", "generate": ["excited _motivatedbygoal hear crowd go mad hassubevent cover ears _hassubevent hear singing _causesdesire concert _atlocation"]}
+{"source": "help", "target": "canvas", "generate": ["help _usedfor canvas"]}
+{"source": "gate", "target": "attractive", "generate": ["gate atlocation garden _atlocation plants hasproperty attractive"]}
+{"source": "crash", "target": "stop", "generate": ["crash _hassubevent stopping bicycle hassubevent deceleration distinctfrom acceleration _causes rolling downhill causes stop"]}
+{"source": "finish", "target": "much", "generate": ["finish distinctfrom much"]}
+{"source": "baby", "target": "big", "generate": ["baby hasproperty small distinctfrom big"]}
+{"source": "break", "target": "another", "generate": ["break distinctfrom another"]}
+{"source": "need", "target": "great", "generate": ["need distinctfrom great"]}
+{"source": "hello", "target": "right", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs motivatedbygoal right"]}
+{"source": "good", "target": "thank", "generate": ["good _hasproperty giving _hasprerequisite getting causes gratitude causesdesire thank"]}
+{"source": "excuse", "target": "sure", "generate": ["excuse isa explanation _isa proof distinctfrom sure"]}
+{"source": "antique", "target": "chinese", "generate": ["antique atlocation attic _atlocation human _isa han isa chinese"]}
+{"source": "bill", "target": "thank", "generate": ["bill usedfor send letter _hasprerequisite thank"]}
+{"source": "around", "target": "good", "generate": ["around distinctfrom square _hasproperty world hasproperty great distinctfrom good"]}
+{"source": "ask", "target": "centimeter", "generate": ["ask _hassubevent examining thing hassubevent centimeter"]}
+{"source": "find", "target": "problem", "generate": ["find _causesdesire problem"]}
+{"source": "help", "target": "helpful", "generate": ["help hasprerequisite helpful"]}
+{"source": "entire", "target": "give", "generate": ["entire distinctfrom part _isa border usedfor seperation _usedfor divider capableof separate rooms _capableof give"]}
+{"source": "face", "target": "fill", "generate": ["face _atlocation mound usedfor fill"]}
+{"source": "another", "target": "good", "generate": ["another _hasprerequisite loving another causes good"]}
+{"source": "bookstore", "target": "thank", "generate": ["bookstore _atlocation book _isa giver capableof wrap presents _haslastsubevent buy presents for others motivatedbygoal thank"]}
+{"source": "go", "target": "decision", "generate": ["go isa decision"]}
+{"source": "neck", "target": "age", "generate": ["neck _atlocation pain partof life capableof age"]}
+{"source": "coffee", "target": "dick", "generate": ["coffee atlocation internet cafe _atlocation dick"]}
+{"source": "charge", "target": "feel", "generate": ["charge _hassubevent kill people hassubevent feel"]}
+{"source": "ask", "target": "goodbye", "generate": ["ask _motivatedbygoal talk to haslastsubevent say good bye _haslastsubevent talk to motivatedbygoal hello"]}
+{"source": "like_to", "target": "ok", "generate": ["like_to _motivatedbygoal talk _hassubevent wait for motivatedbygoal ok"]}
+{"source": "good", "target": "lot", "generate": ["good distinctfrom lot"]}
+{"source": "buy", "target": "forward", "generate": ["buy hasprerequisite order distinctfrom forward"]}
+{"source": "announce", "target": "anything", "generate": ["announce _capableof newspaper _atlocation statement hasproperty true _hasproperty not everything _isa everything"]}
+{"source": "bit", "target": "problem", "generate": ["bit partof bridle isa device _isa computer _atlocation memory distinctfrom problem"]}
+{"source": "contract", "target": "thank", "generate": ["contract usedfor make deal _hassubevent get contract hassubevent get money _hasprerequisite buy presents for others motivatedbygoal thank"]}
+{"source": "area", "target": "lot", "generate": ["area _isa area distinctfrom lot"]}
+{"source": "able", "target": "game", "generate": ["able distinctfrom impossible _hasproperty time partof game"]}
+{"source": "ever", "target": "good", "generate": ["ever _usedfor eating cookie causes good"]}
+{"source": "downtown", "target": "end", "generate": ["downtown _atlocation movie theater atlocation movie capableof end"]}
+{"source": "good", "target": "much", "generate": ["good distinctfrom much"]}
+{"source": "help", "target": "hurry", "generate": ["help _hasprerequisite run errands hasprerequisite hurry"]}
+{"source": "everyone", "target": "go", "generate": ["everyone hasa go"]}
+{"source": "damage", "target": "case", "generate": ["damage _causes moisture causes dampness atlocation cellar _atlocation case"]}
+{"source": "ambiance", "target": "johnson", "generate": ["ambiance _usedfor candle atlocation dark _hasproperty space _atlocation johnson"]}
+{"source": "guide", "target": "reasonable", "generate": ["guide _usedfor rule _motivatedbygoal reach tentative agreement hasprerequisite reasonable"]}
+{"source": "green", "target": "oh", "generate": ["green _hasproperty clover _atlocation bee atlocation oh"]}
+{"source": "finish", "target": "coffee", "generate": ["finish _isa stain atlocation desk _atlocation coffee"]}
+{"source": "check", "target": "arrive", "generate": ["check _haslastsubevent leave line haslastsubevent arrive"]}
+{"source": "check", "target": "long", "generate": ["check atlocation checkbook hasproperty small distinctfrom long"]}
+{"source": "order", "target": "chicken", "generate": ["order _hasprerequisite buy hamburger motivatedbygoal chicken"]}
+{"source": "late", "target": "day", "generate": ["late distinctfrom day"]}
+{"source": "day", "target": "year", "generate": ["day distinctfrom year"]}
+{"source": "apply", "target": "first", "generate": ["apply _hasprerequisite play harp hasprerequisite first"]}
+{"source": "today", "target": "course", "generate": ["today isa christian holy day _isa epiphany _hassubevent thinking usedfor projects _atlocation course"]}
+{"source": "account", "target": "right", "generate": ["account hasa dollars distinctfrom coin usedfor purchase things _usedfor coin distinctfrom right"]}
+{"source": "camera", "target": "thank", "generate": ["camera usedfor take pictures _hassubevent see old things haslastsubevent think about _hasprerequisite thank"]}
+{"source": "fridge", "target": "do_not_know", "generate": ["fridge _atlocation ice cream isa tasty treat _motivatedbygoal eat ice cream motivatedbygoal do not know"]}
+{"source": "billy", "target": "good", "generate": ["billy hasproperty nuts _hasproperty sherrie desires sex hasproperty good"]}
+{"source": "much", "target": "deposit", "generate": ["much distinctfrom rat similarto mouse atlocation bank usedfor deposit"]}
+{"source": "anything", "target": "assess", "generate": ["anything causesdesire discover truth hasprerequisite watch x files _hassubevent finding truth hassubevent assess"]}
+{"source": "english", "target": "achieve", "generate": ["english hasproperty funny _motivatedbygoal grin _hassubevent see idea become reality motivatedbygoal achieve"]}
+{"source": "brown", "target": "doctor", "generate": ["brown _hasproperty eyes atlocation doctor"]}
+{"source": "passport", "target": "thank", "generate": ["passport usedfor identification _hasprerequisite cashing in causes get rich _hassubevent create to help other people haslastsubevent thank"]}
+{"source": "cv", "target": "birth", "generate": ["cv isa medicine _isa marijuana createdby growing partof living causes birth"]}
+{"source": "come", "target": "good", "generate": ["come distinctfrom leave _haslastsubevent enjoy company of friends motivatedbygoal good"]}
+{"source": "like_to", "target": "medium", "generate": ["like_to _motivatedbygoal talk _hassubevent communicating hasprerequisite medium"]}
+{"source": "read", "target": "see", "generate": ["read motivatedbygoal see"]}
+{"source": "afternoon", "target": "busy", "generate": ["afternoon distinctfrom night hasproperty black _hasproperty truffles atlocation field _atlocation busy"]}
+{"source": "department", "target": "welcome", "generate": ["department partof champagne ardenne _partof department store _atlocation entrance hall usedfor welcome"]}
+{"source": "finish", "target": "aim", "generate": ["finish _hassubevent run marathon hasfirstsubevent move legs _hasprerequisite run after ball hasprerequisite aim"]}
+{"source": "cheap", "target": "one", "generate": ["cheap distinctfrom expensive _hasproperty all cars hasproperty expensive _hasproperty one"]}
+{"source": "good", "target": "choice", "generate": ["good _hasproperty life isa choice"]}
+{"source": "room", "target": "great", "generate": ["room hasproperty dark distinctfrom great"]}
+{"source": "buy", "target": "good", "generate": ["buy motivatedbygoal need distinctfrom good"]}
+{"source": "flash", "target": "ok", "generate": ["flash isa lamp hasproperty bright distinctfrom shade partof lampshade _isa ok"]}
+{"source": "great", "target": "bookshop", "generate": ["great _hasproperty sex _desires kim hasa kids atlocation school _atlocation bookshop"]}
+{"source": "cosmo", "target": "able", "generate": ["cosmo _atlocation skin care article usedfor gain knowledge _motivatedbygoal learn new motivatedbygoal able"]}
+{"source": "bargain", "target": "ha", "generate": ["bargain _hassubevent buying hassubevent wait in line haslastsubevent purchase of groceries _causes paying cash usedfor ha"]}
+{"source": "help", "target": "go", "generate": ["help hasprerequisite go"]}
+{"source": "air", "target": "back", "generate": ["air _atlocation arm atlocation back"]}
+{"source": "afternoon", "target": "hold", "generate": ["afternoon distinctfrom night _atlocation sloth atlocation ass isa holder"]}
+{"source": "brown", "target": "doctor", "generate": ["brown _hasproperty dog atlocation doctor"]}
+{"source": "good", "target": "contract", "generate": ["good _hasproperty agreement _isa contract"]}
+{"source": "dress", "target": "front", "generate": ["dress _isa jumper capableof spring up _capableof spring partof watch _partof front"]}
+{"source": "hear", "target": "door", "generate": ["hear distinctfrom smell _usedfor candle atlocation dark _hasproperty door"]}
+{"source": "hello", "target": "evening", "generate": ["hello distinctfrom goodbye _haslastsubevent chat with friends _causesdesire evening"]}
+{"source": "much", "target": "one", "generate": ["much distinctfrom one"]}
+{"source": "bell", "target": "back", "generate": ["bell atlocation front door _atlocation back"]}
+{"source": "fresh", "target": "energetic", "generate": ["fresh distinctfrom energetic"]}
+{"source": "brown", "target": "minute", "generate": ["brown _hasproperty year distinctfrom minute"]}
+{"source": "blow", "target": "lifesaver", "generate": ["blow distinctfrom safe _isa lifesaver"]}
+{"source": "figure", "target": "ability", "generate": ["figure _isa eight ball hasproperty good or bad _hasproperty luck isa virtue distinctfromability"]}
+{"source": "anything", "target": "come", "generate": ["anything capableof come"]}
+{"source": "daughter", "target": "careful", "generate": ["daughter distinctfrom son partof child capableof tie knot _haslastsubevent tie shoelace hasprerequisite careful"]}
+{"source": "end", "target": "good", "generate": ["end similarto finish _isa stain hasproperty dark distinctfrom good"]}
+{"source": "afternoon", "target": "main", "generate": ["afternoon distinctfrom evening _usedfor relaxing hasprerequisite serenity _hasprerequisite relaxing _hasproperty main"]}
+{"source": "doctor", "target": "nothing", "generate": ["doctor _atlocation drugs capableof cloud mind _capableof nothing"]}
+{"source": "need", "target": "great", "generate": ["need _motivatedbygoal buy products motivatedbygoal best distinctfrom great"]}
+{"source": "call", "target": "away", "generate": ["call distinctfrom away"]}
+{"source": "jimmy", "target": "bad", "generate": ["jimmy hasproperty nuts _hasproperty asim desires sex hasproperty great distinctfrom bad"]}
+{"source": "tell", "target": "assistant", "generate": ["tell _motivatedbygoal write story hasprerequisite assistant"]}
+{"source": "look", "target": "lovely", "generate": ["look motivatedbygoal lovely"]}
+{"source": "juice", "target": "chinese", "generate": ["juice _atlocation grape atlocation japanese isa east indian person _isa chinese"]}
+{"source": "amy", "target": "close", "generate": ["amy isa given name similarto last name _isa carrier _atlocation small dog atlocation close"]}
+{"source": "accountant", "target": "good", "generate": ["accountant _usedfor calculating things quickly causes mistakes hasproperty bad distinctfrom good"]}
+{"source": "barber", "target": "much", "generate": ["barber _hasprerequisite having haircut causes pain _isa another way to say very much isa much"]}
+{"source": "accord", "target": "continue", "generate": ["accord _causes agreeing with hassubevent nod similarto wag _usedfor tail usedfor wag similarto continue"]}
+{"source": "christmas", "target": "church", "generate": ["christmas _usedfor buying presents usedfor weddings hasa priest atlocation church"]}
+{"source": "help", "target": "problem", "generate": ["help _causesdesire problem"]}
+{"source": "afternoon", "target": "advice", "generate": ["afternoon distinctfrom night _atlocation sloth atlocation encyclopedia isa reference work _isa advice"]}
+{"source": "preference", "target": "thank", "generate": ["preference isa selecting _hassubevent shopping hassubevent buy _hasprerequisite thank"]}
+{"source": "connect", "target": "behind", "generate": ["connect distinctfrom behind"]}
+{"source": "high", "target": "see", "generate": ["high _hasproperty catwalk usedfor walk on _usedfor floor _atlocation see"]}
+{"source": "day", "target": "yeah", "generate": ["day distinctfrom month _isa nah"]}
+{"source": "please", "target": "come", "generate": ["please distinctfrom thanks _motivatedbygoal give assistance haslastsubevent come"]}
+{"source": "get_there", "target": "at_night", "generate": ["get_there _capableof at night"]}
+{"source": "go", "target": "gym", "generate": ["go isa move _capableof humans atlocation gym"]}
+{"source": "able", "target": "good", "generate": ["able distinctfrom impossible _hasproperty time travel hasproperty fun hasproperty good"]}
+{"source": "help", "target": "deposit", "generate": ["help hasprerequisite ask permission _hasfirstsubevent help haslastsubevent say welcome _haslastsubevent give gift haslastsube"]}
+{"source": "check", "target": "credit", "generate": ["check usedfor pay bill _usedfor check isa financial instrument _isa credit"]}
+{"source": "decide", "target": "oh", "generate": ["decide _hassubevent bring in verdict motivatedbygoal oh"]}
+{"source": "meet", "target": "appreciate", "generate": ["meet _hasprerequisite chat with friends hassubevent give hug _hassubevent forgive motivatedbygoal appreciate"]}
+{"source": "hello", "target": "bye", "generate": ["hello distinctfrom bye"]}
+{"source": "arrival", "target": "afraid", "generate": ["arrival distinctfrom departure _isa retreating _usedfor master bedroom usedfor retreating _hassubevent knowing if re healthy hassubevent afraid"]}
+{"source": "help", "target": "ok", "generate": ["help hasprerequisite teach what know _hasprerequisite help haslastsubevent say welcome _haslastsubevent give gift motivatedbygoal ok"]}
+{"source": "board", "target": "act", "generate": ["board atlocation synagogue isa act"]}
+{"source": "ask", "target": "apartment", "generate": ["ask _hasprerequisite chat with friends hassubevent making laugh _usedfor joke similarto kid atlocation apartment"]}
+{"source": "finish", "target": "impossible", "generate": ["finish _isa stain hasproperty dark distinctfrom easy distinctfrom impossible"]}
+{"source": "jack", "target": "across", "generate": ["jack atlocation front door _atlocation steps _hasa stairway usedfor accross"]}
+{"source": "wrong", "target": "bad", "generate": ["wrong _hasproperty killing humans hasproperty wrong distinctfrom good _hasproperty common sense hasproperty bad"]}
+{"source": "budget", "target": "great", "generate": ["budget receivesaction cut distinctfrom great"]}
+{"source": "excuse", "target": "color", "generate": ["excuse isa explanation _isa proof _hasprerequisite convicting suspect for crime causes color"]}
+{"source": "go", "target": "go", "generate": ["go distinctfrom go"]}
+{"source": "dave", "target": "anyone", "generate": ["dave hasa stinky feet atlocation gym _atlocation body builder capableof lift weights _capableof anyone"]}
+{"source": "bus", "target": "think", "generate": ["bus usedfor travel haslastsubevent arrive at destination _haslastsubevent go somewhere hasprerequisite think"]}
+{"source": "company", "target": "bye", "generate": ["company _isa next distinctfrom bye"]}
+{"source": "cook", "target": "generally", "generate": ["cook _usedfor barbecue isa generally"]}
+{"source": "box", "target": "break", "generate": ["box _atlocation ball capableof break"]}
+{"source": "equipment", "target": "swim", "generate": ["equipment _hasprerequisite diving hassubevent hold breath _hasfirstsubevent swim"]}
+{"source": "go", "target": "say", "generate": ["go isa move _hasfirstsubevent fart haslastsubevent excuse yourself _hasprerequisite leave line hasprerequisite say"]}
+{"source": "income", "target": "authority", "generate": ["income _usedfor waiting tables hasprerequisite authority"]}
+{"source": "dump", "target": "angry", "generate": ["dump _hasprerequisite stop being married to motivatedbygoal divorced _receivesaction married people hasproperty divorced _motivatedbygoal stop being married to"]}
+{"source": "anywhere", "target": "thank", "generate": ["anywhere similarto somewhere distinctfrom nowhere _atlocation government usedfor control people _motivatedbygoal buy products motivatedbygoal thank"]}
+{"source": "english", "target": "afraid", "generate": ["english hasproperty funny distinctfrom foolhardy similarto rash _causes having epileptic fit hassubevent afraid"]}
+{"source": "game", "target": "call", "generate": ["game _isa card game mannerof contact _usedfor call"]}
+{"source": "detail", "target": "afternoon", "generate": ["detail _usedfor painting picture usedfor giving information _causes giving assistance causes good feeling _isa delight _capableof afternoon"]}
+{"source": "hello", "target": "goodbye", "generate": ["hello distinctfrom goodbye"]}
+{"source": "bit", "target": "turn", "generate": ["bit partof bridle isa device _isa drive train _capableof adult capableof drive car hassubevent turn"]}
+{"source": "afternoon", "target": "cut", "generate": ["afternoon distinctfrom night _atlocation firefly receivesaction caught _receivesaction firefly receivesaction cut"]}
+{"source": "duty", "target": "look", "generate": ["duty _motivatedbygoal bring in verdict hasprerequisite hear testimony hasfirstsubevent look"]}
+{"source": "good", "target": "expensive", "generate": ["good distinctfrom expensive"]}
+{"source": "dalian", "target": "book", "generate": ["dalian partof liaoning _partof shenyang isa city _atlocation book"]}
+{"source": "show", "target": "try", "generate": ["show _atlocation try"]}
+{"source": "china", "target": "idea", "generate": ["china _atlocation hump atlocation imagination _createdby invention _isa idea"]}
+{"source": "go", "target": "choice", "generate": ["go isa decision _isa decision atlocation fork in road _atlocation choice"]}
+{"source": "holiday", "target": "thank", "generate": ["holiday _isa anniversary causesdesire buy for loved one motivatedbygoal thank"]}
+{"source": "bottle", "target": "tell", "generate": ["bottle usedfor send flowers _hasprerequisite thank hasprerequisite tell"]}
+{"source": "hello", "target": "oh", "generate": ["hello distinctfrom oh"]}
+{"source": "bag", "target": "belt", "generate": ["bag usedfor holding items _usedfor belt"]}
+{"source": "big", "target": "blue", "generate": ["big _hasproperty stars hasproperty blue"]}
+{"source": "anything", "target": "kindness", "generate": ["anything _capableof god usedfor forgiving hasprerequisite kindness"]}
+{"source": "let", "target": "beer", "generate": ["let distinctfrom refuse atlocation trash _atlocation beer"]}
+{"source": "passport", "target": "flight", "generate": ["passport atlocation airport _atlocation flight"]}
+{"source": "experience", "target": "thank", "generate": ["experience _hasprerequisite help hasprerequisite give present _motivatedbygoal surprise haslastsubevent thank"]}
+{"source": "company", "target": "behind", "generate": ["company _isa next distinctfrom behind"]}
+{"source": "airline", "target": "ok", "generate": ["airline _isa southwest similarto northeast _atlocation woods atlocation ok"]}
+{"source": "day", "target": "look", "generate": ["day _partof hour distinctfrom second _isa one unit of time isa second distinctfrom look"]}
+{"source": "english", "target": "college", "generate": ["english isa college"]}
+{"source": "differently", "target": "bike", "generate": ["differently distinctfrom also _isa honda accord isa motorcycle hasa two wheels _hasa bike"]}
+{"source": "australia", "target": "always", "generate": ["australia _atlocation koala atlocation picture isa form of expression _isa always"]}
+{"source": "help", "target": "back", "generate": ["help _usedfor body _partof back"]}
+{"source": "good", "target": "come", "generate": ["good distinctfrom come"]}
+{"source": "check", "target": "two", "generate": ["check _haslastsubevent make shopping list hasfirstsubevent get to write with _hasprerequisite make shopping list hasprerequisite write down _"]}
+{"source": "good", "target": "anything", "generate": ["good _hasproperty life isa everything distinctfrom nothingness atlocation outerspace _atlocation nothingness"]}
+{"source": "back", "target": "care", "generate": ["back _atlocation pain _causes care"]}
+{"source": "please", "target": "okay", "generate": ["please distinctfrom okay"]}
+{"source": "circus", "target": "weird", "generate": ["circus _atlocation clowns hasproperty weird"]}
+{"source": "achievement", "target": "china", "generate": ["achievement _isa striving isa achievement atlocation china"]}
+{"source": "city", "target": "much", "generate": ["city _isa luoyang partof henan _partof much"]}
+{"source": "charge", "target": "call", "generate": ["charge _atlocation cat atlocation call"]}
+{"source": "anything", "target": "ok", "generate": ["anything capableof matter to _capableof anything distinctfrom ok"]}
+{"source": "apply", "target": "charge", "generate": ["apply _hasprerequisite pay by credit card motivatedbygoal pay later _usedfor tab isa payment obligation _isa charge"]}
+{"source": "go", "target": "help", "generate": ["go isa move _hasfirstsubevent fart hasprerequisite do so _hasprerequisite help"]}
+{"source": "check", "target": "bye", "generate": ["check usedfor pay bill _haslastsubevent have party haslastsubevent bye"]}
+{"source": "borrow", "target": "new", "generate": ["borrow _capableof get book _hasprerequisite read _receivesaction new"]}
+{"source": "anti", "target": "computer", "generate": ["anti isa record label _isa hear music _usedfor computer"]}
+{"source": "meet", "target": "b", "generate": ["meet _causesdesire b"]}
+{"source": "hello", "target": "much", "generate": ["hello distinctfrom much"]}
+{"source": "hello", "target": "becky", "generate": ["hello distinctfrom bye _isa becky"]}
+{"source": "man", "target": "course", "generate": ["man distinctfrom course"]}
+{"source": "come", "target": "well", "generate": ["come distinctfrom leave _usedfor well"]}
+{"source": "honey", "target": "anniversary", "generate": ["honey usedfor sweetening tea _usedfor sugar partof candy atlocation anniversary"]}
+{"source": "dessert", "target": "change", "generate": ["dessert _isa ice cream capableof melt distinctfrom freeze _capableof carbon dioxide partof weather _mannerof change"]}
+{"source": "cafeteria", "target": "right", "generate": ["cafeteria _atlocation glass of milk hasproperty good distinctfrom best isa album _isa right"]}
+{"source": "hear", "target": "give", "generate": ["hear distinctfrom touch _hassubevent buy small motivatedbygoal give"]}
+{"source": "cloudy", "target": "company", "generate": ["cloudy _hasproperty water _atlocation company"]}
+{"source": "farmer", "target": "know", "generate": ["farmer capableof fence field _capableof farmer _hasprerequisite grow vegetables motivatedbygoal enjoy eating _haslastsubevent know"]}
+{"source": "bob", "target": "tomorrow", "generate": ["bob isa republican similarto green _hasproperty day distinctfrom tomorrow"]}
+{"source": "enjoy", "target": "believe", "generate": ["enjoy _motivatedbygoal skateboard hasprerequisite able to do _hasprerequisite skateboard hassubevent fall down _hassubevent believe"]}
+{"source": "apparently", "target": "good", "generate": ["apparently _isa jim desires sex hasproperty good"]}
+{"source": "hello", "target": "forward", "generate": ["hello distinctfrom goodbye isa single _isa forward"]}
+{"source": "evening", "target": "address", "generate": ["evening _usedfor mailing letter hasprerequisite address"]}
+{"source": "bank", "target": "age", "generate": ["bank capableof bottom out _capableof prices capableof bottom out _capableof stock market partof time capableof age"]}
+{"source": "few_people", "target": "agency", "generate": ["few_people hasproperty fearless distinctfrom yellow _isa yellow mustard isa mustard atlocation office _atlocation agency"]}
+{"source": "apartment", "target": "locate", "generate": ["apartment _atlocation rented flat usedfor move in _hassubevent buy house hasprerequisite locate"]}
+{"source": "beef", "target": "see", "generate": ["beef receivesaction cooked on grill _receivesaction potatoes hasproperty blind distinctfrom see"]}
+{"source": "application", "target": "advance", "generate": ["application _isa labelling _usedfor self adhesive label usedfor folders atlocation cabinet _atlocation advance"]}
+{"source": "exercise", "target": "couch", "generate": ["exercise _usedfor couch"]}
+{"source": "believe", "target": "glad", "generate": ["believe _capableof stupid people _usedfor studying causes knowing distinctfrom surprise motivatedbygoal glad"]}
+{"source": "help", "target": "goodbye", "generate": ["help hasprerequisite ask permission _hasfirstsubevent help haslastsubevent say welcome _haslastsubevent chat with friends haslasts"]}
+{"source": "help", "target": "thank", "generate": ["help hasprerequisite ask what need _hassubevent helping hassubevent thank"]}
+{"source": "apartment", "target": "around", "generate": ["apartment _atlocation room study usedfor sit distinctfrom around"]}
+{"source": "auto", "target": "dispose", "generate": ["auto _partof windshield wiper partof auto _isa trunk of car _atlocation trash usedfor dispose"]}
+{"source": "old", "target": "probably", "generate": ["old distinctfrom probably"]}
+{"source": "department", "target": "employer", "generate": ["department partof rh\u00f4ne alpes _partof savoie isa city _atlocation company capableof fire employee _capableof employer"]}
+{"source": "come", "target": "pay", "generate": ["come distinctfrom leave _haslastsubevent go to mall haslastsubevent pay"]}
+{"source": "approach", "target": "business", "generate": ["approach _hasfirstsubevent socialize motivatedbygoal company _isa business"]}
+{"source": "last", "target": "date", "generate": ["last _hasproperty caboose partof train _hasprerequisite become scuba diver _causesdesire date"]}
+{"source": "buy", "target": "money", "generate": ["buy motivatedbygoal money"]}
+{"source": "hat", "target": "quite", "generate": ["hat usedfor looking stylish _causes going for haircut hasprerequisite time isa abstract concept _isa whole distinctfrom quite"]}
+{"source": "help", "target": "relief", "generate": ["help hassubevent might feel better _causes helping causes relief"]}
+{"source": "excuse", "target": "apologize", "generate": ["excuse causesdesire commit perjury hasfirstsubevent feel guilty _haslastsubevent hurt else hasfirstsubevent apologize"]}
+{"source": "leave", "target": "prevention", "generate": ["leave _haslastsubevent visit museum hasprerequisite wear comfortable shoes _hasprerequisite place basketball motivatedbygoal bad syntax no answer _hassube"]}
+{"source": "kind", "target": "ask", "generate": ["kind _hasprerequisite help hasprerequisite ask"]}
+{"source": "terrible", "target": "back", "generate": ["terrible _causes killing people hasprerequisite arm atlocation back"]}
+{"source": "look", "target": "even", "generate": ["look distinctfrom even"]}
+{"source": "apartment", "target": "apartment", "generate": ["apartment _atlocation apartment"]}
+{"source": "excuse", "target": "problem", "generate": ["excuse _motivatedbygoal find information _causesdesire problem"]}
+{"source": "point", "target": "guess", "generate": ["point _isa focus _hasfirstsubevent think _hasprerequisite give clue motivatedbygoal guess"]}
+{"source": "kind", "target": "curl", "generate": ["kind _hasprerequisite make people laugh hasprerequisite do stupid _hassubevent making people laugh hassubevent curl"]}
+{"source": "hello", "target": "completely", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs hasprerequisite go to see doctor _capableof place _isa completely"]}
+{"source": "bus", "target": "welcome", "generate": ["bus _atlocation gentleman usedfor welcome"]}
+{"source": "breakfast", "target": "minute", "generate": ["breakfast distinctfrom supper isa time of day _isa rush hour _usedfor driving to work hasprerequisite minute"]}
+{"source": "like_to", "target": "recommendation", "generate": ["like_to _motivatedbygoal talk _causesdesire advertisement _isa recommendation"]}
+{"source": "desk", "target": "departure", "generate": ["desk usedfor writing causes catharsis _usedfor watching movie hassubevent escape isa departure"]}
+{"source": "bed", "target": "bedtime", "generate": ["bed _atlocation sleeping people desires stay warm _motivatedbygoal start fire _causesdesire bedtime"]}
+{"source": "help", "target": "behind", "generate": ["help _usedfor neighbor atlocation neighborhood _atlocation stranger distinctfrom behind"]}
+{"source": "come", "target": "acceptable", "generate": ["come distinctfrom acceptable"]}
+{"source": "come", "target": "dollar", "generate": ["come distinctfrom leave _haslastsubevent go to mall hassubevent buy things _usedfor dollar"]}
+{"source": "agency", "target": "agency", "generate": ["agency _isa agency"]}
+{"source": "add", "target": "catalogue", "generate": ["add distinctfrom remove _isa catalogue"]}
+{"source": "graceful", "target": "pity", "generate": ["graceful _hasproperty swans hasproperty mean _motivatedbygoal kill people hassubevent pity"]}
+{"source": "apply", "target": "application", "generate": ["apply isa application"]}
+{"source": "dilbert", "target": "dilbert", "generate": ["dilbert isa filbert"]}
+{"source": "madam", "target": "account", "generate": ["madam similarto sir distinctfrom lady usedfor fuck _usedfor money atlocation account"]}
+{"source": "hello", "target": "bye", "generate": ["hello distinctfrom bye"]}
+{"source": "dress", "target": "do_not_know", "generate": ["dress _hasprerequisite judge motivatedbygoal do not know"]}
+{"source": "bone", "target": "happen", "generate": ["bone usedfor support atlocation marriage capableof happen"]}
+{"source": "fault", "target": "overtake", "generate": ["fault isa recovery vehicle _isa overtake"]}
+{"source": "exporter", "target": "attractive", "generate": ["exporter capableof ship merchandise _capableof companies hasproperty attractive"]}
+{"source": "damn", "target": "language", "generate": ["damn _isa weir similarto sluice isa language"]}
+{"source": "buy", "target": "lot", "generate": ["buy hasfirstsubevent put in shopping cart _hassubevent buy products motivatedbygoal best distinctfrom lot"]}
+{"source": "share", "target": "happy", "generate": ["share _hassubevent reaching advantage causes happy"]}
+{"source": "good", "target": "inform", "generate": ["good _hasproperty news distinctfrom inform"]}
+{"source": "dress", "target": "go", "generate": ["dress _isa go"]}
+{"source": "eat", "target": "bit", "generate": ["eat _usedfor piece of food usedfor snack _isa candy _partof bit"]}
+{"source": "feel", "target": "interested", "generate": ["feel _hassubevent see art motivatedbygoal interested"]}
+{"source": "destination", "target": "effect", "generate": ["destination _hasprerequisite taking bus causes less pollution _causes riding bike hasa effect"]}
+{"source": "finish", "target": "break", "generate": ["finish distinctfrom beginning partof event _isa breakthrough _hassubevent designing software causes break"]}
+{"source": "celebrate", "target": "check", "generate": ["celebrate _hassubevent pay bills hasprerequisite write check haslastsubevent balance checkbook _usedfor check"]}
+{"source": "feed", "target": "ever", "generate": ["feed _hasprerequisite make grow motivatedbygoal too small _hassubevent buying small usedfor ever"]}
+{"source": "today", "target": "back", "generate": ["today isa christmas _usedfor giving gift hasprerequisite receiver locatednear back"]}
+{"source": "bag", "target": "course", "generate": ["bag usedfor carrying groceries isa tiring _isa running race causes winning distinctfrom course"]}
+{"source": "far", "target": "right", "generate": ["far distinctfrom nearby similarto near _hasprerequisite talk to motivatedbygoal know distinctfrom right"]}
+{"source": "complimentary", "target": "anything", "generate": ["complimentary distinctfrom critical _hassubevent reading news causes worry atlocation quandry _atlocation anything"]}
+{"source": "brand", "target": "first", "generate": ["brand atlocation japan _atlocation first class airline seat usedfor first"]}
+{"source": "agree", "target": "let", "generate": ["agree distinctfrom let"]}
+{"source": "help", "target": "thank", "generate": ["help hasprerequisite ask what need _hassubevent helping hassubevent thank"]}
+{"source": "account", "target": "back", "generate": ["account _atlocation ledger atlocation desk distinctfrom back"]}
+{"source": "good", "target": "come", "generate": ["good distinctfrom come"]}
+{"source": "change", "target": "can_use", "generate": ["change _causes examining thing causes can use"]}
+{"source": "catch", "target": "begin", "generate": ["catch _hassubevent run after ball haslastsubevent catch isa begin"]}
+{"source": "graduate", "target": "ability", "generate": ["graduate _causes passing university exams hasprerequisite knowledge isa virtue _isa accuracy"]}
+{"source": "back", "target": "first", "generate": ["back distinctfrom first"]}
+{"source": "ever", "target": "nice", "generate": ["ever _usedfor diamond hasproperty clear distinctfrom ambiguous _hasproperty things hasproperty nice"]}
+{"source": "everything", "target": "bet", "generate": ["everything _atlocation rule atlocation game _isa bet"]}
+{"source": "main", "target": "availability", "generate": ["main isa requisite similarto availability"]}
+{"source": "bicycle", "target": "baby", "generate": ["bicycle madeof steel atlocation sheffield _atlocation steel wool capableof burn _capableof baby"]}
+{"source": "house", "target": "glad", "generate": ["house _atlocation front courtyard usedfor greeting guests _usedfor front room hasproperty loud distinctfrom glad"]}
+{"source": "anne", "target": "thank", "generate": ["anne isa given name _isa samantha capableof lend money _hasprerequisite buy presents for others hassubevent thank"]}
+{"source": "lady", "target": "mirror", "generate": ["lady usedfor have sex _usedfor bed _atlocation mirror"]}
+{"source": "little", "target": "hand", "generate": ["little _isa little purpose isa purpose _usedfor role atlocation hand"]}
+{"source": "go", "target": "air", "generate": ["go isa move _capableof air"]}
+{"source": "evening", "target": "thank", "generate": ["evening _hasprerequisite going to performance causes joy _causes giving gift hassubevent thank"]}
+{"source": "brain", "target": "always", "generate": ["brain _hasprerequisite contemplating hasprerequisite peace and quiet atlocation top of mountain _atlocation peace distinctfrom always"]}
+{"source": "seat", "target": "need", "generate": ["seat atlocation bus stop _atlocation shelter isa need"]}
+{"source": "hungry", "target": "bad", "generate": ["hungry _motivatedbygoal eat lunch hassubevent acid indigestion hasproperty bad"]}
+{"source": "control", "target": "begin", "generate": ["control _atlocation stop distinctfrom begin"]}
+{"source": "call", "target": "arrive", "generate": ["call usedfor contact _mannerof airplane capableof arrive"]}
+{"source": "england", "target": "sure", "generate": ["england _atlocation corner grocery usedfor buy milk _hassubevent running errands hasprerequisite ticket distinctfrom sure"]}
+{"source": "ad", "target": "bad", "generate": ["ad atlocation newspaper _isa gibraltar partof united kingdom hasproperty bad"]}
+{"source": "hello", "target": "back", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs hasprerequisite take pulse _capableof doctor _atlocation back"]}
+{"source": "day", "target": "sorry", "generate": ["day _partof hour distinctfrom minutes atlocation meeting _hassubevent handle proposals haslastsubevent sorry"]}
+{"source": "not_really", "target": "much", "generate": ["not_really _isa hot dogs hasproperty bad distinctfrom much"]}
+{"source": "mess", "target": "clean", "generate": ["mess _motivatedbygoal clean"]}
+{"source": "hello", "target": "goodbye", "generate": ["hello distinctfrom goodbye"]}
+{"source": "excuse", "target": "welcome", "generate": ["excuse capableof welcome"]}
+{"source": "hello", "target": "choose", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs hasfirstsubevent look at person _hassubevent judging hassubevent choose"]}
+{"source": "difference", "target": "yes", "generate": ["difference distinctfrom yes"]}
+{"source": "palace", "target": "afternoon", "generate": ["palace _atlocation entrance hall usedfor coming in _capableof money _hasprerequisite having lunch hasprerequisite afternoon"]}
+{"source": "need", "target": "sir", "generate": ["need distinctfrom sir"]}
+{"source": "helen", "target": "hope", "generate": ["helen capableof age gracefully _capableof lady usedfor love isa powerful emotion _isa hope"]}
+{"source": "excuse", "target": "ask", "generate": ["excuse causesdesire find information hasprerequisite ask"]}
+{"source": "help", "target": "certainly", "generate": ["help _capableof secret distinctfrom certainly"]}
+{"source": "john", "target": "age", "generate": ["john isa washing car causes wrinkles capableof age"]}
+{"source": "sir", "target": "thank", "generate": ["sir distinctfrom dame similarto lady usedfor have sex with _hassubevent comforting friend causes appreciation causesdesire thank"]}
+{"source": "everything", "target": "car", "generate": ["everything _atlocation plastic _madeof car"]}
+{"source": "accumulation", "target": "active", "generate": ["accumulation isa profits _desires company _isa active"]}
+{"source": "much", "target": "bottom", "generate": ["much distinctfrom little _isa little purpose isa purpose _usedfor device _isa bottom"]}
+{"source": "afternoon", "target": "right", "generate": ["afternoon distinctfrom evening _usedfor relaxing hasprerequisite serenity isa emotion _isa right"]}
+{"source": "call", "target": "advertising", "generate": ["call usedfor advertising"]}
+{"source": "hair", "target": "b", "generate": ["hair _isa b"]}
+{"source": "hello", "target": "ok", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs hasprerequisite go to see doctor _capableof ok"]}
+{"source": "evening", "target": "thank", "generate": ["evening _usedfor relaxing hassubevent drink lemonade _hassubevent relaxing hasprerequisite serenity _hasprerequisite thank"]}
+{"source": "anna", "target": "help", "generate": ["anna hasproperty nuts _hasproperty billy desires help"]}
+{"source": "adjustment", "target": "agree", "generate": ["adjustment _hasprerequisite reaching tentative agreement hassubevent discuss _haslastsubevent reach tentative agreement motivatedbygoal agreement"]}
+{"source": "breakfast", "target": "cold", "generate": ["breakfast hasproperty hot distinctfrom cold"]}
+{"source": "campaign", "target": "certainly", "generate": ["campaign _isa propaganda campaign isa propaganda atlocation newspaper _atlocation piece distinctfrom certainly"]}
+{"source": "copy", "target": "anyone", "generate": ["copy _isa catalogue atlocation bookstore _atlocation anyone"]}
+{"source": "look", "target": "compliment", "generate": ["look _hasprerequisite thank _causesdesire compliment"]}
+{"source": "big", "target": "english", "generate": ["big _hasproperty stars hasproperty big or small _hasproperty wind instruments atlocation cabinet _atlocation english"]}
+{"source": "downtown", "target": "great", "generate": ["downtown _atlocation catwalk hasproperty narrow distinctfrom great"]}
+{"source": "new", "target": "agree", "generate": ["new _hasproperty agreement"]}
+{"source": "complete", "target": "okay", "generate": ["complete distinctfrom okay"]}
+{"source": "change", "target": "account", "generate": ["change _mannerof account"]}
+{"source": "trouble", "target": "thank", "generate": ["trouble _causes giving assistance hassubevent helped _motivatedbygoal thank"]}
+{"source": "big", "target": "cut", "generate": ["big _hasproperty diamonds receivesaction cut"]}
+{"source": "good", "target": "lincoln", "generate": ["good _hasproperty sex _desires milan _atlocation lollapalooza atlocation lincoln"]}
+{"source": "vote", "target": "go", "generate": ["vote _hasprerequisite go off strike hasprerequisite go"]}
+{"source": "good", "target": "goodbye", "generate": ["good _hasproperty hug isa goodbye"]}
+{"source": "people_do", "target": "change", "generate": ["people_do _isa eating meat hasproperty good for _hasproperty balanced diet _partof protein isa change"]}
+{"source": "bean", "target": "case", "generate": ["bean atlocation case"]}
+{"source": "delay", "target": "bus", "generate": ["delay _causes tying shoelace hasprerequisite manual dexterity _hasprerequisite tying shoelace usedfor safety _usedfor bus"]}
+{"source": "chinese", "target": "bag", "generate": ["chinese _isa cantonese atlocation guangdong _partof shenzhen receivesaction live in _usedfor bag"]}
+{"source": "company", "target": "company", "generate": ["company _isa sony isa company"]}
+{"source": "hello", "target": "get_out", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs motivatedbygoal get out"]}
+{"source": "chicago", "target": "list", "generate": ["chicago _atlocation lollapalooza atlocation s\u00e3o tom\u00e9 and pr\u00edncipe isa country _isa polish lithuanian commonwealth"]}
+{"source": "end", "target": "country", "generate": ["end _isa stop atlocation country"]}
+{"source": "ask", "target": "apologize", "generate": ["ask _hasprerequisite forgive hasprerequisite say sorry _hasfirstsubevent hurt else hasfirstsubevent apologize"]}
+{"source": "job", "target": "job", "generate": ["job _isa vocation isa job"]}
+{"source": "dig", "target": "another", "generate": ["dig _capableof another"]}
+{"source": "call", "target": "call", "generate": ["call usedfor contact _usedfor call"]}
+{"source": "type", "target": "know", "generate": ["type hasprerequisite know"]}
+{"source": "necklace", "target": "good", "generate": ["necklace usedfor looking good _usedfor getting in shape causes good"]}
+{"source": "birthday", "target": "come", "generate": ["birthday causesdesire go to mall hasprerequisite leave distinctfrom come"]}
+{"source": "look", "target": "antibiotic", "generate": ["look _hasprerequisite examine thing motivatedbygoal probe atlocation doctor _atlocation antibiotic"]}
+{"source": "bill", "target": "thank", "generate": ["bill causesdesire thank"]}
+{"source": "call", "target": "call", "generate": ["call usedfor contact _usedfor call"]}
+{"source": "class", "target": "mum", "generate": ["class _atlocation mum"]}
+{"source": "anything", "target": "hope", "generate": ["anything _isa god usedfor hope"]}
+{"source": "beautiful", "target": "come", "generate": ["beautiful _hasproperty world hasproperty special to _motivatedbygoal meet friend hasprerequisite come"]}
+{"source": "good", "target": "bye", "generate": ["good distinctfrom bad _hasproperty boredom causesdesire hear music haslastsubevent bye"]}
+{"source": "hear", "target": "boeing", "generate": ["hear distinctfrom smell _haslastsubevent buy beer _causesdesire boeing"]}
+{"source": "house", "target": "house", "generate": ["house _atlocation stairs railing atlocation house"]}
+{"source": "room", "target": "bath", "generate": ["room _atlocation bath"]}
+{"source": "good", "target": "economy", "generate": ["good _hasproperty inflation isa finance"]}
+{"source": "back", "target": "account", "generate": ["back _hasa account"]}
+{"source": "bed", "target": "fine", "generate": ["bed _atlocation linen usedfor wearing capableof make sad _hassubevent judging causes fine"]}
+{"source": "choose", "target": "team", "generate": ["choose _capableof teams hasa players atlocation soccer game _atlocation team"]}
+{"source": "afternoon", "target": "certainly", "generate": ["afternoon distinctfrom night isa qualitative time of day _isa midday similarto certainly"]}
+{"source": "call", "target": "ask", "generate": ["call usedfor communicate hasprerequisite speak to _motivatedbygoal talk to hassubevent ask"]}
+{"source": "excuse", "target": "go", "generate": ["excuse causesdesire have party hasprerequisite go"]}
+{"source": "excuse", "target": "really", "generate": ["excuse causesdesire surprise distinctfrom really"]}
+{"source": "effort", "target": "feel", "generate": ["effort _hasprerequisite seeing idea become reality hassubevent feel"]}
+{"source": "joe", "target": "great", "generate": ["joe desires sex hasproperty great"]}
+{"source": "bride", "target": "not_worry", "generate": ["bride capableof give presents _hassubevent buy presents for others hasprerequisite not worry"]}
+{"source": "jim", "target": "mummy", "generate": ["jim hasa kids _hasa mary isa cradle snatcher _isa mummy"]}
+{"source": "help", "target": "afternoon", "generate": ["help _usedfor service counter usedfor get information _motivatedbygoal read newspaper _causesdesire morning distinctfrom afternoon"]}
+{"source": "business", "target": "business", "generate": ["business _isa commercial holding company isa business"]}
+{"source": "madam", "target": "asset", "generate": ["madam similarto sir distinctfrom lady usedfor have sex with _usedfor body isa asset"]}
+{"source": "let", "target": "fun", "generate": ["let distinctfrom refuse atlocation dumpster _atlocation surprise hasproperty fun"]}
+{"source": "afternoon", "target": "available", "generate": ["afternoon distinctfrom night hasproperty available"]}
+{"source": "chinese", "target": "afraid", "generate": ["chinese _isa terrorist who chinese isa terrorist desires violence _causes fearing causes afraid"]}
+{"source": "cartridge", "target": "ok", "generate": ["cartridge isa ammunition atlocation war _atlocation cruelty hasproperty bad distinctfrom ok"]}
+{"source": "pair", "target": "color", "generate": ["pair _isa pair of chopsticks usedfor eat with _capableof tool _hasproperty paint distinctfrom color"]}
+{"source": "career", "target": "ok", "generate": ["career _isa stylist capableof thin hair _capableof too small _motivatedbygoal make grow motivatedbygoal ok"]}
+{"source": "door", "target": "right", "generate": ["door usedfor enter room _capableof joy partof human experience _partof right"]}
+{"source": "cherry", "target": "afraid", "generate": ["cherry isa tree capableof fall down _hassubevent run motivatedbygoal afraid"]}
+{"source": "call", "target": "check", "generate": ["call usedfor contact _mannerof investing _usedfor fortune atlocation bank _atlocation check"]}
+{"source": "bottom", "target": "meet", "generate": ["bottom distinctfrom top capableof spin _hassubevent dance motivatedbygoal meet"]}
+{"source": "hello", "target": "later", "generate": ["hello distinctfrom later"]}
+{"source": "affect", "target": "fine", "generate": ["affect _capableof mental illness _createdby misunderstanding distinctfrom fine"]}
+{"source": "well", "target": "sir", "generate": ["well _atlocation water _hasa fountain atlocation public place _isa bus station usedfor meeting _usedfor sir"]}
+{"source": "good", "target": "back", "generate": ["good _hasproperty back"]}
+{"source": "corporation", "target": "coordination", "generate": ["corporation _atlocation president atlocation meeting _usedfor dancing hasprerequisite coordination"]}
+{"source": "bad", "target": "another", "generate": ["bad _hasproperty another"]}
+{"source": "help", "target": "conference", "generate": ["help _usedfor computer atlocation conference"]}
+{"source": "night", "target": "famous", "generate": ["night _atlocation stars hasproperty famous"]}
+{"source": "next", "target": "bye", "generate": ["next distinctfrom bye"]}
+{"source": "cell", "target": "account", "generate": ["cell atlocation house _atlocation account"]}
+{"source": "come", "target": "bus", "generate": ["come distinctfrom leave _usedfor bus stop _atlocation bus"]}
+{"source": "flag", "target": "ask", "generate": ["flag usedfor advertising causesdesire go see play hasprerequisite ask"]}
+{"source": "buy", "target": "problem", "generate": ["buy _causesdesire needing causesdesire help _causesdesire problem"]}
+{"source": "cinema", "target": "exciting", "generate": ["cinema usedfor watching films in _usedfor cinema _atlocation movie hasproperty exciting"]}
+{"source": "appointment", "target": "forward", "generate": ["appointment isa date distinctfrom back similarto forward"]}
+{"source": "help", "target": "angry", "generate": ["help hasprerequisite ask permission _hasfirstsubevent help motivatedbygoal nice distinctfrom angry"]}
+{"source": "abc", "target": "beautiful", "generate": ["abc isa medicine _isa marijuana hasproperty beautiful"]}
+{"source": "buy", "target": "final", "generate": ["buy hasfirstsubevent decide what to buy _hasprerequisite buy christmas presents motivatedbygoal feel good _hassubevent win baseball game has"]}
+{"source": "bag", "target": "also", "generate": ["bag _atlocation potato isa also"]}
+{"source": "bob", "target": "much", "generate": ["bob distinctfrom much"]}
+{"source": "hey", "target": "agent", "generate": ["hey hasproperty word _isa four letter word madeof letters atlocation newspaper isa agent"]}
+{"source": "complete", "target": "finish", "generate": ["complete distinctfrom finish"]}
+{"source": "go", "target": "bus", "generate": ["go isa travel _usedfor bus"]}
+{"source": "good", "target": "thank", "generate": ["good _hasproperty giving _hasprerequisite getting causes gratitude causesdesire thank"]}
+{"source": "hello", "target": "action", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs _causesdesire inactivity _causes depression isa action"]}
+{"source": "atm", "target": "arrive", "generate": ["atm isa physical information transfer _isa receiving e mail _causes sending e mail hassubevent press enter _haslastsubevent arrive"]}
+{"source": "joe", "target": "chick", "generate": ["joe isa male name _isa joe capableof father child _capableof male human _partof chick"]}
+{"source": "branch", "target": "able", "generate": ["branch distinctfrom stick usedfor walk with _hassubevent go to mall hasprerequisite able"]}
+{"source": "afternoon", "target": "thank", "generate": ["afternoon causesdesire have lunch hasprerequisite find restaurant _hasprerequisite have lunch hasfirstsubevent decide what want _hasfirstsubevent buy"]}
+{"source": "abortion", "target": "kind", "generate": ["abortion isa operation mannerof change _motivatedbygoal forgive motivatedbygoal kind"]}
+{"source": "assignment", "target": "know", "generate": ["assignment causesdesire write term paper hasprerequisite do research _hasprerequisite find information motivatedbygoal know"]}
+{"source": "call", "target": "come", "generate": ["call usedfor contact _mannerof geometry isa act distinctfrom go similarto come"]}
+{"source": "apartment", "target": "apartment", "generate": ["apartment _atlocation apartment"]}
+{"source": "happen", "target": "know", "generate": ["happen _hasprerequisite writing story hasprerequisite happen distinctfrom know"]}
+{"source": "jump", "target": "case", "generate": ["jump _capableof kangaroo capableof jump high _hasprerequisite bungee jump from high bridge hasprerequisite take precautions _capableof case"]}
+{"source": "eat", "target": "guess", "generate": ["eat haslastsubevent clear table _capableof child capableof guess"]}
+{"source": "good", "target": "welcome", "generate": ["good _hasproperty friends capableof welcome"]}
+{"source": "advertising", "target": "ability", "generate": ["advertising _hasprerequisite giving plug hasprerequisite ability"]}
+{"source": "air", "target": "ankle", "generate": ["air _atlocation arm _partof ankle"]}
+{"source": "anything", "target": "good", "generate": ["anything hasproperty good"]}
+{"source": "go", "target": "go", "generate": ["go distinctfrom go"]}
+{"source": "believe", "target": "busy", "generate": ["believe _capableof stupid people _usedfor studying hasproperty boring distinctfrom busy"]}
+{"source": "help", "target": "back", "generate": ["help _usedfor robot atlocation back"]}
+{"source": "bill", "target": "agree", "generate": ["bill usedfor communicating hassubevent gesture with hands _hassubevent agree"]}
+{"source": "today", "target": "day", "generate": ["today isa day"]}
+{"source": "america", "target": "agreement", "generate": ["america _atlocation union usedfor band together _causes agreeing with hasprerequisite agreement"]}
+{"source": "country", "target": "help", "generate": ["country usedfor help"]}
+{"source": "america", "target": "dear", "generate": ["america _atlocation bald eagle atlocation nature hasproperty divine _hasproperty dear"]}
+{"source": "check", "target": "cup", "generate": ["check atlocation cup"]}
+{"source": "leave", "target": "find", "generate": ["leave distinctfrom find"]}
+{"source": "almost", "target": "away", "generate": ["almost distinctfrom away"]}
+{"source": "day", "target": "important", "generate": ["day hasproperty important"]}
+{"source": "rain", "target": "serious", "generate": ["rain hasproperty falling hassubevent call for help motivatedbygoal hurt _motivatedbygoal involved in accident hasprerequisite serious"]}
+{"source": "help", "target": "say", "generate": ["help hasprerequisite ask permission _hasfirstsubevent help haslastsubevent say"]}
+{"source": "appointment", "target": "go", "generate": ["appointment causesdesire go somewhere hasprerequisite go"]}
+{"source": "help", "target": "welcome", "generate": ["help hasfirstsubevent welcome"]}
+{"source": "bob", "target": "cousin", "generate": ["bob isa family relationship term _isa cousin"]}
+{"source": "at_home", "target": "angel", "generate": ["at_home _hasprerequisite get drunk _causesdesire depression isa hell _atlocation cherub _isa angel"]}
+{"source": "abc", "target": "refund", "generate": ["abc isa medicine _isa ibuprofen similarto tylenol atlocation suitcase _atlocation refund"]}
+{"source": "car", "target": "guess", "generate": ["car capableof go fast _hassubevent skate hassubevent get away with _motivatedbygoal lie hasprerequisite guess"]}
+{"source": "good", "target": "baby", "generate": ["good _hasproperty sex _createdby baby"]}
+{"source": "everything", "target": "attract", "generate": ["everything _atlocation plastic _madeof toys capableof delight children _motivatedbygoal look better motivatedbygoal attract"]}
+{"source": "campus", "target": "good", "generate": ["campus _atlocation lecture theatre usedfor education hasproperty good"]}
+{"source": "come", "target": "idea", "generate": ["come distinctfrom leave _haslastsubevent attend classical concert _causesdesire love of music causesdesire play piano _causesdesire idea"]}
+{"source": "air", "target": "city", "generate": ["air _atlocation air terminal atlocation city"]}
+{"source": "bunny", "target": "behind", "generate": ["bunny isa rabbit _isa bunny desires hop _capableof kangaroos usedfor run distinctfrom behind"]}
+{"source": "bob", "target": "great", "generate": ["bob hasproperty cold distinctfrom great"]}
+{"source": "everything", "target": "decide", "generate": ["everything _isa everything causesdesire hear testimony hassubevent decide"]}
+{"source": "camp", "target": "difference", "generate": ["camp isa place _isa color distinctfrom difference"]}
+{"source": "go", "target": "thank", "generate": ["go _hasprerequisite go see play haslastsubevent applaud _haslastsubevent thank"]}
+{"source": "feed", "target": "life", "generate": ["feed _hassubevent entertain people _causesdesire life"]}
+{"source": "time", "target": "bad", "generate": ["time _isa terrorism hasproperty bad"]}
+{"source": "course", "target": "problem", "generate": ["course _isa soup _atlocation bald eagle atlocation captivity distinctfrom freedom isa problem"]}
+{"source": "beethoven", "target": "hobby", "generate": ["beethoven isa famous composer _isa mozart capableof do work _usedfor robot usedfor hobby"]}
+{"source": "friend", "target": "happen", "generate": ["friend causesdesire debate politics hassubevent arguement capableof happen"]}
+{"source": "new", "target": "interesting", "generate": ["new distinctfrom interesting"]}
+{"source": "book", "target": "go", "generate": ["book usedfor learn new things _motivatedbygoal go to school hasprerequisite go"]}
+{"source": "good", "target": "eloquent", "generate": ["good distinctfrom eloquent"]}
+{"source": "class", "target": "everything", "generate": ["class _atlocation new knowledge atlocation universe receivesaction made up of elements _receivesaction everything"]}
+{"source": "honey", "target": "dear", "generate": ["honey isa sap atlocation tree hasproperty tall distinctfrom dear"]}
+{"source": "terrible", "target": "forget", "generate": ["terrible _causes killing people hassubevent getting killed _hassubevent get drunk motivatedbygoal forget"]}
+{"source": "come", "target": "nice", "generate": ["come distinctfrom leave _haslastsubevent enjoy company of friends motivatedbygoal nice"]}
+{"source": "call", "target": "hear", "generate": ["call usedfor communicate hasprerequisite hear"]}
+{"source": "jerry", "target": "make_up", "generate": ["jerry isa musician _isa actress capableof study lines _hasprerequisite act in play hasprerequisite make up"]}
+{"source": "kind", "target": "activity", "generate": ["kind _hasprerequisite make friends hassubevent smoking marijuana isa activity"]}
+{"source": "hang", "target": "check", "generate": ["hang _motivatedbygoal drill hole haslastsubevent say oops _haslastsubevent think _hassubevent paying bills haspre"]}
+{"source": "afraid", "target": "come", "generate": ["afraid _motivatedbygoal run hasprerequisite go distinctfrom come"]}
+{"source": "honey", "target": "always", "generate": ["honey isa always"]}
+{"source": "god", "target": "ok", "generate": ["god hasproperty forgiving causes great distinctfrom ok"]}
+{"source": "bond", "target": "yes", "generate": ["bond _isa love causesdesire propose to woman hasprerequisite yes"]}
+{"source": "beautiful", "target": "blue", "generate": ["beautiful _hasproperty sky hasproperty blue"]}
+{"source": "go", "target": "try", "generate": ["go isa boardgame _isa chess _partof pawn usedfor playing chess hasprerequisite try"]}
+{"source": "early", "target": "bet", "generate": ["early _hasprerequisite wait for hassubevent worry _hassubevent play poker hasfirstsubevent ante isa bet"]}
+{"source": "boat", "target": "course", "generate": ["boat _atlocation channel isa place _isa course"]}
+{"source": "today", "target": "much", "generate": ["today distinctfrom much"]}
+{"source": "christopher", "target": "at_noon", "generate": ["christopher isa at noon"]}
+{"source": "accustomed_to", "target": "change", "generate": ["accustomed_to _receivesaction humans capableof change"]}
+{"source": "french", "target": "good", "generate": ["french isa human hasproperty good"]}
+{"source": "big", "target": "yes", "generate": ["big _hasproperty stars atlocation outer space _atlocation yes"]}
+{"source": "ask", "target": "help", "generate": ["ask _hasprerequisite help"]}
+{"source": "boy", "target": "away", "generate": ["boy distinctfrom away"]}
+{"source": "happy", "target": "gin", "generate": ["happy _hasproperty people together _causes having party usedfor drinking _usedfor gin"]}
+{"source": "book", "target": "thank", "generate": ["book usedfor companionship _usedfor meeting friend hassubevent say hello _hasprerequisite thank"]}
+{"source": "decide", "target": "know", "generate": ["decide _haslastsubevent determine truth motivatedbygoal know"]}
+{"source": "america", "target": "believe", "generate": ["america _atlocation bald eagle atlocation captivity distinctfrom freedom isa belief"]}
+{"source": "help", "target": "problem", "generate": ["help _causesdesire problem"]}
+{"source": "beautiful", "target": "right", "generate": ["beautiful distinctfrom ugly _hasproperty war _atlocation cruelty hasproperty bad definedas opposite of good _definedas right"]}
+{"source": "ceremony", "target": "either", "generate": ["ceremony _isa initiating isa ceremony capableof honor dead _capableof survivor distinctfrom either"]}
+{"source": "go", "target": "go", "generate": ["go distinctfrom go"]}
+{"source": "apply", "target": "apply", "generate": ["apply similarto apply"]}
+{"source": "afternoon", "target": "decision", "generate": ["afternoon distinctfrom evening _usedfor relaxing hasprerequisite serenity _hasprerequisite contemplating causes decision"]}
+{"source": "name", "target": "ok", "generate": ["name _isa anime hasproperty awesome _definedas ninja definedas awesome distinctfrom ok"]}
+{"source": "guess", "target": "ok", "generate": ["guess _motivatedbygoal give clue motivatedbygoal solve _hassubevent examining thing hassubevent right distinctfrom ok"]}
+{"source": "one", "target": "enjoy", "generate": ["one capableof ride bike motivatedbygoal enjoy"]}
+{"source": "day", "target": "actually", "generate": ["day distinctfrom hour _partof minute isa album _isa actually"]}
+{"source": "party", "target": "fantastic", "generate": ["party _atlocation toys hasproperty fantastic"]}
+{"source": "everything", "target": "good", "generate": ["everything hasproperty good"]}
+{"source": "father", "target": "nice", "generate": ["father distinctfrom mom hasproperty nice"]}
+{"source": "hello", "target": "see", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs motivatedbygoal see"]}
+{"source": "terrible", "target": "clear", "generate": ["terrible _hasproperty war _atlocation blood hasproperty clear"]}
+{"source": "come", "target": "annoying", "generate": ["come distinctfrom leave _haslastsubevent go to mall _causesdesire boredom hasproperty annoying"]}
+{"source": "new", "target": "afraid", "generate": ["new distinctfrom afraid"]}
+{"source": "hospitality", "target": "welcome", "generate": ["hospitality atlocation hotel _atlocation reception usedfor greeting _isa hello distinctfrom goodbye isa welcome"]}
+{"source": "cause", "target": "right", "generate": ["cause distinctfrom cause _hassubevent agree with motivatedbygoal right"]}
+{"source": "hey", "target": "at_home", "generate": ["hey hasproperty word capableof mean things _capableof humans atlocation at home"]}
+{"source": "lily", "target": "clothe", "generate": ["lily isa software _isa bind _usedfor clip usedfor clothe"]}
+{"source": "doctor", "target": "believe", "generate": ["doctor capableof measure height _capableof doctor _hasprerequisite having physical examination hassubevent doubt distinctfrom believe"]}
+{"source": "always", "target": "end", "generate": ["always distinctfrom ever _usedfor diamond atlocation end of line _atlocation end"]}
+{"source": "movie", "target": "ask", "generate": ["movie _atlocation monkey desires banana isa food _motivatedbygoal eat hamburger hasprerequisite ask"]}
+{"source": "free", "target": "happy", "generate": ["free distinctfrom caught _receivesaction firefly capableof light up similarto smile _hassubevent happy"]}
+{"source": "company", "target": "entire", "generate": ["company _isa jeep _atlocation seat isa part distinctfrom entire"]}
+{"source": "brian", "target": "business", "generate": ["brian hasa kids _hasa sherrie hasproperty nuts _hasproperty bill isa business"]}
+{"source": "child", "target": "enjoy", "generate": ["child capableof watch clock _hassubevent play game of chess motivatedbygoal enjoy"]}
+{"source": "age", "target": "pleasure", "generate": ["age _capableof having children _usedfor copulating usedfor pleasure"]}
+{"source": "girlfriend", "target": "man", "generate": ["girlfriend distinctfrom buddy isa friend capableof shoulder burden _capableof leader _isa helmsman isa man"]}
+{"source": "hand", "target": "pollution", "generate": ["hand _atlocation cigarette causes pollution"]}
+{"source": "go", "target": "help", "generate": ["go isa move _hasfirstsubevent fart hasprerequisite do so _hasprerequisite help"]}
+{"source": "drink", "target": "night", "generate": ["drink _causesdesire mood _isa blue _hasproperty sky usedfor night"]}
+{"source": "go", "target": "behind", "generate": ["go distinctfrom behind"]}
+{"source": "japanese", "target": "afraid", "generate": ["japanese _isa terrorist who japanese isa terrorist desires violence _causes fearing hassubevent afraid"]}
+{"source": "afternoon", "target": "bad", "generate": ["afternoon distinctfrom night hasproperty black _hasproperty guns hasproperty bad"]}
+{"source": "hour", "target": "welcome", "generate": ["hour distinctfrom minutes atlocation meeting hasproperty welcome"]}
+{"source": "bad", "target": "lesson", "generate": ["bad _hasproperty joke similarto lesson"]}
+{"source": "give", "target": "beautiful", "generate": ["give _haslastsubevent buy presents for others motivatedbygoal love people _hasprerequisite change society hasprerequisite love yourself _usedfor beautiful"]}
+{"source": "cold", "target": "express", "generate": ["cold _motivatedbygoal start fire hassubevent sparks fly _causes flirting hasprerequisite enthusiasm causesdesire express"]}
+{"source": "debbie", "target": "fight", "generate": ["debbie desires sex _desires rocky isa boxer capableof punch hassubevent punch back _hassubevent fight"]}
+{"source": "book", "target": "accord", "generate": ["book _isa audiogenic isa company _usedfor accordion atlocation accord"]}
+{"source": "morning", "target": "beginner", "generate": ["morning distinctfrom start _capableof beginning"]}
+{"source": "clock", "target": "arrive", "generate": ["clock capableof arrive"]}
+{"source": "like_to", "target": "actor", "generate": ["like_to _motivatedbygoal talk _hassubevent performing usedfor actors capableof star in play _capableof actor"]}
+{"source": "clean", "target": "actually", "generate": ["clean _hasfirstsubevent have food _causesdesire shit capableof happen to _capableof really distinctfrom actually"]}
+{"source": "celebrate", "target": "actually", "generate": ["celebrate _causesdesire really distinctfrom actually"]}
+{"source": "go", "target": "christmas", "generate": ["go isa holiday _isa advent sunday partof christmas"]}
+{"source": "hey", "target": "disappointed", "generate": ["hey hasproperty word _partof letter usedfor expressing emotion _usedfor buying for loved one causes disappointed"]}
+{"source": "happen", "target": "hope", "generate": ["happen _capableof many other things hasproperty blue _hasproperty hope"]}
+{"source": "joan", "target": "right", "generate": ["joan isa name _hasa everyone hasproperty right"]}
+{"source": "abc", "target": "see", "generate": ["abc isa medicine capableof lower blood pressure _capableof medication causesdesire lose consciousness motivatedbygoal see"]}
+{"source": "ethnic", "target": "adventure", "generate": ["ethnic _isa sarong atlocation mathcamp _atlocation happiness _causes living life usedfor adventure"]}
+{"source": "fettucini", "target": "back", "generate": ["fettucini isa pasta atlocation pantry _atlocation side dish _isa viennese potato salad _usedfor salad bowl atlocation back"]}
+{"source": "family", "target": "age", "generate": ["family _partof everybody capableof grow old _capableof all living things capableof age"]}
+{"source": "head", "target": "appreciate", "generate": ["head usedfor think _hasprerequisite thank motivatedbygoal appreciate"]}
+{"source": "concert", "target": "dollar", "generate": ["concert _atlocation lotus isa company _isa dollar"]}
+{"source": "break", "target": "marriage", "generate": ["break _capableof relationships causesdesire live _causesdesire love atlocation marriage"]}
+{"source": "chinese", "target": "even", "generate": ["chinese _isa rai atlocation rome _atlocation too small _hasproperty even"]}
+{"source": "blood", "target": "cool", "generate": ["blood hasproperty warm distinctfrom cool"]}
+{"source": "american", "target": "sir", "generate": ["american distinctfrom foreign _isa stranger similarto sir"]}
+{"source": "go", "target": "good", "generate": ["go isa move _hasfirstsubevent fart motivatedbygoal attention _desires puppy hasproperty good"]}
+{"source": "announce", "target": "hope", "generate": ["announce _capableof newspaper _atlocation advertisments hasproperty true distinctfrom lie _causesdesire hope"]}
+{"source": "actually", "target": "find", "generate": ["actually isa album _isa catch fire _hassubevent smoke hasprerequisite find"]}
+{"source": "jack", "target": "chicken", "generate": ["jack distinctfrom chicken"]}
+{"source": "good", "target": "paper", "generate": ["good _hasproperty not all things hasproperty helpful tools _capableof rock distinctfrom paper"]}
+{"source": "day", "target": "next", "generate": ["day distinctfrom next"]}
+{"source": "friday", "target": "believe", "generate": ["friday isa day _isa sunday _motivatedbygoal eat breakfast in bed hasprerequisite marry well _hasprerequisite please parents motivatedbygoal believe"]}
+{"source": "computer", "target": "bad", "generate": ["computer hasproperty bad"]}
+{"source": "free", "target": "fellow", "generate": ["free distinctfrom fellow"]}
+{"source": "easy", "target": "beautiful", "generate": ["easy distinctfrom hard _hasproperty nature hasproperty beautiful"]}
+{"source": "big", "target": "go", "generate": ["big _hasproperty department store usedfor browsing _usedfor going to mall hassubevent go"]}
+{"source": "day", "target": "excellent", "generate": ["day hasproperty excellent"]}
+{"source": "chinese", "target": "agree", "generate": ["chinese _isa chinese soldier isa soldier usedfor fight distinctfrom agree"]}
+{"source": "go", "target": "hell", "generate": ["go isa boardgame _isa hell"]}
+{"source": "around", "target": "forget", "generate": ["around distinctfrom square _hasproperty chess board usedfor thought _hasprerequisite remembering distinctfrom forget"]}
+{"source": "boy", "target": "child", "generate": ["boy distinctfrom girl isa child"]}
+{"source": "come", "target": "really", "generate": ["come distinctfrom bye _haslastsubevent check vital signs hasprerequisite guess capableof let flat _capableof really"]}
+{"source": "becky", "target": "also", "generate": ["becky isa software _isa also"]}
+{"source": "ella", "target": "dress", "generate": ["ella isa film _isa dresser _atlocation pair of pants usedfor dress"]}
+{"source": "alice", "target": "day", "generate": ["alice isa pig atlocation porch _atlocation sunshine distinctfrom day"]}
+{"source": "susan", "target": "bye", "generate": ["susan isa asian _isa afar distinctfrom hello"]}
+{"source": "life", "target": "right", "generate": ["life hasproperty finite _hasproperty time isa abstract concept _isa right"]}
+{"source": "china", "target": "david", "generate": ["china _atlocation huangshan isa mountain _isa david"]}
+{"source": "favorite", "target": "announce", "generate": ["favorite _hasproperty movies _atlocation projector capableof show slides _hassubevent give speech haslastsubevent announce"]}
+{"source": "come", "target": "begin", "generate": ["come distinctfrom beginning isa end similarto finish distinctfrom begin"]}
+{"source": "department", "target": "bye", "generate": ["department partof champagne ardenne _partof department store _atlocation telephone kiosk usedfor make phone call haslastsubevent bye"]}
+{"source": "another", "target": "afraid", "generate": ["another _hasprerequisite loving another hassubevent helping hasprerequisite courage distinctfrom fear similarto afraid"]}
+{"source": "another", "target": "move", "generate": ["another _hasprerequisite loving another hassubevent respect _motivatedbygoal please parents hasprerequisite move"]}
+{"source": "little", "target": "card", "generate": ["little _isa world hasproperty small _hasproperty pocket _atlocation card"]}
+{"source": "english", "target": "appreciate", "generate": ["english isa human capableof appreciate"]}
+{"source": "hello", "target": "ok", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs hasprerequisite go to see doctor _capableof ok"]}
+{"source": "find", "target": "end", "generate": ["find distinctfrom hide _hassubevent killing usedfor ending life _usedfor committing murder hasprerequisite ending"]}
+{"source": "bottom", "target": "appreciate", "generate": ["bottom distinctfrom top capableof spin _hasa neutrons receivesaction located in nucleus _receivesaction neutrons _madeof appreciate"]}
+{"source": "end", "target": "even", "generate": ["end distinctfrom even"]}
+{"source": "bad", "target": "get_off", "generate": ["bad _hasproperty breaking _hassubevent stopping bicycle causes get off"]}
+{"source": "eggplant", "target": "oh", "generate": ["eggplant hasproperty purple isa colour of rainbow _isa oh"]}
+{"source": "long", "target": "black", "generate": ["long _hasproperty trombone hasproperty long distinctfrom short _isa napster hasproperty evil _hasproperty black"]}
+{"source": "great", "target": "hurry", "generate": ["great _hasproperty sex _desires clint isa in bed _hassubevent procreating hassubevent hurry"]}
+{"source": "go", "target": "florida", "generate": ["go isa road atlocation florida"]}
+{"source": "believe", "target": "home", "generate": ["believe _capableof stupid people atlocation theater isa home"]}
+{"source": "england", "target": "learn", "generate": ["england _atlocation brick row house usedfor raising family _usedfor living life hassubevent learn"]}
+{"source": "johnson", "target": "absent", "generate": ["johnson isa surname similarto given name _isa absent"]}
+{"source": "area", "target": "understand", "generate": ["area _isa arena usedfor meeting _atlocation discussion causesdesire understand"]}
+{"source": "say", "target": "ask", "generate": ["say _hasprerequisite get money from hasprerequisite ask"]}
+{"source": "email", "target": "explain", "generate": ["email _atlocation advertisement usedfor educate _usedfor books hasa many words _hasa story capableof explain"]}
+{"source": "corner", "target": "one", "generate": ["corner _atlocation stranger distinctfrom one"]}
+{"source": "chan", "target": "action", "generate": ["chan similarto er _atlocation sick people _usedfor praying isa action"]}
+{"source": "book", "target": "let", "generate": ["book _isa let"]}
+{"source": "ask", "target": "hour", "generate": ["ask _hasprerequisite talk to _hassubevent waking up in morning hasprerequisite clock usedfor measure time _usedfor hour"]}
+{"source": "bamboo", "target": "ok", "generate": ["bamboo _madeof chopsticks usedfor eat sushi _motivatedbygoal bring home fish motivatedbygoal sushi isa ok"]}
+{"source": "go", "target": "ad", "generate": ["go isa ad"]}
+{"source": "another", "target": "let", "generate": ["another distinctfrom let"]}
+{"source": "enjoy", "target": "arm", "generate": ["enjoy _motivatedbygoal ride horse hassubevent keep balance _usedfor arm"]}
+{"source": "divorce", "target": "bet", "generate": ["divorce _causes affair capableof destroy relationship _capableof jealousy causesdesire love else hasprerequisite bet"]}
+{"source": "course", "target": "class", "generate": ["course _isa class"]}
+{"source": "computer", "target": "create", "generate": ["computer usedfor create"]}
+{"source": "have_time", "target": "see", "generate": ["have_time _hasprerequisite read book motivatedbygoal see"]}
+{"source": "go", "target": "else", "generate": ["go isa else"]}
+{"source": "game", "target": "big", "generate": ["game _isa soccer hasproperty round distinctfrom big"]}
+{"source": "arrange", "target": "thank", "generate": ["arrange _hasprerequisite meet friend hassubevent introduce yourself _hasfirstsubevent serve customers haslastsubevent thank"]}
+{"source": "care", "target": "arrive", "generate": ["care _hasprerequisite serving customers causes wait tables hasprerequisite get job hasfirstsubevent arrive"]}
+{"source": "sorry", "target": "leave", "generate": ["sorry _haslastsubevent punish hasprerequisite proof _isa boarding pass usedfor board vehicle _hasprerequisite travel haslastsubevent leave"]}
+{"source": "finish", "target": "wish", "generate": ["finish _isa wish"]}
+{"source": "family", "target": "arrive", "generate": ["family capableof arrive"]}
+{"source": "busy", "target": "go", "generate": ["busy distinctfrom rest hasprerequisite go"]}
+{"source": "good", "target": "understand", "generate": ["good _hasproperty common sense causesdesire get onto web motivatedbygoal need information _motivatedbygoal communicate hasprerequisite understand"]}
+{"source": "class", "target": "able", "generate": ["class _atlocation math distinctfrom reading hasproperty impossible distinctfrom able"]}
+{"source": "job", "target": "eye", "generate": ["job _usedfor looking better hasprerequisite mirror _atlocation eye"]}
+{"source": "fly", "target": "see", "generate": ["fly _capableof owls capableof see"]}
+{"source": "invitation", "target": "forward", "generate": ["invitation causesdesire go somewhere hasprerequisite start distinctfrom forward"]}
+{"source": "europe", "target": "let", "generate": ["europe _atlocation rented flat usedfor inhabit _usedfor rented flat atlocation apartment complex _isa let"]}
+{"source": "drink", "target": "catch", "generate": ["drink hassubevent catch"]}
+{"source": "long", "target": "bye", "generate": ["long distinctfrom short _isa nap _motivatedbygoal go to bed haslastsubevent bye"]}
+{"source": "exam", "target": "see", "generate": ["exam causesdesire memorize hasprerequisite awake motivatedbygoal see"]}
+{"source": "look", "target": "back", "generate": ["look _usedfor mirror atlocation back"]}
+{"source": "hey", "target": "busy", "generate": ["hey hasproperty word _isa four letter word hasproperty bad distinctfrom busy"]}
+{"source": "hard", "target": "change", "generate": ["hard _hasproperty tennis mannerof competition _mannerof change"]}
+{"source": "afternoon", "target": "call", "generate": ["afternoon distinctfrom night _atlocation call"]}
+{"source": "plan", "target": "ask", "generate": ["plan _hasprerequisite surprise hasprerequisite ask"]}
+{"source": "away", "target": "bad", "generate": ["away distinctfrom good _hasproperty joke hasproperty bad"]}
+{"source": "bruce", "target": "crazy", "generate": ["bruce isa given name _isa samantha hasproperty nuts"]}
+{"source": "floor", "target": "dustbin", "generate": ["floor _atlocation dustbin"]}
+{"source": "chinese", "target": "mandarin", "generate": ["chinese _isa mandarin"]}
+{"source": "go", "target": "possible", "generate": ["go isa board game hasproperty fun distinctfrom impossible"]}
+{"source": "at_work", "target": "go", "generate": ["at_work _hasprerequisite take care of proposals hasprerequisite go"]}
+{"source": "game", "target": "funny", "generate": ["game hasproperty funny"]}
+{"source": "convenience", "target": "actually", "generate": ["convenience _usedfor portable shower head atlocation camper isa auto part _isa actually"]}
+{"source": "go", "target": "certainly", "generate": ["go distinctfrom always similarto certainly"]}
+{"source": "book", "target": "every", "generate": ["book _isa every"]}
+{"source": "agree", "target": "fierce", "generate": ["agree distinctfrom disagree _capableof architects hasproperty fierce"]}
+{"source": "another", "target": "go", "generate": ["another _hasprerequisite loving another hassubevent respect _motivatedbygoal please parents hasprerequisite go"]}
+{"source": "baby", "target": "much", "generate": ["baby distinctfrom much"]}
+{"source": "depressed", "target": "girl", "generate": ["depressed _receivesaction may cry when hasproperty lonely _hasproperty may cry when hasproperty lonely _motivatedbygoal girl"]}
+{"source": "believe", "target": "chance", "generate": ["believe _capableof stupid people _usedfor jumping at chance hasprerequisite chance"]}
+{"source": "care", "target": "go", "generate": ["care _hasprerequisite invest money or energy hasprerequisite go"]}
+{"source": "dinner", "target": "bye", "generate": ["dinner _atlocation corn usedfor make dinner _motivatedbygoal meet friend haslastsubevent bye"]}
+{"source": "buy", "target": "change", "generate": ["buy hassubevent try on _hassubevent buying causes ownership mannerof change"]}
+{"source": "feel", "target": "activity", "generate": ["feel _hassubevent seeing art usedfor hobby isa activity"]}
+{"source": "busy", "target": "help", "generate": ["busy distinctfrom slow _hasproperty sloth atlocation commercial _hasprerequisite serve customers hasprerequisite helpful _motivatedbygoal help"]}
+{"source": "across", "target": "different", "generate": ["across _usedfor road _atlocation crossroads atlocation life hasproperty different"]}
+{"source": "day", "target": "get_to", "generate": ["day capableof get to"]}
+{"source": "go", "target": "bad", "generate": ["go isa move _capableof animals hasproperty bad"]}
+{"source": "doctor", "target": "keep", "generate": ["doctor _atlocation couch usedfor keep"]}
+{"source": "eat", "target": "yet", "generate": ["eat _hassubevent live distinctfrom yet"]}
+{"source": "hot", "target": "charming", "generate": ["hot _hasproperty cat capableof charming"]}
+{"source": "come", "target": "carpet", "generate": ["come distinctfrom leave _haslastsubevent go to mall hassubevent walk with _usedfor stick atlocation carpet"]}
+{"source": "go", "target": "keep", "generate": ["go isa move distinctfrom keep"]}
+{"source": "fox", "target": "beat", "generate": ["fox atlocation hollow _hasproperty tennis balls usedfor play tennis motivatedbygoal beat"]}
+{"source": "elect", "target": "buy", "generate": ["elect _hassubevent impanel jury hassubevent verdict _causes bringing suit causes take to court _hasprerequisite buy"]}
+{"source": "casual", "target": "book", "generate": ["casual distinctfrom dress isa piece of furniture _isa bookcase _atlocation book"]}
+{"source": "happen", "target": "hope", "generate": ["happen _hasprerequisite writing story causes sense of fulfillment _isa hope"]}
+{"source": "cindy", "target": "american", "generate": ["cindy hasproperty singing in choir _hasproperty billy isa american"]}
+{"source": "history", "target": "agree", "generate": ["history _atlocation mammoth atlocation bedrock isa rock capableof break _motivatedbygoal agree"]}
+{"source": "john", "target": "have_to_think_about", "generate": ["john isa washing car hassubevent think hasfirstsubevent have to think about"]}
+{"source": "spelt", "target": "course", "generate": ["spelt similarto emmer isa plant _isa cereal atlocation course"]}
+{"source": "beat", "target": "very_optimistic", "generate": ["beat _usedfor drum atlocation band _isa cult createdby ideology hasproperty very optimistic"]}
+{"source": "hear", "target": "hope", "generate": ["hear distinctfrom touch _hassubevent kiss _causesdesire love isa powerful emotion _isa hope"]}
+{"source": "break", "target": "bad", "generate": ["break distinctfrom working hassubevent sweat hasproperty bad"]}
+{"source": "chess", "target": "chess", "generate": ["chess _partof rook partof chess"]}
+{"source": "four", "target": "true", "generate": ["four isa cardinal number _isa two _hasproperty couple capableof break up _capableof lovers hasproperty true"]}
+{"source": "book", "target": "favorite", "generate": ["book usedfor companionship hasproperty pleasant distinctfrom favorite"]}
+{"source": "hey", "target": "bad", "generate": ["hey hasproperty word _isa four letter word hasproperty bad"]}
+{"source": "good", "target": "get_hungry", "generate": ["good _hasproperty find interesting _motivatedbygoal read book hassubevent get hungry"]}
+{"source": "disneyworld", "target": "enjoy", "generate": ["disneyworld _atlocation entranceway usedfor entering distinctfrom leave _haslastsubevent enjoy company of friends motivatedbygoal enjoy"]}
+{"source": "matthew", "target": "apartment", "generate": ["matthew hasa kids atlocation apartment"]}
+{"source": "go", "target": "whatever", "generate": ["go distinctfrom whatever"]}
+{"source": "come", "target": "san_diego", "generate": ["come distinctfrom leave _haslastsubevent visit other countries motivatedbygoal vacations _usedfor island _isa san diego"]}
+{"source": "have_lunch", "target": "corner", "generate": ["have_lunch hasprerequisite stop working _capableof clock atlocation corner"]}
+{"source": "argument", "target": "argument", "generate": ["argument distinctfrom argument"]}
+{"source": "crazy", "target": "government", "generate": ["crazy _motivatedbygoal bungee jump from high bridge hasprerequisite crazy _hasproperty government"]}
+{"source": "animal", "target": "ape", "generate": ["animal _isa ape"]}
+{"source": "dear", "target": "maybe", "generate": ["dear distinctfrom maybe"]}
+{"source": "buy", "target": "oh", "generate": ["buy haslastsubevent take home similarto open book _hasfirstsubevent read to children hassubevent oh"]}
+{"source": "documentary", "target": "good", "generate": ["documentary isa television show _isa good luck _causes improving image usedfor good"]}
+{"source": "johnson", "target": "come", "generate": ["johnson isa surname _hasa everyone capableof come to end _hasfirstsubevent bring in verdict hasprerequisite come"]}
+{"source": "hear", "target": "good", "generate": ["hear distinctfrom smell hasproperty good"]}
+{"source": "go", "target": "hope", "generate": ["go isa move _hasfirstsubevent fart _haslastsubevent go somewhere _causesdesire bad weather _isa hope"]}
+{"source": "first", "target": "bruce", "generate": ["first distinctfrom next isa company _isa bruce"]}
+{"source": "interesting", "target": "smile", "generate": ["interesting _motivatedbygoal see new hasfirstsubevent rejoice _hasfirstsubevent see new hassubevent smile"]}
+{"source": "enjoy", "target": "changsha", "generate": ["enjoy _motivatedbygoal play game _usedfor parlor atlocation city _isa changsha"]}
+{"source": "attraction", "target": "true", "generate": ["attraction causesdesire flirt hasprerequisite good looking similarto handsome distinctfrom ugly _hasproperty war hasproperty true"]}
+{"source": "band", "target": "amplifier", "generate": ["band _isa radios capableof produce sound _usedfor amplifier"]}
+{"source": "christmas", "target": "letter", "generate": ["christmas _usedfor card distinctfrom letter"]}
+{"source": "let", "target": "good", "generate": ["let distinctfrom refuse usedfor recycling hasproperty good"]}
+{"source": "date", "target": "board", "generate": ["date _capableof old dress atlocation trunk _atlocation board"]}
+{"source": "act", "target": "critical", "generate": ["act _isa critical"]}
+{"source": "business", "target": "dine", "generate": ["business _usedfor having lunch hassubevent burp _haslastsubevent eat lunch hasprerequisite dine"]}
+{"source": "come", "target": "glad", "generate": ["come distinctfrom goodbye _isa glad"]}
+{"source": "find", "target": "exciting", "generate": ["find hasproperty exciting"]}
+{"source": "girlfriend", "target": "man", "generate": ["girlfriend distinctfrom buddy isa friend distinctfrom girl similarto man"]}
+{"source": "last", "target": "nothing", "generate": ["last _hasproperty nothing"]}
+{"source": "back", "target": "definitely_do", "generate": ["back _hasa lizards capableof exercise hasprerequisite definitely do"]}
+{"source": "afternoon", "target": "school", "generate": ["afternoon distinctfrom night _atlocation sloth atlocation school"]}
+{"source": "company", "target": "business", "generate": ["company _isa business"]}
+{"source": "get_mad", "target": "accident", "generate": ["get_mad _hassubevent playing game with friends hassubevent injury atlocation accident"]}
+{"source": "weekend", "target": "invite", "generate": ["weekend causesdesire eat breakfast in bed hasprerequisite invite"]}
+{"source": "on_tv_tonight", "target": "ally", "generate": ["on_tv_tonight _isa harry s truman _usedfor playing piano hasprerequisite piano atlocation band distinctfrom ally"]}
+{"source": "really", "target": "child", "generate": ["really _hasprerequisite skateboard _capableof child"]}
+{"source": "sarah", "target": "hot", "generate": ["sarah hasa roommate atlocation apartment _atlocation hot"]}
+{"source": "victor", "target": "brian", "generate": ["victor isa competitor capableof hope to win _capableof boxer _isa brian"]}
+{"source": "john", "target": "barely", "generate": ["john hasa cavity isa spot similarto barely"]}
+{"source": "counterpart", "target": "no_way", "generate": ["counterpart isa social being _isa rebel _capableof christian capableof sin motivatedbygoal no way"]}
+{"source": "arm", "target": "buy", "generate": ["arm usedfor lift car _hassubevent proving physical endurance hasprerequisite patience causesdesire buy"]}
+{"source": "behind", "target": "really", "generate": ["behind distinctfrom forward _isa straightforward _hasproperty joke hasproperty fake distinctfrom really"]}
+{"source": "daisy", "target": "grow", "generate": ["daisy isa flower capableof grow"]}
+{"source": "consumption", "target": "dynamic", "generate": ["consumption hasproperty dynamic"]}
+{"source": "art", "target": "exhibit", "generate": ["art _usedfor museum wing usedfor display cases atlocation museum _atlocation exhibit"]}
+{"source": "ask", "target": "always", "generate": ["ask _hasprerequisite help motivatedbygoal what goes around comes around isa single distinctfrom always"]}
+{"source": "hello", "target": "much", "generate": ["hello distinctfrom much"]}
+{"source": "day", "target": "day", "generate": ["day _isa monday hasa evening distinctfrom day"]}
+{"source": "relax", "target": "disco", "generate": ["relax _usedfor disco"]}
+{"source": "dormitory", "target": "great", "generate": ["dormitory _atlocation hall usedfor dancing hasproperty great"]}
+{"source": "exercise", "target": "alcohol", "generate": ["exercise _usedfor running twenty six miles causes passing out _causes alcohol"]}
+{"source": "club", "target": "k", "generate": ["club _isa k"]}
+{"source": "language", "target": "able", "generate": ["language hasproperty ambiguous distinctfrom able"]}
+{"source": "gross", "target": "curl", "generate": ["gross _causes spitting hassubevent expel saliva from mouth _hasprerequisite spit haslastsubevent wave _partof curl"]}
+{"source": "have_to_work", "target": "help", "generate": ["have_to_work _hassubevent get contract hasprerequisite ask _hasprerequisite help"]}
+{"source": "book", "target": "call", "generate": ["book _isa postman capableof ring doorbell _capableof call"]}
+{"source": "accident", "target": "terrible", "generate": ["accident hasproperty terrible"]}
+{"source": "even", "target": "cloud", "generate": ["even distinctfrom bumpy isa jellyfish atlocation sea water hasproperty cloudy _hasproperty cloud"]}
+{"source": "contest", "target": "wow", "generate": ["contest _isa dog show _atlocation small dog atlocation oh distinctfrom wow"]}
+{"source": "beautiful", "target": "get_one", "generate": ["beautiful _hasproperty audi isa car capableof set off _hasfirstsubevent go somewhere hasprerequisite get one"]}
+{"source": "jack", "target": "almost", "generate": ["jack distinctfrom almost"]}
+{"source": "know", "target": "career", "generate": ["know _motivatedbygoal hear news hassubevent get updated _hassubevent watch evening news _causesdesire career"]}
+{"source": "excuse", "target": "start", "generate": ["excuse causesdesire have party haslastsubevent start"]}
+{"source": "last", "target": "wonderful", "generate": ["last _hasproperty caboose partof train hasproperty wonderful"]}
+{"source": "good", "target": "buck", "generate": ["good _hasproperty life _partof loss distinctfrom gain isa laundry detergent _isa buck"]}
+{"source": "bill", "target": "no_smoking", "generate": ["bill isa no smoking"]}
+{"source": "ask", "target": "card", "generate": ["ask _motivatedbygoal talk to motivatedbygoal information _usedfor card"]}
+{"source": "call", "target": "check", "generate": ["call usedfor contact _mannerof social mannerof payment _usedfor check"]}
+{"source": "anniversary", "target": "quick", "generate": ["anniversary causesdesire have party haslastsubevent wave goodbye _capableof children hasproperty quick"]}
+{"source": "buy", "target": "diving", "generate": ["buy hasprerequisite have money _hasprerequisite go for swim hassubevent drowning _causes diving"]}
+{"source": "bus", "target": "boy", "generate": ["bus _atlocation human _isa boy"]}
+{"source": "center", "target": "convenient", "generate": ["center distinctfrom edge isa top surface _isa table top hasproperty convenient"]}
+{"source": "amazing", "target": "anything", "generate": ["amazing _hasproperty humans capableof anything"]}
+{"source": "day", "target": "excited", "generate": ["day _partof hour distinctfrom minutes atlocation meeting _hassubevent hear crowd go mad motivatedbygoal excited"]}
+{"source": "believe", "target": "fantastic", "generate": ["believe _capableof stupid people _usedfor studying hasproperty fantastic"]}
+{"source": "anna", "target": "pleasure", "generate": ["anna hasproperty nuts _hasproperty harry desires sex usedfor pleasure"]}
+{"source": "minute", "target": "sure", "generate": ["minute distinctfrom year isa time _isa archeology _usedfor cave usedfor archeology hasproperty sure"]}
+{"source": "hey", "target": "oh", "generate": ["hey hasproperty word _isa oh"]}
+{"source": "nationality", "target": "domicile", "generate": ["nationality similarto domicile"]}
+{"source": "know", "target": "know", "generate": ["know distinctfrom ignorance causesdesire understand better motivatedbygoal know"]}
+{"source": "favorite", "target": "baseball", "generate": ["favorite _hasproperty everyone hasa body _mannerof baseball"]}
+{"source": "sport", "target": "golf", "generate": ["sport _isa golf"]}
+{"source": "hello", "target": "dear", "generate": ["hello distinctfrom bye _haslastsubevent check vital signs hasprerequisite listen to heart _hasprerequisite serve justice motivatedbygoal dear"]}
+{"source": "at_last", "target": "give", "generate": ["at_last isa single _isa what goes around comes around _motivatedbygoal help haslastsubevent say welcome _haslastsubevent give"]}
+{"source": "go", "target": "thank", "generate": ["go _hasprerequisite go to store haslastsubevent thank"]}
+{"source": "drink", "target": "drink", "generate": ["drink hasprerequisite drink"]}
+{"source": "interesting", "target": "die", "generate": ["interesting _motivatedbygoal examine thing haslastsubevent sleep _haslastsubevent die"]}
+{"source": "family", "target": "fly", "generate": ["family _partof everybody desires cat capableof fly"]}
+{"source": "find", "target": "enjoy", "generate": ["find _hasprerequisite enjoy company of friends motivatedbygoal enjoy"]}
+{"source": "come", "target": "time", "generate": ["come distinctfrom leave _haslastsubevent attend classical concert hassubevent listening to classical music _causes attending classical concert hasprerequisite time"]}
+{"source": "letter", "target": "hear", "generate": ["letter usedfor send to _motivatedbygoal read letter motivatedbygoal hear"]}
+{"source": "quiet", "target": "later", "generate": ["quiet distinctfrom later"]}
+{"source": "bag", "target": "go", "generate": ["bag usedfor carrying groceries isa transport _isa go"]}
+{"source": "afraid", "target": "hear", "generate": ["afraid _hassubevent frightened _motivatedbygoal run away _hasfirstsubevent hear crowd go mad hasfirstsubevent listen haspre"]}
+{"source": "clinton", "target": "bad", "generate": ["clinton hasproperty dishonest _hasproperty many people hasproperty bad"]}
+{"source": "board", "target": "agree", "generate": ["board usedfor playing games causesdesire reach tentative agreement motivatedbygoal agreement"]}
+{"source": "morning", "target": "much", "generate": ["morning distinctfrom much"]}
+{"source": "dinner", "target": "nice", "generate": ["dinner hasproperty nice"]}
+{"source": "hey", "target": "let", "generate": ["hey hasproperty word _isa let"]}
+{"source": "jim", "target": "in_new_york", "generate": ["jim desires sex _desires harry isa in new york"]}
+{"source": "big", "target": "go", "generate": ["big _hasproperty department store usedfor browsing _usedfor going to mall hassubevent go"]}
+{"source": "dump", "target": "cheer", "generate": ["dump _hasprerequisite stop being married to hassubevent get divorced _hassubevent stopping being married to causes happiness _causes cheer"]}
+{"source": "happy", "target": "certainly", "generate": ["happy _hasproperty may cry when isa yes similarto certainly"]}
+{"source": "around", "target": "cruel", "generate": ["around distinctfrom square _hasproperty world hasproperty cruel"]}
+{"source": "exercise", "target": "drink", "generate": ["exercise hassubevent drink"]}
+{"source": "last", "target": "wonderful", "generate": ["last _hasproperty caboose partof train _hasprerequisite play sport motivatedbygoal wonderful"]}
+{"source": "clothing", "target": "day", "generate": ["clothing _atlocation woolen fabric usedfor days capableof rain cats and dogs similarto day"]}
+{"source": "walk", "target": "build", "generate": ["walk hasprerequisite use leg muscles _hasprerequisite stand up _causesdesire fire distinctfrom build"]}
+{"source": "at_home", "target": "find", "generate": ["at_home _hasprerequisite get drunk _motivatedbygoal hit bottle hasprerequisite destroy distinctfrom find"]}
+{"source": "marry", "target": "right", "generate": ["marry _motivatedbygoal propose to woman motivatedbygoal commitment isa intentional mental state _isa knowing distinctfrom right"]}
+{"source": "think", "target": "give", "generate": ["think _hasprerequisite give gift hasprerequisite decide what to buy _hasfirstsubevent buy small motivatedbygoal give"]}
+{"source": "flashlight", "target": "hope", "generate": ["flashlight usedfor illumination _causes lightening isa electricity atlocation church _atlocation hope"]}
+{"source": "class", "target": "different", "generate": ["class hasproperty different"]}
+{"source": "everywhere", "target": "lovely", "generate": ["everywhere distinctfrom nowhere _atlocation mammoth atlocation painting causes lovely"]}
+{"source": "always", "target": "tell", "generate": ["always distinctfrom ever _usedfor diamond usedfor show _atlocation tell"]}
+{"source": "guy", "target": "good", "generate": ["guy capableof go to hell _hassubevent lie hasproperty good"]}
+{"source": "sorry", "target": "also", "generate": ["sorry _haslastsubevent punish motivatedbygoal vengeance isa album _isa also"]}
+{"source": "wrong", "target": "good", "generate": ["wrong _hasproperty everyone desires good"]}
+{"source": "around", "target": "fall", "generate": ["around distinctfrom square _hasproperty tennis balls usedfor play tennis hassubevent break arm _hassubevent fall"]}
+{"source": "china", "target": "oh", "generate": ["china _atlocation hump isa o oh"]}
+{"source": "college", "target": "impressive", "generate": ["college hasproperty educational _hasproperty web hasproperty impressive"]}
+{"source": "computer", "target": "computer", "generate": ["computer capableof calculate _capableof computer"]}
+{"source": "go", "target": "cool", "generate": ["go isa move distinctfrom rest motivatedbygoal cool"]}
+{"source": "excuse", "target": "thank", "generate": ["excuse causesdesire have party haslastsubevent give thanks _hasfirstsubevent thank"]}
+{"source": "eggplant", "target": "oh", "generate": ["eggplant hasproperty purple isa colour of rainbow _isa oh"]}
+{"source": "dollar", "target": "deal", "generate": ["dollar distinctfrom quarter partof currency system _partof penny usedfor buying hassubevent deal"]}
+{"source": "go", "target": "right", "generate": ["go isa move distinctfrom stay _isa stay _motivatedbygoal stand in queue motivatedbygoal right"]}
+{"source": "back", "target": "hero", "generate": ["back _atlocation tail _hasa batman isa superhero _isa hero"]}
+{"source": "believe", "target": "yet", "generate": ["believe _capableof yet"]}
+{"source": "back", "target": "boy", "generate": ["back _hasa arm usedfor lift car _capableof child _isa girl distinctfrom boy"]}
+{"source": "hobby", "target": "imagine", "generate": ["hobby _isa needlepoint usedfor decorate _hassubevent create art hasprerequisite imagine"]}
+{"source": "jenny", "target": "another", "generate": ["jenny isa donkey _isa jenny capableof dress herself _capableof another"]}
+{"source": "day", "target": "pack", "generate": ["day _isa friday _motivatedbygoal splurge motivatedbygoal weak _usedfor map atlocation backpack _atlocation pack"]}
