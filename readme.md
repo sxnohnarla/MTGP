@@ -1,4 +1,4 @@
-# MTGP: Multi-turn Target-oriented Dialogue Guided by Generative Global Path=
+# MTGP: Multi-turn Target-oriented Dialogue Guided by Generative Global Path
 
 ## Prerequisites
 
